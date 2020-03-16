@@ -28,11 +28,11 @@ collections: # A list of collections the CMS should be able to edit
           - {label: "Blurb", name: blurb, widget: object, fields: [
               {label: "Heading", name: "heading", widget: string},
               {label: "Text", name: "text", widget: "text"}]}
-          - {label: "Intro", name: intro, widget: object, fields: [
+          - {label: "Worship Intro", name: worshipintro, widget: object, fields: [
               {label: "Heading", name: "heading", widget: string},
               {label: "Text", name: "text", widget: "text"}]}
           - {label: "Worship Videos", name: worshipvideos, widget: list, fields: [
-              {label: "Youtube link", name: "video", widget:"text"},
+              {label: "Youtube video ID", name: "video", widget:"text"},
               {label: "Title", name: "title", widget:"text"}]}
       - file: "site/content/contact/_index.md"
         label: "Contact Page"

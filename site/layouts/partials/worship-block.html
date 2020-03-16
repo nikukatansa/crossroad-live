@@ -1,22 +1,22 @@
 <div class="bg-off-white pv4">
   <div class="ph3 mw7 center">
-    <h2 class="f2 b lh-title mb2">{{.worship.heading}}</h2>
-    <p class="mb4 mw6">{{.worship.text}}</p>
+    <h2 class="f2 b lh-title mb2">{{.worshipintro.heading}}</h2>
+    <p class="mb4 mw6">{{.worshipintro.text}}</p>
 
     <div class="flex-ns">
       {{ range .worshipvideos }}
       <div class="">
         <div
-          style="position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;"
-        >
+          style="position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;">
           <iframe
-            src="{{.video}}"
-            style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
-            allowfullscreen
-            frameborder="0"
-            title="{{.title}}"
+          src="//www.youtube.com/embed/{{.video}}"
+          style=""
+          allowfullscreen
+          frameborder="0"
+          title="{{.title}}"
           ></iframe>
         </div>
+        <!-- </div> -->
         {{ end }}
       </div>
     </div>
