@@ -3,17 +3,12 @@ title: Crossroad Live
 subtitle: Online Sunday worship
 image: /img/home-jumbotron.jpg
 blurb:
-  heading: Why Kaldi?
-  text: >-
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+  heading: Welcome!
+  text: Let's explain what this page is and how to use it...
 intro:
-  heading: What we offer
-  text: >-
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone.
+  heading: Call to Worship
+  text: A reading from the Bible goes here!
+worshipvideos:
+  - video: 'https://youtu.be/0B_lnQIITxU'
+    title: Do it again
 ---
