@@ -13,4 +13,12 @@ worshipvideos:
     title: Do it again
   - video: 'iJCV_2H9xD0'
     title: Way Maker
+sermon:
+  video: 'D_Xa7cNeoL8'
+  title: Sermon title
+notices:
+  - title: Prayer support
+    details: If you have a message to go on the prayer chain, please contact Jon and Louise
+  - title: Number One
+    details: There are no events currently happening at Number One.
 ---
