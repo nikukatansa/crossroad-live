@@ -16,19 +16,25 @@ notices:
 worshipintro:
   heading: Draw Near
   text: >-
-    Introduce the time of sung worship, encourage people to play videos full
-    screen
+    Here we can introduce the time of sung worship and encourage people to play
+    videos full screen.  These are the songs we sang on 15th March.
 worshipvideos:
-  - video: 0B_lnQIITxU
-    title: Do it again
-  - video: iJCV_2H9xD0
-    title: Way Maker
-  - video: G2XtRuPfaAU
-    title: Raise a hallelujah
+  - video: gUH_NzfRmbs
+    title: Give thanks to the Lord (Forever)
+  - video: M3z5Mwoj_9Y
+    title: This is amazing grace
+  - video: r5L6QlAH3L4
+    title: What a beautiful Name it is
+  - title: No longer slaves
+    video: f8TkUMJtK5k
+  - title: Build my life
+    video: BGYpF-Jrfew
 sermon:
   video: D_Xa7cNeoL8
   title: Sermon title
-  intro: This week we're looking at Acts 2.  Please read through the chapter and then play Jon's message
+  intro: >-
+    This week we're looking at Acts 2.  Please read through the chapter and then
+    play Jon's message
 blessing:
   heading: Benediction
   text: >-
