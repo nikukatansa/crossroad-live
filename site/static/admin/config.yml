@@ -40,6 +40,7 @@ collections: # A list of collections the CMS should be able to edit
               {label: "Title", name: "title", widget: string}]}
           - {label: "Message", name: sermon, widget: object, fields: [
               {label: "Title", name: "title", widget: string},
+              {label: "Details", name: "intro", widget: "text"},
               {label: "Youtube video ID", name: "video", widget: string}]}
           - {label: "Blessing", name: blessing, widget: object, fields: [
               {label: "Heading", name: "heading", widget: string},
