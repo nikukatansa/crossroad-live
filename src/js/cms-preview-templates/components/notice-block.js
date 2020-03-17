@@ -21,12 +21,12 @@ export default class NoticeBlock extends React.Component {
               </div>
             </div>
           </div>
-          {notices.map((notice, i) => (
+          {/* {notices.map((notice, i) => (
             <div class="" key={i}>
               <h3 class="b">{notice.get(title)}</h3>
               <p class="mw-100">{notice.get(details)}</p>
             </div>
-          ))}
+          ))} */}
         </div>
       </div>
     );
