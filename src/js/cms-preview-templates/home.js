@@ -24,7 +24,34 @@ export default class PostPreview extends React.Component {
           </div>
         </div>
 
-        {/* <NoticeBlock welcomevideo={entry.getIn(["data", "welcomevideo"])} notices={entry.getIn(["data", "notices"])}/> */}
+        <div class="bg-off-white pv4">
+          <div class="ph3 mw7 center">
+            <h2 class="f2 b lh-title mb2">Notices</h2>
+            <div class="flex-ns">
+              <div style="width:100%;">
+                <div style="position: relative; padding-bottom: 56.25%; margin-bottom: 30px; height: 0; overflow: hidden; max-width:100%">
+                  <div style="position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;">
+                    <iframe
+                      src={`//www.youtube.com/embed/${entry.getIn(["data", "welcomevideo"])}`}
+                      style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+                      allowfullscreen
+                      frameborder="0"
+                    ></iframe>
+                  </div>
+                </div>
+              </div>
+            </div>
+            {(entry.getIn(["data", "notices"]) || []).map((notice, i) => <div className="" key={i}>
+                <h3 class="b">{notice.get("title")}</h3>
+                <p class="mw-100">{notice.get("details")}</p>
+              </div>)}
+          </div>
+        </div>
+
+
+
+
+
 
         <div className="bg-off-white pv4">
           <div className="ph3 mw7 center">
