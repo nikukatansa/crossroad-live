@@ -32,7 +32,8 @@ export default class PostPreview extends React.Component {
                 <div style="position: relative; padding-bottom: 56.25%; margin-bottom: 30px; height: 0; overflow: hidden; max-width:100%">
                   <div style="position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;">
                     <iframe
-                      src={`//www.youtube.com/embed/${entry.getIn(["data", "welcomevideo"])}`}
+                      // src={`//www.youtube.com/embed/${entry.getIn(["data", "welcomevideo"])}`}
+                      src=""
                       style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
                       allowfullscreen
                       frameborder="0"
