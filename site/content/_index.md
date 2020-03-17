@@ -22,6 +22,7 @@ worshipvideos:
 sermon:
   video: 'D_Xa7cNeoL8'
   title: Sermon title
+  intro: This week we're looking at Acts 2.  Please read through the chapter and then play Jon's message
 blessing:
   heading: Benediction
   text: The Lord bless you and keep you; the Lord make his face to shine upon you and be gracious to you; the Lord lift up his countenance upon you and give you peace.
