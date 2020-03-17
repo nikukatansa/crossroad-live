@@ -30,17 +30,17 @@ collections: # A list of collections the CMS should be able to edit
               {label: "Text", name: "text", widget: "text"}]}
           - {label: "Welcome Video", name: "welcomevideo", widget: string}
           - {label: "Notices", name: notices, widget: list, fields: [
-              {label: "Title", name: "title", widget: "text",
+              {label: "Title", name: "title", widget: string,
               {label: "Details", name: "details", widget: "text"}}]}
           - {label: "Worship Intro", name: worshipintro, widget: object, fields: [
               {label: "Heading", name: "heading", widget: string},
               {label: "Text", name: "text", widget: "text"}]}
           - {label: "Worship Videos", name: worshipvideos, widget: list, fields: [
-              {label: "Youtube video ID", name: "video", widget: "text"},
-              {label: "Title", name: "title", widget: "text"}]}
+              {label: "Youtube video ID", name: "video", widget: string},
+              {label: "Title", name: "title", widget: string}]}
           - {label: "Message", name: sermon, widget: object, fields: [
-              {label: "Title", name: "title", widget: "text"},
-              {label: "Youtube video ID", name: "video", widget: "text"}]}
+              {label: "Title", name: "title", widget: string},
+              {label: "Youtube video ID", name: "video", widget: string}]}
           - {label: "Blessing", name: blessing, widget: object, fields: [
               {label: "Heading", name: "heading", widget: string},
               {label: "Text", name: "text", widget: "text"}]}
