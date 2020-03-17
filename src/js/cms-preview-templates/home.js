@@ -24,7 +24,7 @@ export default class PostPreview extends React.Component {
           </div>
         </div>
 
-        <NoticeBlock welcomevideo={entry.getIn(["data", "welcomevideo"])} notices={entry.getIn(["data", "notices"])}/>
+        {/* <NoticeBlock welcomevideo={entry.getIn(["data", "welcomevideo"])} notices={entry.getIn(["data", "notices"])}/> */}
 
         <div className="bg-off-white pv4">
           <div className="ph3 mw7 center">
