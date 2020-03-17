@@ -3,8 +3,7 @@ import React from "react";
 export default class NoticeBlock extends React.Component {
   render() {
     const { welcomevideo, notices } = this.props;
-    return (
-      <div class="bg-off-white pv4">
+    return <div class="bg-off-white pv4">
         <div class="ph3 mw7 center">
           <h2 class="f2 b lh-title mb2">Notices</h2>
           <div class="flex-ns">
@@ -29,6 +28,5 @@ export default class NoticeBlock extends React.Component {
           ))} */}
         </div>
       </div>
-    );
   }
 }
