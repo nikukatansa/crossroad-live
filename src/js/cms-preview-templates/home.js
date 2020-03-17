@@ -53,7 +53,8 @@ export default class PostPreview extends React.Component {
             <p className="mb4 mw-100">{entry.getIn(["data", "worshipintro", "text"])}</p>
 
             <div className="flex-ns">
-              {(entry.getIn(["data", "worshipvideos"]) || []).map((vid, i) => <div key={i} style={{width:'100%'}}>
+              <div key={i} style={{width:'100%'}}>
+              {(entry.getIn(["data", "worshipvideos"]) || []).map((vid, i) => 
                 <div style={{position: 'relative', paddingBottom: '56.25%', marginBottom: '30px', height: '0', overflow: 'hidden', maxWidth: '100%'}}>
                   <iframe
                   src={`//www.youtube.com/embed/${vid.get("video")}`}
@@ -62,8 +63,8 @@ export default class PostPreview extends React.Component {
                   frameborder="0"
                   title={`${vid.get("title")}`}
                   ></iframe>
-                </div>
-              </div>)}
+                </div>)}
+              </div>
             </div>
           </div>
         </div>
