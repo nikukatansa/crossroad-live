@@ -5,7 +5,7 @@ image: /img/seaton.jpg
 blurb:
   heading: Welcome!
   text: Let's explain what this page is and how to use it...
-welcomevideo: uNjxe8ShM-8
+welcomevideo: Fg-q7QO3Vrw
 notices:
   - title: Prayer support
     details: >-
