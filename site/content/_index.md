@@ -8,12 +8,8 @@ blurb:
     Welcome to our online service for this week.  We pray that this will be an
     encouragement to you during these uncertain times and will help you to focus
     on our unchanging God. 
-welcomevideo: Fg-q7QO3Vrw
-notices:
-  - title: Prayer support
-    details: >-
-      If you have a message to go on the prayer chain, please contact Jon and
-      Louise
+welcomevideo: l8J9XbhU6_g
+notices: []
 worshipintro:
   heading: Draw Near
   text: >-
@@ -33,8 +29,8 @@ sermon:
   video: D_Xa7cNeoL8
   title: God of love
   intro: >-
-    This week Jon continues our series on the character of God by exploring what
-    it means for God to be a loving God.
+    Jon continues our series on the character of God by exploring what it means
+    for God to be a loving God.
 blessing:
   heading: Benediction
   text: >-
