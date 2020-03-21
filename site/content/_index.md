@@ -1,40 +1,40 @@
 ---
-title: Crossroad Live
-subtitle: Online Sunday worship
+title: Crossroad Online
+subtitle: Sunday worship - 22nd March 2020
 image: /img/seaton.jpg
 blurb:
   heading: Welcome!
-  text: Let's explain what this page is and how to use it...
-welcomevideo: uNjxe8ShM-8
+  text: >-
+    Welcome to our online service for this week.  We pray that this will be an
+    encouragement to you during these uncertain times and will help you to focus
+    on our unchanging God. 
+welcomevideo: Fg-q7QO3Vrw
 notices:
   - title: Prayer support
     details: >-
       If you have a message to go on the prayer chain, please contact Jon and
       Louise
-  - title: Number One
-    details: There are no events currently happening at Number One.
 worshipintro:
   heading: Draw Near
   text: >-
-    Here we can introduce the time of sung worship and encourage people to play
-    videos full screen.  These are the songs we sang on 15th March.
+    Let's spend some time worshipping God in song.  Please play the videos and
+    join in with the lyrics that will be on screen.  Why not also spend some
+    time in prayer before moving on to the message?
 worshipvideos:
-  - video: gUH_NzfRmbs
-    title: Give thanks to the Lord (Forever)
-  - video: M3z5Mwoj_9Y
-    title: This is amazing grace
-  - video: r5L6QlAH3L4
-    title: What a beautiful Name it is
-  - title: No longer slaves
-    video: f8TkUMJtK5k
-  - title: Build my life
-    video: BGYpF-Jrfew
+  - video: _hmfqe_8SEI
+    title: Love divine
+  - title: Can't stop Your love
+    video: 1PIBGxNhoqQ
+  - video: '-pHY4nZb-Vg'
+    title: We bow our hearts
+  - video: 9_LyUSoSX84
+    title: Cornerstone
 sermon:
   video: D_Xa7cNeoL8
-  title: Sermon title
+  title: God of love
   intro: >-
-    This week we're looking at Acts 2.  Please read through the chapter and then
-    play Jon's message
+    This week Jon continues our series on the character of God by exploring what
+    it means for God to be a loving God.
 blessing:
   heading: Benediction
   text: >-
