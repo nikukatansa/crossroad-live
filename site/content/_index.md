@@ -26,11 +26,11 @@ worshipvideos:
   - video: 9_LyUSoSX84
     title: Cornerstone
 sermon:
-  video: D_Xa7cNeoL8
+  video: wpBVK_-34Bg
   title: God of love
   intro: >-
-    Jon continues our series on the character of God by exploring what it means
-    for God to be a loving God.
+    We continue our series on the character of God by exploring what it means
+    for God to be the God of love.
 blessing:
   heading: Benediction
   text: >-
