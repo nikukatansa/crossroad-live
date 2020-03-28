@@ -1,6 +1,6 @@
 ---
 title: Crossroad Online
-subtitle: Sunday worship - 22nd March 2020
+subtitle: Sunday worship - 29th March 2020
 image: /img/seaton.jpg
 blurb:
   heading: Welcome!
@@ -8,7 +8,7 @@ blurb:
     Welcome to our online service for this week.  We pray that this will be an
     encouragement to you during these uncertain times and will help you to focus
     on our unchanging God. 
-welcomevideo: l8J9XbhU6_g
+welcomevideo: yFYTBvdDlSg
 notices: []
 worshipintro:
   heading: Draw Near
@@ -17,20 +17,21 @@ worshipintro:
     join in with the lyrics that will be on screen.  Why not also spend some
     time in prayer before moving on to the message?
 worshipvideos:
-  - video: _hmfqe_8SEI
-    title: Love divine
-  - title: Can't stop Your love
-    video: 1PIBGxNhoqQ
-  - video: '-pHY4nZb-Vg'
-    title: We bow our hearts
-  - video: 9_LyUSoSX84
-    title: Cornerstone
+  - video: gUH_NzfRmbs
+    title: Give thanks to the Lord (Forever)
+  - title: Living hope
+    video: 9l7lIisdyMk
+  - video: r5L6QlAH3L4
+    title: What a beautiful Name
+  - video: FhvXOIVsRv4
+    title: When I survey
 sermon:
-  video: wpBVK_-34Bg
-  title: God of love
+  video: nvUbwVPvvv0
+  title: Holy God
   intro: >-
-    We continue our series on the character of God by exploring what it means
-    for God to be the God of love.
+    We're going to share communion together and then continue our series looking
+    at the character of God.  Today Jon will be exploring what it means for God
+    to be a holy God.
 blessing:
   heading: Benediction
   text: >-
