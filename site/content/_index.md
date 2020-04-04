@@ -1,6 +1,6 @@
 ---
 title: Crossroad Online
-subtitle: Sunday worship - 29th March 2020
+subtitle: Sunday worship - 5th April 2020
 image: /img/seaton.jpg
 blurb:
   heading: Welcome!
@@ -8,7 +8,7 @@ blurb:
     Welcome to our online service for this week.  We pray that this will be an
     encouragement to you during these uncertain times and will help you to focus
     on our unchanging God. 
-welcomevideo: yFYTBvdDlSg
+welcomevideo: j_x7Sb1jRjQ
 notices: []
 worshipintro:
   heading: Draw Near
@@ -17,25 +17,25 @@ worshipintro:
     join in with the lyrics that will be on screen.  Why not also spend some
     time in prayer before moving on to the message?
 worshipvideos:
-  - video: gUH_NzfRmbs
-    title: Give thanks to the Lord (Forever)
-  - title: Living hope
-    video: 9l7lIisdyMk
-  - video: r5L6QlAH3L4
-    title: What a beautiful Name
-  - video: FhvXOIVsRv4
-    title: When I survey
+  - title: Here for You
+    video: dtj-G1gKnD8
+  - video: 7_dtbmVdQY4
+    title: How great Thou art
+  - video: IcC1Bp13n_4
+    title: Who You say I am
+  - video: 03G52K9X2hQ
+    title: Light of the world
 sermon:
-  video: nvUbwVPvvv0
-  title: Holy God
+  video: vsd6ui4skp0
+  title: Palm Sunday
   intro: >-
-    We're going to share communion together and then continue our series looking
-    at the character of God.  Today Jon will be exploring what it means for God
-    to be a holy God.
+    It's the start of Easter week and in today's message Louise looks at the
+    events surrounding the first Palm Sunday.
 blessing:
   heading: Benediction
   text: >-
-    The Lord bless you and keep you; the Lord make his face to shine upon you
-    and be gracious to you; the Lord lift up his countenance upon you and give
-    you peace.
+    Now to Him who is able to do immeasurably more than all we ask or imagine,
+    according to His power that is at work within us, to Him be glory in the
+    church and in Christ Jesus throughout all generations, for ever and ever!
+    Amen.
 ---
