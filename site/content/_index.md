@@ -1,6 +1,6 @@
 ---
 title: Crossroad Online
-subtitle: Sunday worship - 5th April 2020
+subtitle: Sunday worship - 12th April 2020
 image: /img/seaton.jpg
 blurb:
   heading: Welcome!
@@ -8,7 +8,7 @@ blurb:
     Welcome to our online service for this week.  We pray that this will be an
     encouragement to you during these uncertain times and will help you to focus
     on our unchanging God. 
-welcomevideo: j_x7Sb1jRjQ
+welcomevideo: 8kYfrGK4Zl0
 notices: []
 worshipintro:
   heading: Draw Near
@@ -17,25 +17,26 @@ worshipintro:
     join in with the lyrics that will be on screen.  Why not also spend some
     time in prayer before moving on to the message?
 worshipvideos:
-  - title: Here for You
-    video: dtj-G1gKnD8
-  - video: 7_dtbmVdQY4
-    title: How great Thou art
-  - video: IcC1Bp13n_4
-    title: Who You say I am
-  - video: 03G52K9X2hQ
-    title: Light of the world
+  - title: Thine be the glory
+    video: DRWhlKcJw9U
+  - video: M3z5Mwoj_9Y
+    title: This is amazing grace
+  - video: aDQeREdlw_4
+    title: You alone can rescue
+  - video: LqBpifDpNKc
+    title: O praise the Name
 sermon:
-  video: vsd6ui4skp0
-  title: Palm Sunday
+  video: uZF-VXRhqA0
+  title: Easter Sunday
   intro: >-
-    It's the start of Easter week and in today's message Louise looks at the
-    events surrounding the first Palm Sunday.
+    Happy Easter!  In this week's message Jon reflects on the events of the
+    first Easter and their significance to us today.
 blessing:
   heading: Benediction
   text: >-
-    Now to Him who is able to do immeasurably more than all we ask or imagine,
-    according to His power that is at work within us, to Him be glory in the
-    church and in Christ Jesus throughout all generations, for ever and ever!
-    Amen.
+    Now may the God of peace, who through the blood of the eternal covenant
+    brought back from the dead our Lord Jesus, that great Shepherd of the sheep,
+    equip you with everything good for doing His will, and may He work in us
+    what is pleasing to Him, through Jesus Christ, to whom be glory for ever and
+    ever. Amen.
 ---
