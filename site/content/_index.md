@@ -25,6 +25,12 @@ worshipvideos:
     title: Mighty to save
   - video: 3SZnQfALk8U
     title: No longer slaves
+sundayschool:
+  intro: >-
+    Thanks to St Austell Light & Life Church for letting us use their Sunday School resources.
+    There are craft ideas and other resources available if you open the video below on Youtube
+    and look in the video description.
+  video: KCfhiw3hY_I
 sermon:
   video: RCagiFZBh1M
   title: New address

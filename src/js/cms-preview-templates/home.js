@@ -71,6 +71,25 @@ export default class PostPreview extends React.Component {
 
         <div className="bg-off-white pv4">
           <div className="ph3 mw7 center">
+            <h2 className="f2 b lh-title mb2">Sunday School</h2>
+            <p className="mb4 mw6">{entry.getIn(["data", "sundayschool", "intro"])}</p>
+            <div className="flex-ns">
+              <div style={{width:'100%'}}>
+                <div style={{position: 'relative', paddingBottom: '56.25%', marginBottom: '30px', height: '0', overflow: 'hidden', maxWidth: '100%'}}>
+                  <iframe
+                    src={`//www.youtube.com/embed/${entry.getIn(["data", "sundayschool", "video"])}`}
+                    style={{position: 'absolute', top: '0', left: '0', width: '100%', height: '100%'}}
+                    allowfullscreen
+                    frameborder="0"
+                  ></iframe>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div className="bg-off-white pv4">
+          <div className="ph3 mw7 center">
             <h2 className="f2 b lh-title mb2">This week's message</h2>
             <p className="mb4 mw6">{entry.getIn(["data", "sermon", "intro"])}</p>
             <div className="flex-ns">

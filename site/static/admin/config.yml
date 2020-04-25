@@ -38,6 +38,9 @@ collections: # A list of collections the CMS should be able to edit
           - {label: "Worship Videos", name: worshipvideos, widget: list, fields: [
               {label: "Youtube video ID", name: "video", widget: string},
               {label: "Title", name: "title", widget: string}]}
+          - {label: "Sunday School", name: sundayschool, widget: object, fields: [
+              {label: "Intro", name: "intro", widget: "text"},
+              {label: "Youtube video ID", name: "video", widget: string}]}
           - {label: "Message", name: sermon, widget: object, fields: [
               {label: "Title", name: "title", widget: string},
               {label: "Details", name: "intro", widget: "text"},
