@@ -1,6 +1,6 @@
 ---
 title: Crossroad Online
-subtitle: Sunday worship - 19th April 2020
+subtitle: Sunday worship - 26th April 2020
 image: /img/seaton.jpg
 blurb:
   heading: Welcome!
@@ -8,7 +8,7 @@ blurb:
     Welcome to our online service for this week.  We pray that this will be an
     encouragement to you during these uncertain times and will help you to focus
     on our unchanging God. 
-welcomevideo: qe6z-IRIaY8
+welcomevideo: 9YkL7DkaIZ0
 notices: []
 worshipintro:
   heading: Draw Near
@@ -17,27 +17,27 @@ worshipintro:
     join in with the lyrics that will be on screen.  Why not also spend some
     time in prayer before moving on to the message?
 worshipvideos:
-  - title: Build Your kingdom here
-    video: YcSWpVKKMcs
-  - video: VMBDWG9tseU
-    title: Praise is rising
-  - video: '-HLVnPjbSaI'
-    title: Mighty to save
-  - video: 3SZnQfALk8U
-    title: No longer slaves
+  - title: And can it be
+    video: Tu2uA6U4Fxg
+  - video: nuudVoMyZyE
+    title: Strength will rise
+  - video: y5VutCGsVXE
+    title: 'King of kings, majesty'
+  - video: OpfuKKH_SCE
+    title: O come to the altar
 sundayschool:
   intro: >-
-    Thanks to St Austell Light & Life Church for letting us use their Sunday School resources.
-    There are craft ideas and other resources available if you open the video below on Youtube
-    and look in the video description.
+    Thanks to St Austell Light & Life Church for letting us share their Sunday
+    School resources. There are craft ideas and other resources available if you
+    open the video below on Youtube and look in the video description.
   video: KCfhiw3hY_I
 sermon:
-  video: RCagiFZBh1M
-  title: New address
+  video: mTN9Q3FaXJM
+  title: New wardrobe
   intro: >-
-    We're starting a series looking at the new things that we have in Jesus
+    We continue our series looking at the new things that we have in Jesus
     thanks to His death and resurrection.  This week Jon talks about our new
-    home and our new address.
+    wardrobe.
 blessing:
   heading: Benediction
   text: >-
