@@ -14,7 +14,7 @@ export default class ContactPreview extends React.Component {
           title={entry.getIn(["data", "title"])}
           subtitle={entry.getIn(["data", "subtitle"])}
         />
-        <div class="ph3 bg-off-white">
+        <div className="ph3 bg-off-white">
           <div className="center mw6 pv3">
             <h3 className="f3 b lh-title mb2 primary">Ask for prayer</h3>
             <p className="f6 mw-100 i">{entry.getIn(["data", "intro"])}</p>
