@@ -1,0 +1,55 @@
+{{ define "main" }}
+
+{{ partial "jumbotron" (dict "imageUrl" .Params.image "title" .Title "subtitle" .Params.subtitle) }}
+
+<div class="ph3 bg-off-white">
+  <div class="center mw6 pv3">
+    <h3 class="f3 b lh-title mb2 primary">Ask for prayer</h3>
+    <p class="f6 mw-100 i">
+      We'd love to pray for you and your family. Simply fill out this form with
+      your prayer request and click 'Send' when you're done. If you would like
+      to talk to someone from Crossroad, please enter an email address or
+      phone number in the box below, but this is completely optional.
+    </p>
+    <form
+      name="prayer-request"
+      action="https://docs.google.com/forms/u/2/d/e/1FAIpQLScBzP0MwN9wAF38lm0pVwTgW4WkpvJFxTJMHv5h0Ju7Qxyqhw/formResponse"
+    >
+      <input
+        name="entry.122909103"
+        class="w-100 mb2 f6"
+        id="name_input"
+        type="text"
+        placeholder="Your name"
+        required
+      />
+      <input
+        name="entry.1499548866"
+        class="w-100 mb2 f6"
+        id="contact_input"
+        type="text"
+        placeholder="Please email/phone me using these details (optional)"
+      />
+      <textarea
+        name="entry.977477598"
+        class="w-100 mb2 f6"
+        id="request_textarea"
+        type="text"
+        placeholder="Your prayer request"
+        required
+      ></textarea>
+      <input class="bg-primary white b mb2" style="cursor:pointer" type="submit" value="Send" />
+    </form>
+    {{ if gt (len .Params.situations) 0 }}
+    <h3 class="f3 b lh-title mb2 mt2 primary">Prayers for different situations</h3>
+    {{ range .Params.situations }}
+    <div class="">
+      <h4 class="f4 b">{{.title}}</h4>
+      <p class="f6 mw-100 i">{{.bible}}</p>
+      <p class="f6 mw-100">{{.prayer}}</p>
+    </div>
+    {{ end }} {{ end }}
+  </div>
+</div>
+
+{{ end }}

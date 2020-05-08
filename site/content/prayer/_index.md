@@ -1,19 +1,19 @@
 ---
-title: "Contact"
-logo: "/img/logo.svg"
-contact_entries:
-  - heading: Location
-    text: "3153 Lynn Avenue, South San Francisco, California 94080"
-  - heading: Working hours
-    text: "Monday – Saturday: 9AM – 7PM We’re closed on Sundays"
+title: "Crossroad Online"
+subtitle: "Prayer resources"
+image: /img/seaton.jpg
+situations:
+  - title: "Anxiety"
+    bible: >-
+      Cast all your anxiety on him because he cares for you (1 Peter 5:7)
+    prayer: >-
+      Insert text of prayer here
+  - title: "Fear"
+    bible: >-
+      So do not fear, for I am with you; do not be dismayed, for I am your
+      God. I will strengthen you and help you; I will uphold you with my
+      righteous right hand (Isaiah 41:10)
+    prayer: >-
+      Insert text of prayer relating to fear here.
+      This can have more than one paragraph if needed.
 ---
-
-We’d love to get in touch with you and hear your ideas and
-questions. We strive to grow and improve constantly and your feedback
-is valuable for us.
-
-<h3 class="f4 b lh-title mb2">How can I get…?</h3>
-
-You can also use the form below for any inquiries about coffee
-availability, monthly subscriptions and scheduling a 1-on-1 session
-with our baristas. Don’t be shy, drop us a line!
