@@ -44,7 +44,7 @@ export default class ContactPreview extends React.Component {
               ></textarea>
               <input
                 className="bg-primary white b mb2"
-                style="cursor:pointer"
+                style={{cursor:'pointer'}}
                 type="submit"
                 value="Send"
               />
