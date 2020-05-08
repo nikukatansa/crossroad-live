@@ -5,12 +5,7 @@
 <div class="ph3 bg-off-white">
   <div class="center mw6 pv3">
     <h3 class="f3 b lh-title mb2 primary">Ask for prayer</h3>
-    <p class="f6 mw-100 i">
-      We'd love to pray for you and your family. Simply fill out this form with
-      your prayer request and click 'Send' when you're done. If you would like
-      to talk to someone from Crossroad, please enter an email address or
-      phone number in the box below, but this is completely optional.
-    </p>
+    <p class="f6 mw-100 i">{{.Params.intro}}</p>
     <form
       name="prayer-request"
       action="https://docs.google.com/forms/u/2/d/e/1FAIpQLScBzP0MwN9wAF38lm0pVwTgW4WkpvJFxTJMHv5h0Ju7Qxyqhw/formResponse"
@@ -45,7 +40,9 @@
     {{ range .Params.situations }}
     <div class="">
       <h4 class="f4 b">{{.title}}</h4>
-      <p class="f6 mw-100 i">{{.bible}}</p>
+      {{ if gt (len .bible) 0 }}
+        <p class="f6 mw-100 i">{{.bible}}</p>
+      {{ end }}
       <p class="f6 mw-100">{{.prayer}}</p>
     </div>
     {{ end }} {{ end }}

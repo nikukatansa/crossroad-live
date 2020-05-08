@@ -1,51 +1,69 @@
 import React from "react";
 
-const ContactEntry = ({ heading, text }) => (
-  <div>
-    <h4 className="f4 b lh-title mb2 primary">{heading}</h4>
-    <p>{text}</p>
-  </div>
-);
-
-const ContactEntries = ({ data }) =>
-  data && data.length > 0 ? (
-    <div className="flex-ns mb3">
-      {data.map(({ heading, text }) => (
-        <ContactEntry heading={heading} text={text} />
-      ))}
-    </div>
-  ) : (
-    ""
-  );
+import Jumbotron from "./components/jumbotron";
 
 export default class ContactPreview extends React.Component {
   render() {
-    const { entry, getAsset, widgetFor } = this.props;
-    const entryContactEntries = entry.getIn(["data", "contact_entries"]);
-    const contactEntries = entryContactEntries
-      ? entryContactEntries.toJS()
-      : [];
+    const { entry, getAsset } = this.props;
+    let image = getAsset(entry.getIn(["data", "image"]));
+
     return (
-      <div className="ph3 bg-off-white">
-        <img
-          src={getAsset(entry.getIn(["data", "logo"]))}
-          alt=""
-          className="db w4 center pv4"
+      <div>
+        <Jumbotron
+          image={image}
+          title={entry.getIn(["data", "title"])}
+          subtitle={entry.getIn(["data", "subtitle"])}
         />
-        <div className="center mw6 pv3">
-          {widgetFor("body")}
-          <ContactEntries data={contactEntries} />
+        <div class="ph3 bg-off-white">
+          <div className="center mw6 pv3">
+            <h3 className="f3 b lh-title mb2 primary">Ask for prayer</h3>
+            <p className="f6 mw-100 i">{entry.getIn(["data", "intro"])}</p>
+            <form name="prayer-request">
+              <input
+                name="entry.122909103"
+                className="w-100 mb2 f6"
+                id="name_input"
+                type="text"
+                placeholder="Your name"
+                required
+              />
+              <input
+                name="entry.1499548866"
+                className="w-100 mb2 f6"
+                id="contact_input"
+                type="text"
+                placeholder="Please email/phone me using these details (optional)"
+              />
+              <textarea
+                name="entry.977477598"
+                className="w-100 mb2 f6"
+                id="request_textarea"
+                type="text"
+                placeholder="Your prayer request"
+                required
+              ></textarea>
+              <input
+                className="bg-primary white b mb2"
+                style="cursor:pointer"
+                type="submit"
+                value="Send"
+              />
+            </form>
+
+            {(entry.getIn(["data", "situations"]) || []) != [] && (
+              <h3 className="f3 b lh-title mb2 mt2 primary">
+                Prayers for different situations
+              </h3>
+            )}
+            {(entry.getIn(["data", "situations"]) || []).map((situation, i) => (
+              <div className="" key={i}>
+                <h4 className="f4 b">{situation.get("title")}</h4>
+                <p className="f6 mw-100 i">{situation.get("bible")}</p>
+                <p className="mw-100">{situation.get("prayer")}</p>
+              </div>
+            ))}
+          </div>
         </div>
-        <iframe
-          src="https://docs.google.com/forms/d/e/1FAIpQLScBzP0MwN9wAF38lm0pVwTgW4WkpvJFxTJMHv5h0Ju7Qxyqhw/viewform?embedded=true"
-          width="640"
-          height="809"
-          frameborder="0"
-          marginheight="0"
-          marginwidth="0"
-        >
-          Loading…
-        </iframe>
       </div>
     );
   }

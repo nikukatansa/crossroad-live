@@ -55,6 +55,7 @@ collections: # A list of collections the CMS should be able to edit
           - {label: Title, name: title, widget: string}
           - {label: Subtitle, name: subtitle, widget: string}
           - {label: Image, name: image, widget: image}
+          - {label: Intro, name: intro, widget: "text"}
           - {label: "Situations", name: situations, widget: list, fields: [
               {label: "Title", name: "title", widget: string},
               {label: "Bible verses", name: "bible", widget: "text"},
