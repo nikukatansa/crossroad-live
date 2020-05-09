@@ -1,6 +1,6 @@
 ---
 title: Crossroad Online
-subtitle: Sunday worship - 3rd May 2020
+subtitle: Sunday worship - 10th May 2020
 image: /img/seaton.jpg
 blurb:
   heading: Welcome!
@@ -17,28 +17,28 @@ worshipintro:
     join in with the lyrics that will be on screen.  Why not also spend some
     time in prayer before moving on to the message?
 worshipvideos:
-  - title: Raise a hallelujah
-    video: irHGG1CIL0g
-  - video: 9l7lIisdyMk
-    title: Living hope
-  - video: DXDGE_lRI0E
-    title: '10,000 reasons'
-  - video: H9_0jiO5ZRM
-    title: Lord I come to You
+  - title: Happy Day
+    video: R_9QiWorBaY
+  - video: RSm6fdZHl5Q
+    title: All my days
+  - video: BGYpF-Jrfew
+    title: Build my life
+  - video: gXzETuK792E
+    title: Amazing grace
 sundayschool:
   intro: >-
     Thanks to St Austell Light & Life Church for letting us share their Sunday
     School resources. There are craft ideas and other resources available for
     your children if you open the video below on Youtube and look in the video
     description.
-  video: JJRXWAYZNUo
+  video: vy1SwVOBWW4
 sermon:
-  video: SiljRDFtnUE
-  title: New mind
+  video: 2nM7_V6b72w
+  title: 2nM7_V6b72w
   intro: >-
     We continue our series looking at the new things that we have in Jesus
-    thanks to His death and resurrection.  This week Jon and Louise talk about a
-    new mind and a new way of thinking.
+    thanks to His death and resurrection.  This week Louise and Jon are talking
+    about abundant life.
 blessing:
   heading: Benediction
   text: >-
