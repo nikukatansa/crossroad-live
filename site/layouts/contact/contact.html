@@ -1,0 +1,41 @@
+{{ define "main" }}
+
+{{ partial "jumbotron" (dict "imageUrl" .Params.image "title" .Title "subtitle" .Params.subtitle) }}
+
+<div class="ph3 bg-off-white">
+  <div class="center mw6 pv3">
+    <p class="f6 mw-100 i">{{.Params.intro}}</p>
+    <form
+      name="contact-form"
+      action="https://docs.google.com/forms/u/2/d/e/1FAIpQLSfnNp3HQdJGCrDUDp-TVn5CRVZR2LzZy3Pm-8yaJZzDzEuO5g/formResponse"
+    >
+      <input
+        name="entry.482904742"
+        class="w-100 mb2 f6"
+        id="name_input"
+        type="text"
+        placeholder="Your name"
+        required
+      />
+      <input
+        name="entry.1185671348"
+        class="w-100 mb2 f6"
+        id="contact_input"
+        type="text"
+        placeholder="Your contact details (email or phone number)"
+        required
+      />
+      <textarea
+        name="entry.1816492706"
+        class="w-100 mb2 f6"
+        id="message_textarea"
+        type="text"
+        placeholder="Your message"
+        required
+      ></textarea>
+      <input class="bg-primary white b mb2" style="cursor:pointer" type="submit" value="Send" />
+    </form>
+  </div>
+</div>
+
+{{ end }}
