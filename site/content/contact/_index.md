@@ -1,4 +1,5 @@
 ---
+pagetitle: Contact us
 title: Crossroad Online
 subtitle: Contact us
 image: /img/seaton.jpg

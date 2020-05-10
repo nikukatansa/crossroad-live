@@ -1,4 +1,5 @@
 ---
+pagetitle: Sunday worship
 title: Crossroad Online
 subtitle: Sunday worship - 10th May 2020
 image: /img/seaton.jpg

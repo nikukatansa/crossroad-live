@@ -1,4 +1,5 @@
 ---
+pagetitle: Prayer
 title: "Crossroad Online"
 subtitle: "Prayer resources"
 image: /img/seaton.jpg
