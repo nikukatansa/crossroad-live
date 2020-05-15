@@ -1,19 +1,102 @@
-<nav class="overflow-x-scroll overflow-x-visible-ns flex justify-between items-center center bg-white divider-grey relative">
+<!-- <nav class="overflow-x-scroll overflow-x-visible-ns flex justify-between items-center center bg-white divider-grey relative"> -->
+  <nav class="w-100 relative bg-white" id="site-navigation">
+    
+    <!-- Logo -->
+    <a id="site-logo" href="/" class="mr4 pa2 h-100 w3">
+      <img src="/img/crossroad-logo.svg" alt="Crossroad" class="br0 mb0 w-70" />
+    </a>
+    
+    <label for="toggle-mobile-menu">&#9776;</label>
+    <input id="toggle-mobile-menu" type="checkbox" />
 
-	<!-- Logo -->
-	<a href="/" class="pa3 db mr4 h-100 w3 flex-none">
-		<img src="/img/crossroad-logo.svg" alt="Crossroad" class="br0 db mb0 w-100"/>
-	</a>
-
-	<!-- Primary Nav -->
-	<!-- <ul class="flex b grey-3">
-		<li><a href="/products" class="pa3 no-underline db">Products</a></li>
-
-		<li><a href="/values" class="pa3 no-underline db">Values</a></li>
-
-		<li><a href="/post" class="pa3 no-underline db">Blog</a></li>
-
-		<li><a href="/contact" class="pa3 no-underline db">Contact</a></li>
-	</ul> -->
-
-</nav>
+    <!-- Primary Nav -->
+    <ul id="main-menu">
+      <li><a class="b" href="/">Sunday worship</a></li>
+      <li><a class="b" href="/prayer">Prayer</a></li>
+      <li>
+        <a class="b" href="https://www.crossroad.org.uk/podcasts">Podcasts</a>
+      </li>
+      <li><a class="b" href="/contact">Contact us</a></li>
+    </ul>
+  </nav>
+  
+  <style>
+    #site-logo {
+      display: block;
+      margin-left: 70px;
+    }
+  
+    #site-navigation {
+      display: block;
+      background: white;
+      z-index: 100;
+    }
+  
+    #site-navigation #main-menu,
+    #site-navigation > input {
+      display: none;
+    }
+  
+    #site-navigation > label {
+      display: block;
+      opacity: 1;
+      font-size: 36px;
+      color: #fff;
+      position: absolute;
+      text-align: center;
+      top: 15px;
+      left: 15px;
+      width: 36px;
+      padding: 3px;
+      cursor: pointer;
+      pointer-events: all;
+      -webkit-touch-callout: none;
+      -webkit-user-select: none;
+      -khtml-user-select: none;
+      -moz-user-select: none;
+      -ms-user-select: none;
+      user-select: none;
+    }
+  
+    #site-navigation > input:checked + #main-menu {
+      display: block;
+      clear: both;
+      position: relative;
+      background: var(--primary);
+      color: var(--white);
+    }
+  
+    #site-navigation ul li {
+      display: block;
+      padding: 12px 10px;
+    }
+  
+    #site-navigation a {
+      text-decoration: none;
+      color: var(--white);
+    }
+  
+    @media only screen and (min-width: 768px) {
+      #site-logo {
+        display: inline-block;
+        margin-left: 40px;
+      }
+  
+      #site-navigation {
+        height: auto;
+      }
+      #site-navigation a {
+        color: var(--grey-3);
+      }
+      #site-navigation #main-menu {
+        display: inline-block;
+      }
+      #site-navigation > label {
+        display: none;
+      }
+      #site-navigation ul li {
+        display: inline-block;
+      }
+    }
+  </style>
+  
