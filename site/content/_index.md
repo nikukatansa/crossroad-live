@@ -1,7 +1,21 @@
 ---
+sundayschool:
+  intro: >-
+    Thanks to St Austell Light & Life Church for letting us share their Sunday
+    School resources. There are craft ideas and other resources available for
+    your children if you open the video below on Youtube and look in the video
+    description.
+  video: SgLS8b4ijPw
+blessing:
+  heading: Benediction
+  text: >-
+    To Him who is able to keep you from stumbling and to present you before His
+    glorious presence without fault and with great joy— to the only God our
+    Saviour be glory, majesty, power and authority, through Jesus Christ our
+    Lord, before all ages, now and forevermore! Amen.
 pagetitle: Sunday worship
 title: Crossroad Online
-subtitle: Sunday worship - 10th May 2020
+subtitle: Sunday worship - 17th May 2020
 image: /img/seaton.jpg
 blurb:
   heading: Welcome!
@@ -18,33 +32,18 @@ worshipintro:
     join in with the lyrics that will be on screen.  Why not also spend some
     time in prayer before moving on to the message?
 worshipvideos:
-  - title: Happy Day
-    video: R_9QiWorBaY
-  - video: RSm6fdZHl5Q
-    title: All my days
-  - video: BGYpF-Jrfew
-    title: Build my life
-  - video: gXzETuK792E
-    title: Amazing grace
-sundayschool:
-  intro: >-
-    Thanks to St Austell Light & Life Church for letting us share their Sunday
-    School resources. There are craft ideas and other resources available for
-    your children if you open the video below on Youtube and look in the video
-    description.
-  video: vy1SwVOBWW4
+  - title: This is amazing grace
+    video: M3z5Mwoj_9Y
+  - video: '-pHY4nZb-Vg'
+    title: We bow our hearts
+  - video: n5m_naj292o
+    title: Good good Father
+  - video: ue8ZCAc9xQ8
+    title: I stand amazed
 sermon:
-  video: 2nM7_V6b72w
-  title: 2nM7_V6b72w
+  video: 4xzt_Un-ga8
+  title: Crossroad Online - Offence
   intro: >-
-    We continue our series looking at the new things that we have in Jesus
-    thanks to His death and resurrection.  This week Louise and Jon are talking
-    about abundant life.
-blessing:
-  heading: Benediction
-  text: >-
-    Now to Him who is able to do immeasurably more than all we ask or imagine,
-    according to His power that is at work within us, to Him be glory in the
-    church and in Christ Jesus throughout all generations, for ever and ever!
-    Amen.
+    This week Jon is looking at the topic of offence - how it can stop us
+    becoming Christians and also how it can stop us moving on as Christians.
 ---
