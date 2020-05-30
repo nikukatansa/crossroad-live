@@ -5,15 +5,15 @@ sundayschool:
     School resources. There are craft ideas and other resources available for
     your children if you open the video below on Youtube and look in the video
     description.
-  video: YvmCjNsYDnE
+  video: iJCuZRX59QE
 blessing:
   heading: Benediction
   text: >-
-    May the Lord bless you and protect you.  May the Lord smile on you and be
-    gracious to you. May the Lord show you His favour and give you His peace.
+    May the God of hope fill you with all joy and peace as you trust in Him, so
+    that you may overflow with hope by the power of the Holy Spirit.
 pagetitle: Sunday worship
 title: Crossroad Online
-subtitle: Sunday worship - 24th May 2020
+subtitle: Sunday worship - 31st May 2020
 image: /img/seaton.jpg
 blurb:
   heading: Welcome!
@@ -30,18 +30,19 @@ worshipintro:
     join in with the lyrics that will be on screen.  Why not also spend some
     time in prayer before moving on to the message?
 worshipvideos:
-  - title: Lion and the Lamb
-    video: rT-HulZ6TQA
-  - video: '-HLVnPjbSaI'
-    title: Everyone needs compassion
-  - video: r5L6QlAH3L4
-    title: What a beautiful Name it is
-  - video: kPv4vnW6X-Q
-    title: In Christ alone
+  - title: Praise is rising
+    video: VMBDWG9tseU
+  - video: 3zARVp3420I
+    title: Holy Spirit You are welcome here
+  - video: qT6czqPgJ5s
+    title: Your grace is enough
+  - video: 61CJdXmxxLU
+    title: There is a Redeemer
 sermon:
-  video: ukiS_U1rdKU
-  title: Crossroad Online - Offence
+  video: 1qG0zxsKkTs
+  title: Crossroad Online - Pentecost Sunday
   intro: >-
-    This week Jon is talking about sharing our faith with others to spread the
-    good news of Jesus and asks us the question "How infectious are you?"
+    This week we are celebrating Pentecost Sunday, when the Holy Spirit was
+    given to the early church.  Jon and Louise will be talking about the events
+    of that day and also sharing some of their experiences of the Holy Spirit.
 ---
