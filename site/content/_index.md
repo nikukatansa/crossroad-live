@@ -4,15 +4,14 @@ sundayschool:
     Sunday School resources. There are craft ideas and other resources available
     for your children if you open the video below on Youtube and look in the
     video description.
-  video: krF7lKD-QcE
+  video: kCWyLoxOcgc
 blessing:
   heading: Benediction
-  text: May our Lord Jesus Christ Himself and God our Father, who loved us and by
-    His grace gave us eternal encouragement and good hope, encourage your hearts
-    and strengthen you in every good deed and word.
+  text: May the God of hope fill you with all joy and peace as you trust in Him,
+    so that you may overflow with hope by the power of the Holy Spirit.
 pagetitle: Sunday worship
 title: Crossroad Online
-subtitle: Sunday worship - 7th June 2020
+subtitle: Sunday worship - 14th June 2020
 image: /img/seaton.jpg
 blurb:
   heading: Welcome!
@@ -27,19 +26,18 @@ worshipintro:
     join in with the lyrics that will be on screen.  Why not also spend some
     time in prayer before moving on to the message?
 worshipvideos:
-  - title: Give thanks to the Lord (Forever)
-    video: gUH_NzfRmbs
-  - video: 7_dtbmVdQY4
-    title: How great Thou art
-  - video: irHGG1CIL0g
-    title: Raise a hallelujah
-  - video: DXDGE_lRI0E
-    title: 10,000 reasons
+  - title: Yesterday, today and forever
+    video: bjOLDaSfIHQ
+  - video: 2zM9nuRQ7ZQ
+    title: Way Maker
+  - video: v6nVlG_d3CQ
+    title: Yes and Amen
+  - video: 9_LyUSoSX84
+    title: Cornerstone
 sermon:
-  video: DHrQEzXzpqo
+  video: w84zgP95lic
   title: Crossroad Online - Thankfulness
-  intro: This week's talk is on the theme of thankfulness.  Jon and Louise will be
-    talking about the blessings that God has given us, the promises that come
-    through thanksgiving, and the challenge to be thankful people in all
-    circumstances.
+  intro: This week's talk is on the theme of promises.  Jon and Louise will be
+    talking about promises that help to shape and strength our faith and look at
+    some of the promises that God has made to us in the Bible.
 ---
