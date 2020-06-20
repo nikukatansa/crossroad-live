@@ -4,14 +4,16 @@ sundayschool:
     Sunday School resources. There are craft ideas and other resources available
     for your children if you open the video below on Youtube and look in the
     video description.
-  video: kCWyLoxOcgc
+  video: FKhVgzLQVcI
 blessing:
   heading: Benediction
-  text: May the God of hope fill you with all joy and peace as you trust in Him,
-    so that you may overflow with hope by the power of the Holy Spirit.
+  text: May the God who gives endurance and encouragement give you the same
+    attitude of mind toward each other that Christ Jesus had, so that with one
+    mind and one voice you may glorify the God and Father of our Lord Jesus
+    Christ.
 pagetitle: Sunday worship
 title: Crossroad Online
-subtitle: Sunday worship - 14th June 2020
+subtitle: Sunday worship - 21st June 2020
 image: /img/seaton.jpg
 blurb:
   heading: Welcome!
@@ -26,18 +28,18 @@ worshipintro:
     join in with the lyrics that will be on screen.  Why not also spend some
     time in prayer before moving on to the message?
 worshipvideos:
-  - title: Yesterday, today and forever
-    video: bjOLDaSfIHQ
-  - video: 2zM9nuRQ7ZQ
-    title: Way Maker
-  - video: v6nVlG_d3CQ
-    title: Yes and Amen
-  - video: 9_LyUSoSX84
-    title: Cornerstone
+  - title: This is amazing grace
+    video: M3z5Mwoj_9Y
+  - video: aDQeREdlw_4
+    title: You alone can rescue
+  - video: Gqrli3Lkf58
+    title: Behold our God
+  - video: A0FSZ_iSYO8
+    title: The Servant King
 sermon:
-  video: w84zgP95lic
-  title: Crossroad Online - Thankfulness
-  intro: This week's talk is on the theme of promises.  Jon and Louise will be
-    talking about promises that help to shape and strength our faith and look at
-    some of the promises that God has made to us in the Bible.
+  video: 2hh9Rn1Y37Q
+  title: Crossroad Online - Going the extra mile
+  intro: This week's talk is on the theme of "going the extra mile".  Jon and
+    Louise will be looking at what this means and how we can practically show
+    God's love to those around us.
 ---
