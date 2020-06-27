@@ -1,19 +1,17 @@
 ---
 sundayschool:
-  intro: Thanks to St Austell Light & Life Church for letting us share their
-    Sunday School resources. There are craft ideas and other resources available
-    for your children if you open the video below on Youtube and look in the
-    video description.
-  video: FKhVgzLQVcI
+  intro: This week's Bible story starts at the very beginning and looks at how God
+    made people in His image.
+  video: ZZPfCWV81pE
 blessing:
   heading: Benediction
-  text: May the God who gives endurance and encouragement give you the same
-    attitude of mind toward each other that Christ Jesus had, so that with one
-    mind and one voice you may glorify the God and Father of our Lord Jesus
-    Christ.
+  text: May the Lord make your love increase and overflow for each other and for
+    everyone else, just as ours does for you.  May He strengthen your hearts so
+    that you will be blameless and holy in the presence of our God and Father
+    when our Lord Jesus comes with all His holy ones.
 pagetitle: Sunday worship
 title: Crossroad Online
-subtitle: Sunday worship - 21st June 2020
+subtitle: Sunday worship - 28th June 2020
 image: /img/seaton.jpg
 blurb:
   heading: Welcome!
@@ -28,18 +26,18 @@ worshipintro:
     join in with the lyrics that will be on screen.  Why not also spend some
     time in prayer before moving on to the message?
 worshipvideos:
-  - title: This is amazing grace
-    video: M3z5Mwoj_9Y
-  - video: aDQeREdlw_4
-    title: You alone can rescue
-  - video: Gqrli3Lkf58
-    title: Behold our God
-  - video: A0FSZ_iSYO8
-    title: The Servant King
+  - title: Strength will rise
+    video: nuudVoMyZyE
+  - video: 1PIBGxNhoqQ
+    title: Can't stop Your love
+  - video: 9l7lIisdyMk
+    title: Living hope
+  - video: H9_0jiO5ZRM
+    title: Lord I come to You
 sermon:
-  video: 2hh9Rn1Y37Q
+  video: PU9H5CejKs4
   title: Crossroad Online - Going the extra mile
-  intro: This week's talk is on the theme of "going the extra mile".  Jon and
-    Louise will be looking at what this means and how we can practically show
-    God's love to those around us.
+  intro: This week's talk continues our exploration of what it means to go the
+    extra mile.  Jon and Louise will be looking at the theme of love and what
+    Jesus meant when He called us to love one another.
 ---
