@@ -1,17 +1,17 @@
 ---
 sundayschool:
-  intro: This week's Bible story looks at what happened after Adam and Eve
-    disobeyed God and how He planned a rescue so we could be His friends again.
-  video: Kg2lkCxjMg8
+  intro: This week we look at the story of Noah.  When God told Noah to build a
+    boat big enough for his whole family and two of every kind of animal, he
+    obeyed!
+  video: 4yzN0fUxjkQ
 blessing:
   heading: Benediction
-  text: Now to Him who is able to do immeasurably more than all we ask or imagine,
-    according to His power that is at work within us, to Him be glory in the
-    church and in Christ Jesus throughout all generations, for ever and ever!
-    Amen.
+  text: May our Lord Jesus Christ himself and God our Father, who loved us and by
+    His grace gave us eternal encouragement and good hope, encourage your hearts
+    and strengthen you in every good deed and word.
 pagetitle: Sunday worship
 title: Crossroad Online
-subtitle: Sunday worship - 5th July 2020
+subtitle: Sunday worship - 12th July 2020
 image: /img/seaton.jpg
 blurb:
   heading: Welcome!
@@ -26,17 +26,17 @@ worshipintro:
     join in with the lyrics that will be on screen.  Why not also spend some
     time in prayer before moving on to the message?
 worshipvideos:
-  - title: Build Your kingdom here
-    video: YcSWpVKKMcs
-  - video: VMBDWG9tseU
-    title: Praise is rising
-  - video: r5L6QlAH3L4
-    title: What a beautiful Name it is
-  - video: -pHY4nZb-Vg
-    title: We bow our hearts
+  - title: Lion and the Lamb
+    video: rT-HulZ6TQA
+  - video: LqBpifDpNKc
+    title: O Praise the Name
+  - video: OpfuKKH_SCE
+    title: O Come to the Altar
+  - video: y5VutCGsVXE
+    title: King of kings, Majesty
 sermon:
-  video: S4JhXhbpiwM
+  video: MIuY98tvi-4
   title: Crossroad Online - What is church?
-  intro: As church buildings around the country start to re-open, Jon and Louise
-    consider what the church really is, and what God calls us to be and do.
+  intro: This week Jon and Louise talk about how we can hear from God and consider
+    the different ways that He uses to speak to us today.
 ---
