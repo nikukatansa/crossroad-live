@@ -1,17 +1,18 @@
 ---
 sundayschool:
-  intro: This week we look at the story of Noah.  When God told Noah to build a
-    boat big enough for his whole family and two of every kind of animal, he
-    obeyed!
-  video: 4yzN0fUxjkQ
+  intro: This week we look at the story of the tower of Babel.  People tried to
+    build a tower to get to God, but one day, He would come down to us
+    instead...
+  video: CW-NXNzdZhM
 blessing:
   heading: Benediction
-  text: May our Lord Jesus Christ himself and God our Father, who loved us and by
-    His grace gave us eternal encouragement and good hope, encourage your hearts
-    and strengthen you in every good deed and word.
+  text: To Him who is able to keep you from stumbling and to present you before
+    His glorious presence without fault and with great joy— to the only God our
+    Saviour be glory, majesty, power and authority, through Jesus Christ our
+    Lord, before all ages, now and forevermore! Amen.
 pagetitle: Sunday worship
 title: Crossroad Online
-subtitle: Sunday worship - 12th July 2020
+subtitle: Sunday worship - 19th July 2020
 image: /img/seaton.jpg
 blurb:
   heading: Welcome!
@@ -26,17 +27,18 @@ worshipintro:
     join in with the lyrics that will be on screen.  Why not also spend some
     time in prayer before moving on to the message?
 worshipvideos:
-  - title: Lion and the Lamb
-    video: rT-HulZ6TQA
-  - video: LqBpifDpNKc
-    title: O Praise the Name
-  - video: OpfuKKH_SCE
-    title: O Come to the Altar
-  - video: y5VutCGsVXE
-    title: King of kings, Majesty
+  - title: Happy Day
+    video: R_9QiWorBaY
+  - video: irHGG1CIL0g
+    title: Raise a hallelujah
+  - video: 1PIBGxNhoqQ
+    title: Can't stop Your love
+  - video: 8SCorW9r_Is
+    title: What a friend we have in Jesus
 sermon:
-  video: MIuY98tvi-4
-  title: Crossroad Online - What is church?
-  intro: This week Jon and Louise talk about how we can hear from God and consider
-    the different ways that He uses to speak to us today.
+  video: lRtMyCRXrg8
+  title: Crossroad Online - Prayer
+  intro: Following on from last week's message on hearing from God, Jon and Louise
+    today look at how we can communicate with God and spend time with Him in
+    prayer.
 ---
