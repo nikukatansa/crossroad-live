@@ -1,18 +1,18 @@
 ---
 sundayschool:
-  intro: This week we look at the story of the tower of Babel.  People tried to
-    build a tower to get to God, but one day, He would come down to us
-    instead...
-  video: CW-NXNzdZhM
+  intro: This week we look at the story of Joseph.  His life was filled with ups
+    and down, but God had a plan for him and helped him get through the hard
+    times.
+  video: NQ7wLTBnF84
 blessing:
   heading: Benediction
-  text: To Him who is able to keep you from stumbling and to present you before
-    His glorious presence without fault and with great joy— to the only God our
-    Saviour be glory, majesty, power and authority, through Jesus Christ our
-    Lord, before all ages, now and forevermore! Amen.
+  text: Finally, brothers and sisters, rejoice!  Strive for full restoration,
+    encourage one another, be of one mind, live in peace.  And the God of love
+    and peace will be with you.  May the grace of the Lord Jesus Christ, and the
+    love of God, and the fellowship of the Holy Spirit be with you all.
 pagetitle: Sunday worship
 title: Crossroad Online
-subtitle: Sunday worship - 19th July 2020
+subtitle: Sunday worship - 26th July 2020
 image: /img/seaton.jpg
 blurb:
   heading: Welcome!
@@ -27,18 +27,17 @@ worshipintro:
     join in with the lyrics that will be on screen.  Why not also spend some
     time in prayer before moving on to the message?
 worshipvideos:
-  - title: Happy Day
-    video: R_9QiWorBaY
-  - video: irHGG1CIL0g
-    title: Raise a hallelujah
-  - video: 1PIBGxNhoqQ
-    title: Can't stop Your love
-  - video: 8SCorW9r_Is
-    title: What a friend we have in Jesus
+  - title: This is amazing grace
+    video: M3z5Mwoj_9Y
+  - video: 0rWXUqF_BFo
+    title: Jesus paid it all
+  - video: IvSuGyJQ6oM
+    title: Goodness of God
+  - video: crRs75ZX_nA
+    title: Here is love vast as the ocean
 sermon:
-  video: lRtMyCRXrg8
-  title: Crossroad Online - Prayer
-  intro: Following on from last week's message on hearing from God, Jon and Louise
-    today look at how we can communicate with God and spend time with Him in
-    prayer.
+  video: 6y1abD45yNw
+  title: Crossroad Online - Forgiveness
+  intro: This week Jon and Louise are looking at the theme of forgiveness, how God
+    forgives us completely and how we are called to forgive others as well.
 ---
