@@ -1,25 +1,25 @@
 ---
 sundayschool:
-  intro: This week we look at the story of Moses, who was chosen by God to deliver
-    the Israelites from slavery, but he didn’t believe he could do it because he
-    didn’t realize he had a special place in God’s family.
-  video: 0eEHT6dCKbI
+  intro: This week we look at the story of Passover, which God's family celebrated
+    every year.  We find out how they celebrated and, more importantly, why they
+    celebrated.
+  video: 1IwMt-KLkSE
 blessing:
   heading: Benediction
-  text: For I am convinced that neither death nor life, neither angels nor demons,
-    neither the present nor the future, nor any powers, neither height nor
-    depth, nor anything else in all creation, will be able to separate us from
-    the love of God that is in Christ Jesus our Lord.
+  text: Now to Him who is able to do immeasurably more than all we ask or imagine,
+    according to His power that is at work within us, to Him be glory in the
+    church and in Christ Jesus throughout all generations, for ever and ever!
+    Amen.
 pagetitle: Sunday worship
 title: Crossroad Online
-subtitle: Sunday worship - 2nd August 2020
+subtitle: Sunday worship - 9th August 2020
 image: /img/seaton.jpg
 blurb:
   heading: Welcome!
   text: "Welcome to our online service for this week.  We pray that this will be
     an encouragement to you during these uncertain times and will help you to
     focus on our unchanging God. "
-welcomevideo: LOyUfwdntpA
+welcomevideo: N8szIeY-JLw
 notices: []
 worshipintro:
   heading: Draw Near
@@ -27,17 +27,18 @@ worshipintro:
     join in with the lyrics that will be on screen.  Why not also spend some
     time in prayer before moving on to the message?
 worshipvideos:
-  - title: Praise is rising
-    video: VMBDWG9tseU
-  - video: n5m_naj292o
-    title: Good good Father
-  - video: Gqrli3Lkf58
-    title: Behold our God
-  - video: pTTlSx6zXio
-    title: All I once held dear
+  - title: How great Thou art
+    video: 7_dtbmVdQY4
+  - video: bjOLDaSfIHQ
+    title: Yesterday, today and forever
+  - video: IvSuGyJQ6oM
+    title: Goodness of God
+  - video: BGYpF-Jrfew
+    title: Build my life
 sermon:
-  video: JhrRa8gzqpU
-  title: Crossroad Online - Knowing God
-  intro: This week Jon and Louise are looking at the importance of being still and
-    knowing God, particularly in the midst of the current circumstances.
+  video: rO0wBC3cJ10
+  title: Crossroad Online - Being a witness
+  intro: This week Jon and Louise are looking at the importance of being ready to
+    tell people about the hope that we have in Jesus, sharing what God has done
+    in our lives with those around us.
 ---
