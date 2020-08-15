@@ -1,25 +1,23 @@
 ---
 sundayschool:
-  intro: This week we look at the story of Passover, which God's family celebrated
-    every year.  We find out how they celebrated and, more importantly, why they
-    celebrated.
-  video: 1IwMt-KLkSE
+  intro: God has amazing plans for us. All we have to do is trust that He knows
+    what's best. This week we look at the story of how God gave His people
+    special commandments to help them follow Him!
+  video: aX28nAB4S7A
 blessing:
   heading: Benediction
-  text: Now to Him who is able to do immeasurably more than all we ask or imagine,
-    according to His power that is at work within us, to Him be glory in the
-    church and in Christ Jesus throughout all generations, for ever and ever!
-    Amen.
+  text: The Lord bless you and keep you; the Lord make his face shine on you and
+    be gracious to you; the Lord turn his face toward you and give you peace.
 pagetitle: Sunday worship
 title: Crossroad Online
-subtitle: Sunday worship - 9th August 2020
+subtitle: Sunday worship - 16th August 2020
 image: /img/seaton.jpg
 blurb:
   heading: Welcome!
   text: "Welcome to our online service for this week.  We pray that this will be
     an encouragement to you during these uncertain times and will help you to
     focus on our unchanging God. "
-welcomevideo: N8szIeY-JLw
+welcomevideo: GlsH03W5dtI
 notices: []
 worshipintro:
   heading: Draw Near
@@ -27,18 +25,18 @@ worshipintro:
     join in with the lyrics that will be on screen.  Why not also spend some
     time in prayer before moving on to the message?
 worshipvideos:
-  - title: How great Thou art
-    video: 7_dtbmVdQY4
-  - video: bjOLDaSfIHQ
-    title: Yesterday, today and forever
-  - video: IvSuGyJQ6oM
-    title: Goodness of God
-  - video: BGYpF-Jrfew
-    title: Build my life
+  - title: Lion and the Lamb
+    video: rT-HulZ6TQA
+  - video: 9l7lIisdyMk
+    title: Living Hope
+  - video: RSm6fdZHl5Q
+    title: All my days
+  - video: H9_0jiO5ZRM
+    title: Lord I come to You
 sermon:
-  video: rO0wBC3cJ10
-  title: Crossroad Online - Being a witness
-  intro: This week Jon and Louise are looking at the importance of being ready to
-    tell people about the hope that we have in Jesus, sharing what God has done
-    in our lives with those around us.
+  video: 5iYi-vFxOig
+  title: Crossroad Online - Thirsty
+  intro: This week we have Five Minutes with Andrew Harris from the Bible
+    Christian Centre at Haselbury Plucknett.  Then Jon and Louise consider what
+    it means to thirst after God and desire more of His presence in our lives.
 ---
