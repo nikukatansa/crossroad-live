@@ -6,8 +6,8 @@ sundayschool:
   video: aX28nAB4S7A
 blessing:
   heading: Benediction
-  text: The Lord bless you and keep you; the Lord make his face shine on you and
-    be gracious to you; the Lord turn his face toward you and give you peace.
+  text: The Lord bless you and keep you; the Lord make His face shine on you and
+    be gracious to you; the Lord turn His face toward you and give you peace.
 pagetitle: Sunday worship
 title: Crossroad Online
 subtitle: Sunday worship - 16th August 2020
