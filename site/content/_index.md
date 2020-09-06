@@ -14,10 +14,9 @@ subtitle: Sunday worship - 6th September 2020
 image: /img/seaton.jpg
 blurb:
   heading: Welcome!
-  text: Welcome to our online service for this week.  Today's talk was recorded at
-    our morning service at Crossroad and will be uploaded by early
-    afternoon.  Please feel free, however, to use the videos below to help you
-    spend some time worshipping God.
+  text: Welcome to our online service for this week.  We pray that this will be an
+    encouragement to you during these uncertain times and will help you to focus
+    on our unchanging God.
 welcomevideo: 2NmnsC57aJY
 notices: []
 worshipintro:
@@ -35,8 +34,9 @@ worshipvideos:
   - video: FhvXOIVsRv4
     title: When I survey
 sermon:
-  video: snpDX7GMO6U
-  title: Crossroad Online - Priorities
-  intro: This week's talk will be uploaded soon.  In the meantime you can still
-    watch last week's talk on the theme of priorities.
+  video: p9J3BMJRGhU
+  title: Crossroad Online - Teamwork
+  intro: This week Jon and Louise talk about the importance of working together as
+    a team to bring glory to Jesus, and how we should motivate one another to
+    keep going and share our faith with others.
 ---
