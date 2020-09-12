@@ -1,23 +1,25 @@
 ---
 sundayschool:
-  intro: When Joshua led God’s family into the promised land, God did something
-    incredible to show His family that He was with them.
-  video: EOTjeK3SJvE
+  intro: Joshua led God’s family into the land God had promised many years
+    earlier. He also learned firsthand that God is always with us – and there’s
+    nothing we have to fear.
+  video: ruqGz1480uc
 blessing:
   heading: Benediction
-  text: Therefore, my dear brothers and sisters, stand firm. Let nothing move you.
-    Always give yourselves fully to the work of the Lord, because you know that
-    your labour in the Lord is not in vain.
+  text: Now to Him who is able to do immeasurably more than all we ask or imagine,
+    according to His power that is at work within us, to Him be glory in the
+    church and in Christ Jesus throughout all generations, for ever and ever!
+    Amen.
 pagetitle: Sunday worship
 title: Crossroad Online
-subtitle: Sunday worship - 6th September 2020
+subtitle: Sunday worship - 13th September 2020
 image: /img/seaton.jpg
 blurb:
   heading: Welcome!
   text: Welcome to our online service for this week.  We pray that this will be an
     encouragement to you during these uncertain times and will help you to focus
     on our unchanging God.
-welcomevideo: 2NmnsC57aJY
+welcomevideo: LOyUfwdntpA
 notices: []
 worshipintro:
   heading: Draw Near
@@ -25,18 +27,19 @@ worshipintro:
     join in with the lyrics that will be on screen.  Why not also spend some
     time in prayer before moving on to the message?
 worshipvideos:
-  - title: Praise is rising
-    video: VMBDWG9tseU
-  - video: 9l7lIisdyMk
-    title: Living hope
-  - video: SWP05Fm39sY
-    title: I will offer up my life
-  - video: FhvXOIVsRv4
-    title: When I survey
+  - title: How great Thou art
+    video: 7_dtbmVdQY4
+  - video: DXDGE_lRI0E
+    title: 10,000 reasons
+  - video: r5L6QlAH3L4
+    title: What a beautiful Name it is
+  - video: BGYpF-Jrfew
+    title: Build my life
 sermon:
-  video: p9J3BMJRGhU
-  title: Crossroad Online - Teamwork
-  intro: This week Jon and Louise talk about the importance of working together as
-    a team to bring glory to Jesus, and how we should motivate one another to
-    keep going and share our faith with others.
+  video: oPQkLyAFVu4
+  title: Crossroad Online - Teamwork (part 2)
+  intro: Following on from Jon and Louise's talk on teamwork last week, Ray
+    encourages us to share our lives with those around us.  God wants to use us
+    to tell others about Him, and we will see lives changed as God works in and
+    through us.
 ---
