@@ -1,18 +1,19 @@
 ---
 sundayschool:
-  intro: Joshua led God’s family into the land God had promised many years
-    earlier. He also learned firsthand that God is always with us – and there’s
-    nothing we have to fear.
-  video: ruqGz1480uc
+  intro: When God rescued his family from a nation called Midian, he did it
+    through a guy named Gideon. At first, Gideon didn’t think he was strong
+    enough to lead God’s people, but God gave him the strength and help he
+    needed.
+  video: U68cIMZSgvQ
 blessing:
   heading: Benediction
-  text: Now to Him who is able to do immeasurably more than all we ask or imagine,
-    according to His power that is at work within us, to Him be glory in the
-    church and in Christ Jesus throughout all generations, for ever and ever!
-    Amen.
+  text: May the God who gives endurance and encouragement give you the same
+    attitude of mind toward each other that Christ Jesus had, so that with one
+    mind and one voice you may glorify the God and Father of our Lord Jesus
+    Christ.
 pagetitle: Sunday worship
 title: Crossroad Online
-subtitle: Sunday worship - 13th September 2020
+subtitle: Sunday worship - 20th September 2020
 image: /img/seaton.jpg
 blurb:
   heading: Welcome!
@@ -27,19 +28,17 @@ worshipintro:
     join in with the lyrics that will be on screen.  Why not also spend some
     time in prayer before moving on to the message?
 worshipvideos:
-  - title: How great Thou art
-    video: 7_dtbmVdQY4
-  - video: DXDGE_lRI0E
-    title: 10,000 reasons
-  - video: r5L6QlAH3L4
-    title: What a beautiful Name it is
-  - video: BGYpF-Jrfew
-    title: Build my life
+  - title: Strength will rise
+    video: nuudVoMyZyE
+  - video: aDQeREdlw_4
+    title: You alone can rescue
+  - video: y5VutCGsVXE
+    title: King of kings, majesty
+  - video: LULK2nZ6sCc
+    title: Before the Throne of God above
 sermon:
   video: oPQkLyAFVu4
   title: Crossroad Online - Teamwork (part 2)
-  intro: Following on from Jon and Louise's talk on teamwork last week, Ray
-    encourages us to share our lives with those around us.  God wants to use us
-    to tell others about Him, and we will see lives changed as God works in and
-    through us.
+  intro: We'll be uploading this morning's message early Sunday afternoon.  In the
+    meantime you can still watch Ray's talk on teamwork from last week.
 ---
