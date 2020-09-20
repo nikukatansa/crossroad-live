@@ -37,8 +37,9 @@ worshipvideos:
   - video: LULK2nZ6sCc
     title: Before the Throne of God above
 sermon:
-  video: oPQkLyAFVu4
-  title: Crossroad Online - Teamwork (part 2)
-  intro: We'll be uploading this morning's message early Sunday afternoon.  In the
-    meantime you can still watch Ray's talk on teamwork from last week.
+  video: mx3nimdOv9I
+  title: Crossroad Online - Teamwork (part 3)
+  intro: Here is our full Sunday service, recorded at Crossroad.  After a time of
+    worship and prayer, Jon continues looking at the theme of teamwork and how
+    we can encourage one another in our faith.
 ---
