@@ -1,19 +1,18 @@
 ---
 sundayschool:
-  intro: When God rescued his family from a nation called Midian, he did it
-    through a guy named Gideon. At first, Gideon didn’t think he was strong
-    enough to lead God’s people, but God gave him the strength and help he
-    needed.
-  video: U68cIMZSgvQ
+  intro: When a woman named Ruth decided she wanted to follow God, she got to be
+    part of God’s family.  You can read her story in the Bible in the book of
+    Ruth.
+  video: irThVpdeSXk
 blessing:
   heading: Benediction
-  text: May the God who gives endurance and encouragement give you the same
-    attitude of mind toward each other that Christ Jesus had, so that with one
-    mind and one voice you may glorify the God and Father of our Lord Jesus
-    Christ.
+  text: Now to Him who is able to keep you from stumbling and to present you
+    blameless before the presence of His glory with great joy, to the only God,
+    our Saviour, through Jesus Christ our Lord, be glory, majesty, dominion, and
+    authority, before all time and now and forever. Amen.
 pagetitle: Sunday worship
 title: Crossroad Online
-subtitle: Sunday worship - 20th September 2020
+subtitle: Sunday worship - 27th September 2020
 image: /img/seaton.jpg
 blurb:
   heading: Welcome!
@@ -28,18 +27,17 @@ worshipintro:
     join in with the lyrics that will be on screen.  Why not also spend some
     time in prayer before moving on to the message?
 worshipvideos:
-  - title: Strength will rise
-    video: nuudVoMyZyE
-  - video: aDQeREdlw_4
-    title: You alone can rescue
-  - video: y5VutCGsVXE
-    title: King of kings, majesty
-  - video: LULK2nZ6sCc
-    title: Before the Throne of God above
+  - title: Yesterday, today and forever
+    video: bjOLDaSfIHQ
+  - video: 9_LyUSoSX84
+    title: Cornerstone
+  - video: v6nVlG_d3CQ
+    title: Yes and Amen
+  - video: HROSwkRwpPI
+    title: Faithful One
 sermon:
-  video: mx3nimdOv9I
-  title: Crossroad Online - Teamwork (part 3)
-  intro: Here is our full Sunday service, recorded at Crossroad.  After a time of
-    worship and prayer, Jon continues looking at the theme of teamwork and how
-    we can encourage one another in our faith.
+  video: ZzCogn3X_as
+  title: Jesus the same yesterday, today and forever
+  intro: We live in a rapidly changing world, but in the talk this week Robert
+    reminds us that Jesus is the same yesterday, today and forever.
 ---
