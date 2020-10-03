@@ -4,6 +4,7 @@
     <p class="mb4 mw-100">{{.sermon.intro}}</p>
     <div class="flex-ns">
       <div style="width: 100%;">
+        {{ if eq .sermon.islive false }}
         <div
           style="
             position: relative;
@@ -28,6 +29,13 @@
             title="{{.title}}"
           ></iframe>
         </div>
+        {{ else }}
+        <div>
+          <a href="//www.youtube.com/watch?v={{.sermon.video}}">
+            <img src="/img/stream.jpg" />
+          </a>
+        </div>
+        {{ end }}
       </div>
     </div>
     <div style="width: 100%; text-align: center;">

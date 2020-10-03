@@ -37,6 +37,7 @@ worshipvideos:
     title: Faithful One
 sermon:
   video: ZzCogn3X_as
+  islive: false
   title: Jesus the same yesterday, today and forever
   intro: We live in a rapidly changing world, but in the talk this week Robert
     reminds us that Jesus is the same yesterday, today and forever.
