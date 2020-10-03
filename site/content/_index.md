@@ -1,18 +1,16 @@
 ---
 sundayschool:
-  intro: When a woman named Ruth decided she wanted to follow God, she got to be
-    part of God’s family.  You can read her story in the Bible in the book of
-    Ruth.
-  video: irThVpdeSXk
+  intro: Once a young boy named David defeated a giant who was over nine feet
+    tall. This is the story of what happened when David agreed to take on
+    Goliath.
+  video: 7zLAcUZkxHA
 blessing:
   heading: Benediction
-  text: Now to Him who is able to keep you from stumbling and to present you
-    blameless before the presence of His glory with great joy, to the only God,
-    our Saviour, through Jesus Christ our Lord, be glory, majesty, dominion, and
-    authority, before all time and now and forever. Amen.
+  text: The Lord bless you and keep you; the Lord make His face shine on you and
+    be gracious to you; the Lord turn His face toward you and give you peace.
 pagetitle: Sunday worship
 title: Crossroad Online
-subtitle: Sunday worship - 27th September 2020
+subtitle: Sunday worship - 4th October 2020
 image: /img/seaton.jpg
 blurb:
   heading: Welcome!
@@ -27,18 +25,18 @@ worshipintro:
     join in with the lyrics that will be on screen.  Why not also spend some
     time in prayer before moving on to the message?
 worshipvideos:
-  - title: Yesterday, today and forever
-    video: bjOLDaSfIHQ
-  - video: 9_LyUSoSX84
-    title: Cornerstone
-  - video: v6nVlG_d3CQ
-    title: Yes and Amen
-  - video: HROSwkRwpPI
-    title: Faithful One
+  - title: Lion and the Lamb
+    video: rT-HulZ6TQA
+  - video: 2zM9nuRQ7ZQ
+    title: Way Maker
+  - video: kPv4vnW6X-Q
+    title: In Christ alone
+  - video: qT6czqPgJ5s
+    title: Your grace is enough
 sermon:
-  video: ZzCogn3X_as
-  islive: false
-  title: Jesus the same yesterday, today and forever
-  intro: We live in a rapidly changing world, but in the talk this week Robert
-    reminds us that Jesus is the same yesterday, today and forever.
+  video: FdtCBeEdbPo
+  islive: true
+  title: Livestream - 4th October 2020
+  intro: Our Sunday morning service will be livestreamed at 10.30am and includes a
+    video message from Gavin Calver, CEO of the Evangelical Alliance.
 ---
