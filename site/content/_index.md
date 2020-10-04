@@ -35,8 +35,9 @@ worshipvideos:
     title: Your grace is enough
 sermon:
   video: FdtCBeEdbPo
-  islive: true
+  islive: false
   title: Livestream - 4th October 2020
-  intro: Our Sunday morning service will be livestreamed at 10.30am and includes a
-    video message from Gavin Calver, CEO of the Evangelical Alliance.
+  intro: Our Sunday morning service was livestreamed at 10.30am and included a
+    video message from Gavin Calver, CEO of the Evangelical Alliance.  The
+    stream itself starts at 13:30 into the video.
 ---
