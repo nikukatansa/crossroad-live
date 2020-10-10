@@ -1,16 +1,19 @@
 ---
 sundayschool:
-  intro: Once a young boy named David defeated a giant who was over nine feet
-    tall. This is the story of what happened when David agreed to take on
-    Goliath.
-  video: 7zLAcUZkxHA
+  intro: "You may have heard of David before: the little shepherd boy who stood up
+    to the massive warrior Goliath and won. But that isn’t the whole story; in
+    fact, that’s really only a part of it. The rest of the story starts with a
+    man named Saul."
+  video: OnNXbj6udy4
 blessing:
   heading: Benediction
-  text: The Lord bless you and keep you; the Lord make His face shine on you and
-    be gracious to you; the Lord turn His face toward you and give you peace.
+  text: To Him who is able to keep you from stumbling and to present you before
+    His glorious presence without fault and with great joy— to the only God our
+    Saviour be glory, majesty, power and authority, through Jesus Christ our
+    Lord, before all ages, now and forevermore! Amen.
 pagetitle: Sunday worship
 title: Crossroad Online
-subtitle: Sunday worship - 4th October 2020
+subtitle: Sunday worship - 11th October 2020
 image: /img/seaton.jpg
 blurb:
   heading: Welcome!
@@ -25,19 +28,20 @@ worshipintro:
     join in with the lyrics that will be on screen.  Why not also spend some
     time in prayer before moving on to the message?
 worshipvideos:
-  - title: Lion and the Lamb
-    video: rT-HulZ6TQA
-  - video: 2zM9nuRQ7ZQ
-    title: Way Maker
-  - video: kPv4vnW6X-Q
-    title: In Christ alone
-  - video: qT6czqPgJ5s
-    title: Your grace is enough
+  - title: Give thanks to the Lord
+    video: gUH_NzfRmbs
+  - video: 1PIBGxNhoqQ
+    title: Can't stop Your love
+  - video: 3SZnQfALk8U
+    title: No longer slaves
+  - video: abydasmEBNU
+    title: Be Thou my vision
 sermon:
-  video: FdtCBeEdbPo
+  video: D8mI1xIy_Ec
   islive: false
-  title: Livestream - 4th October 2020
-  intro: Our Sunday morning service was livestreamed at 10.30am and included a
-    video message from Gavin Calver, CEO of the Evangelical Alliance.  The
-    stream itself starts at 13:30 into the video.
+  title: The Risk Factor
+  intro: Life is not predictable and change is never easy.  In this week's
+    message, Louise reminds us that we are called to live by faith, not by fear,
+    and challenges us to consider where we may need to take a risk and trust in
+    God.
 ---
