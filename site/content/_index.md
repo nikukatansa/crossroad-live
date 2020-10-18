@@ -36,7 +36,8 @@ worshipvideos:
     title: Lord I come to You
 sermon:
   video: 8uY2NPVDe60
-  islive: true
+  islive: false
   title: Livestream - 18th October
-  intro: Our Sunday morning service is led by Jon and will be livestreamed at 10.30am.
+  intro: Our Sunday morning service was livestreamed at 10.30am and was led by
+    Jon.  The service starts at 14:25 into the video.
 ---
