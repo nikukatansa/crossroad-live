@@ -1,17 +1,15 @@
 ---
 sundayschool:
-  intro: Following God is exciting, but that doesn’t mean it’s easy. The prophet
-    Elijah’s story is an example of this...
-  video: 2T5gAXoerjw
+  intro: This week's story is about Jonah.  God gave him a message for the people
+    of Ninevah, but Jonah initially went in the opposite direction...
+  video: jO2QsF_nnIU
 blessing:
   heading: Benediction
-  text: Now to Him who is able to do immeasurably more than all we ask or imagine,
-    according to His power that is at work within us, to Him be glory in the
-    church and in Christ Jesus throughout all generations, for ever and ever!
-    Amen.
+  text: May the God of hope fill you with all joy and peace as you trust in Him,
+    so that you may overflow with hope by the power of the Holy Spirit.
 pagetitle: Sunday worship
 title: Crossroad Online
-subtitle: Sunday worship - 18th October 2020
+subtitle: Sunday worship - 25th October 2020
 image: /img/seaton.jpg
 blurb:
   heading: Welcome!
@@ -26,18 +24,19 @@ worshipintro:
     join in with the lyrics that will be on screen.  Why not also spend some
     time in prayer before moving on to the message?
 worshipvideos:
-  - title: Strength will rise
-    video: nuudVoMyZyE
-  - video: LqBpifDpNKc
-    title: O praise the Name
-  - video: DXDGE_lRI0E
-    title: 10,000 reasons
-  - video: H9_0jiO5ZRM
-    title: Lord I come to You
+  - title: How great Thou art
+    video: 7_dtbmVdQY4
+  - video: RSm6fdZHl5Q
+    title: All my days
+  - video: 9l7lIisdyMk
+    title: Living hope
+  - video: rhaTIu_k4w0
+    title: It is well with my soul
 sermon:
-  video: 8uY2NPVDe60
+  video: _FIDC3Tq0HM
   islive: false
-  title: Livestream - 18th October
-  intro: Our Sunday morning service was livestreamed at 10.30am and was led by
-    Jon.  The service starts at 14:25 into the video.
+  title: Giving thanks in every situation
+  intro: This week Jon looks at the theme of giving thanks in every situation and
+    explains how we can remain at peace, even in the face of challenging
+    circumstances.
 ---
