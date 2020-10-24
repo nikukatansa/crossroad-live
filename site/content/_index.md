@@ -1,7 +1,7 @@
 ---
 sundayschool:
   intro: This week's story is about Jonah.  God gave him a message for the people
-    of Ninevah, but Jonah initially went in the opposite direction...
+    of Nineveh, but Jonah initially went in the opposite direction...
   video: jO2QsF_nnIU
 blessing:
   heading: Benediction
