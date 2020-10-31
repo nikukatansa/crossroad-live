@@ -1,15 +1,18 @@
 ---
 sundayschool:
-  intro: This week's story is about Jonah.  God gave him a message for the people
-    of Nineveh, but Jonah initially went in the opposite direction...
-  video: jO2QsF_nnIU
+  intro: This week's story is about Josiah.  He was a faithful king who followed
+    God's word no matter what...
+  video: 6C4MEXXbBmM
 blessing:
   heading: Benediction
-  text: May the God of hope fill you with all joy and peace as you trust in Him,
-    so that you may overflow with hope by the power of the Holy Spirit.
+  text: Now may the God of peace, who through the blood of the eternal covenant
+    brought back from the dead our Lord Jesus, that great Shepherd of the sheep,
+    equip you with everything good for doing His will, and may He work in us
+    what is pleasing to Him, through Jesus Christ, to whom be glory for ever and
+    ever. Amen.
 pagetitle: Sunday worship
 title: Crossroad Online
-subtitle: Sunday worship - 25th October 2020
+subtitle: Sunday worship - 1st November 2020
 image: /img/seaton.jpg
 blurb:
   heading: Welcome!
@@ -24,19 +27,18 @@ worshipintro:
     join in with the lyrics that will be on screen.  Why not also spend some
     time in prayer before moving on to the message?
 worshipvideos:
-  - title: How great Thou art
-    video: 7_dtbmVdQY4
-  - video: RSm6fdZHl5Q
-    title: All my days
-  - video: 9l7lIisdyMk
-    title: Living hope
-  - video: rhaTIu_k4w0
-    title: It is well with my soul
+  - title: Praise is rising
+    video: VMBDWG9tseU
+  - video: LULK2nZ6sCc
+    title: Before the throne of God above
+  - video: -ak0OoFBw3c
+    title: Good good Father
+  - video: -eIQQayhpak
+    title: The Lord's my shepherd
 sermon:
-  video: _FIDC3Tq0HM
-  islive: false
-  title: Giving thanks in every situation
-  intro: This week Jon looks at the theme of giving thanks in every situation and
-    explains how we can remain at peace, even in the face of challenging
-    circumstances.
+  video: Q4kFGeNEZx4
+  islive: true
+  title: Livestream - 1st November 2020
+  intro: This week's service will be livestreamed at 10.30am and will be led by
+    Jibu Varghese.
 ---
