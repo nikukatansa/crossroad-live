@@ -37,8 +37,8 @@ worshipvideos:
     title: The Lord's my shepherd
 sermon:
   video: Q4kFGeNEZx4
-  islive: true
+  islive: false
   title: Livestream - 1st November 2020
-  intro: This week's service will be livestreamed at 10.30am and will be led by
-    Jibu Varghese.
+  intro: This week's livestreamed service was led by Jibu Varghese, who spoke on
+    the theme of Jesus being our Good Shepherd.
 ---
