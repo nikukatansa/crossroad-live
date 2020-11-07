@@ -1,18 +1,23 @@
 ---
 sundayschool:
-  intro: This week's story is about Josiah.  He was a faithful king who followed
-    God's word no matter what...
-  video: 6C4MEXXbBmM
+  intro: Daniel worked for several kings of Babylon. But he obeyed God, even when
+    that meant disobeying the king...
+  video: GY0pARvYcyw
+specialvideo:
+  title: Remembrance Sunday 2020
+  isdisplayed: true
+  video: DFRkqpWZz1c
+  intro: Please use this video, produced by the Church of England, to help you
+    reflect and remember on Remembrance Sunday.
 blessing:
   heading: Benediction
-  text: Now may the God of peace, who through the blood of the eternal covenant
-    brought back from the dead our Lord Jesus, that great Shepherd of the sheep,
-    equip you with everything good for doing His will, and may He work in us
-    what is pleasing to Him, through Jesus Christ, to whom be glory for ever and
-    ever. Amen.
+  text: Do not be anxious about anything, but in every situation, by prayer and
+    petition, with thanksgiving, present your requests to God.  And the peace of
+    God, which transcends all understanding, will guard your hearts and your
+    minds in Christ Jesus.
 pagetitle: Sunday worship
 title: Crossroad Online
-subtitle: Sunday worship - 1st November 2020
+subtitle: Sunday worship - 8th November 2020
 image: /img/seaton.jpg
 blurb:
   heading: Welcome!
@@ -27,23 +32,19 @@ worshipintro:
     join in with the lyrics that will be on screen.  Why not also spend some
     time in prayer before moving on to the message?
 worshipvideos:
-  - title: Praise is rising
-    video: VMBDWG9tseU
-  - video: LULK2nZ6sCc
-    title: Before the throne of God above
-  - video: -ak0OoFBw3c
-    title: Good good Father
-  - video: -eIQQayhpak
-    title: The Lord's my shepherd
-specialvideo:
-  title: Remembrance Sunday 2020
-  isdisplayed: true
-  video: DFRkqpWZz1c
-  intro: Please use this video, produced by the Church of England, to help you reflect and remember on Remembrance Sunday.
+  - title: This is amazing grace
+    video: M3z5Mwoj_9Y
+  - video: 0tAJxHV_ttI
+    title: Jesus Christ (Once again)
+  - video: aDQeREdlw_4
+    title: You alone can rescue
+  - video: r5L6QlAH3L4
+    title: What a beautiful Name it is
 sermon:
-  video: Q4kFGeNEZx4
+  video: pRq9n4tfiM0
   islive: false
-  title: Livestream - 1st November 2020
-  intro: This week's livestreamed service was led by Jibu Varghese, who spoke on
-    the theme of Jesus being our Good Shepherd.
+  title: Crossroad Online - Remembrance Sunday
+  intro: At the start of this new period of lockdown, Andrew Sibley encourages us
+    that we have access to God's presence through the work of Jesus on the cross
+    and we can connect with Him through personal prayer and worship.
 ---
