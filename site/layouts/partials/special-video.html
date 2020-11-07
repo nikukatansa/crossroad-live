@@ -1,0 +1,36 @@
+{{ if eq .specialvideo.isdisplayed true }}
+<div class="bg-off-white pv4">
+  <div class="ph3 mw7 center">
+    <h2 class="f2 b lh-title mb2">{{.specialvideo.title}}</h2>
+    <p class="mb4 mw-100">{{.specialvideo.intro}}</p>
+    <div class="flex-ns">
+      <div style="width: 100%;">
+        <div
+          style="
+            position: relative;
+            padding-bottom: 56.25%;
+            margin-bottom: 30px;
+            height: 0;
+            overflow: hidden;
+            max-width: 100%;
+          "
+        >
+          <iframe
+            src="//www.youtube.com/embed/{{.specialvideo.video}}"
+            style="
+              position: absolute;
+              top: 0;
+              left: 0;
+              width: 100%;
+              height: 100%;
+            "
+            allowfullscreen
+            frameborder="0"
+            title="{{.title}}"
+          ></iframe>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+{{ end }}

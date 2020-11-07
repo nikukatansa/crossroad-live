@@ -35,6 +35,11 @@ worshipvideos:
     title: Good good Father
   - video: -eIQQayhpak
     title: The Lord's my shepherd
+specialvideo:
+  title: Remembrance Sunday 2020
+  isdisplayed: true
+  video: DFRkqpWZz1c
+  intro: Please use this video, produced by the Church of England, to help you reflect and remember on Remembrance Sunday.
 sermon:
   video: Q4kFGeNEZx4
   islive: false
