@@ -45,7 +45,7 @@ collections: # A list of collections the CMS should be able to edit
               {label: "Title", name: "title", widget: "text"},
               {label: "Display?", name: "isdisplayed", widget: "boolean"},
               {label: "Youtube video ID", name: "video", widget: string},
-              {label: "Details", name: "intro", widget: "text"}]},
+              {label: "Details", name: "intro", widget: "text"}]}
           - {label: "Message", name: sermon, widget: object, fields: [
               {label: "Title", name: "title", widget: string},
               {label: "Livestream?", name: "islive", widget: "boolean"},
