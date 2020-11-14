@@ -1,11 +1,11 @@
 ---
 sundayschool:
-  intro: Daniel worked for several kings of Babylon. But he obeyed God, even when
-    that meant disobeying the king...
-  video: GY0pARvYcyw
+  intro: Queen Esther rescued God’s special family from a law that would have
+    destroyed them...
+  video: ZXp41Npw_Uw
 specialvideo:
   title: Remembrance Sunday 2020
-  isdisplayed: true
+  isdisplayed: false
   video: DFRkqpWZz1c
   intro: Please use this video, produced by the Church of England, to help you
     reflect and remember on Remembrance Sunday.
@@ -17,7 +17,7 @@ blessing:
     minds in Christ Jesus.
 pagetitle: Sunday worship
 title: Crossroad Online
-subtitle: Sunday worship - 8th November 2020
+subtitle: Sunday worship - 15th November 2020
 image: /img/seaton.jpg
 blurb:
   heading: Welcome!
@@ -32,19 +32,19 @@ worshipintro:
     join in with the lyrics that will be on screen.  Why not also spend some
     time in prayer before moving on to the message?
 worshipvideos:
-  - title: This is amazing grace
-    video: M3z5Mwoj_9Y
-  - video: 0tAJxHV_ttI
-    title: Jesus Christ (Once again)
-  - video: aDQeREdlw_4
-    title: You alone can rescue
-  - video: r5L6QlAH3L4
-    title: What a beautiful Name it is
+  - title: Give thanks to the Lord (Forever)
+    video: gUH_NzfRmbs
+  - video: 1OUZtPjSR54
+    title: Yes and Amen
+  - video: Gqrli3Lkf58
+    title: Behold our God
+  - video: gXzETuK792E
+    title: Amazing grace
 sermon:
-  video: pRq9n4tfiM0
+  video: 6rQ5VcJ0Cpo
   islive: false
-  title: Crossroad Online - Remembrance Sunday
-  intro: At the start of this new period of lockdown, Andrew Sibley encourages us
-    that we have access to God's presence through the work of Jesus on the cross
-    and we can connect with Him through personal prayer and worship.
+  title: Crossroad Online - Peace
+  intro: In this week's talk Jon and Louise look at the subject of peace, and
+    explore how we can deal with anxiety in our lives and keep our hearts
+    focussed on God.
 ---
