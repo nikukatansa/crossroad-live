@@ -1,8 +1,9 @@
 ---
 sundayschool:
-  intro: Queen Esther rescued God’s special family from a law that would have
-    destroyed them...
-  video: ZXp41Npw_Uw
+  intro: God wants to make old things new and fix things that are broken. That’s
+    good news for us!  In this week's story we find out how God did this through
+    the life of Nehemiah...
+  video: HdDvqWtVkro
 specialvideo:
   title: Remembrance Sunday 2020
   isdisplayed: false
@@ -11,13 +12,14 @@ specialvideo:
     reflect and remember on Remembrance Sunday.
 blessing:
   heading: Benediction
-  text: Do not be anxious about anything, but in every situation, by prayer and
-    petition, with thanksgiving, present your requests to God.  And the peace of
-    God, which transcends all understanding, will guard your hearts and your
-    minds in Christ Jesus.
+  text: Now may the God of peace, who through the blood of the eternal covenant
+    brought back from the dead our Lord Jesus, that great Shepherd of the sheep,
+    equip you with everything good for doing His will, and may He work in us
+    what is pleasing to Him, through Jesus Christ, to whom be glory for ever and
+    ever. Amen.
 pagetitle: Sunday worship
 title: Crossroad Online
-subtitle: Sunday worship - 15th November 2020
+subtitle: Sunday worship - 22nd November 2020
 image: /img/seaton.jpg
 blurb:
   heading: Welcome!
@@ -32,19 +34,19 @@ worshipintro:
     join in with the lyrics that will be on screen.  Why not also spend some
     time in prayer before moving on to the message?
 worshipvideos:
-  - title: Give thanks to the Lord (Forever)
-    video: gUH_NzfRmbs
-  - video: 1OUZtPjSR54
-    title: Yes and Amen
-  - video: Gqrli3Lkf58
-    title: Behold our God
-  - video: gXzETuK792E
-    title: Amazing grace
+  - title: Lion and the Lamb
+    video: rT-HulZ6TQA
+  - video: LqBpifDpNKc
+    title: O praise the Name
+  - video: -pHY4nZb-Vg
+    title: We bow our hearts
+  - video: pTTlSx6zXio
+    title: All I once held dear
 sermon:
-  video: 6rQ5VcJ0Cpo
+  video: CE3u1k2WxxI
   islive: false
   title: Crossroad Online - Peace
-  intro: In this week's talk Jon and Louise look at the subject of peace, and
-    explore how we can deal with anxiety in our lives and keep our hearts
-    focussed on God.
+  intro: In this week's talk Jon and Louise look at how we cooperate with God and
+    play our part in protecting and developing our hearts, becoming more
+    Christ-like.
 ---
