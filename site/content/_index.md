@@ -1,9 +1,8 @@
 ---
 sundayschool:
-  intro: God wants to make old things new and fix things that are broken. That’s
-    good news for us!  In this week's story we find out how God did this through
-    the life of Nehemiah...
-  video: HdDvqWtVkro
+  intro: God rescued His people time and again through the Bible and all of these
+    stories point towards God's ultimate rescue plan...
+  video: 67HqiVGt6xI
 specialvideo:
   title: Remembrance Sunday 2020
   isdisplayed: false
@@ -12,14 +11,12 @@ specialvideo:
     reflect and remember on Remembrance Sunday.
 blessing:
   heading: Benediction
-  text: Now may the God of peace, who through the blood of the eternal covenant
-    brought back from the dead our Lord Jesus, that great Shepherd of the sheep,
-    equip you with everything good for doing His will, and may He work in us
-    what is pleasing to Him, through Jesus Christ, to whom be glory for ever and
-    ever. Amen.
+  text: May our Lord Jesus Christ Himself and God our Father, who loved us and by
+    His grace gave us eternal encouragement and good hope, encourage your hearts
+    and strengthen you in every good deed and word.
 pagetitle: Sunday worship
 title: Crossroad Online
-subtitle: Sunday worship - 22nd November 2020
+subtitle: Sunday worship - 29th November 2020
 image: /img/seaton.jpg
 blurb:
   heading: Welcome!
@@ -34,19 +31,19 @@ worshipintro:
     join in with the lyrics that will be on screen.  Why not also spend some
     time in prayer before moving on to the message?
 worshipvideos:
-  - title: Lion and the Lamb
-    video: rT-HulZ6TQA
-  - video: LqBpifDpNKc
-    title: O praise the Name
-  - video: -pHY4nZb-Vg
-    title: We bow our hearts
-  - video: pTTlSx6zXio
-    title: All I once held dear
+  - title: Strength will rise
+    video: nuudVoMyZyE
+  - video: -HLVnPjbSaI
+    title: Everyone needs compassion
+  - video: aDQeREdlw_4
+    title: You alone can rescue
+  - video: IcC1Bp13n_4
+    title: Who You say I am
 sermon:
-  video: CE3u1k2WxxI
+  video: Js1GDMdNqE8
   islive: false
-  title: Crossroad Online - Peace
-  intro: In this week's talk Jon and Louise look at how we cooperate with God and
-    play our part in protecting and developing our hearts, becoming more
-    Christ-like.
+  title: Crossroad Online - Zechariah's song
+  intro: As we approach Christmas we'll be looking at some of the songs that were
+    sung at the first Christmas.  This week Jon and Louise look at the song of
+    Zechariah the priest...
 ---
