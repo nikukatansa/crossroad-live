@@ -1,8 +1,8 @@
 ---
 sundayschool:
-  intro: God rescued His people time and again through the Bible and all of these
-    stories point towards God's ultimate rescue plan...
-  video: 67HqiVGt6xI
+  intro: When God sent Jesus to earth, he changed everything. His presence was the
+    greatest gift that the world had ever received.
+  video: FrOBJo6LNfw
 specialvideo:
   title: Remembrance Sunday 2020
   isdisplayed: false
@@ -11,12 +11,13 @@ specialvideo:
     reflect and remember on Remembrance Sunday.
 blessing:
   heading: Benediction
-  text: May our Lord Jesus Christ Himself and God our Father, who loved us and by
-    His grace gave us eternal encouragement and good hope, encourage your hearts
-    and strengthen you in every good deed and word.
+  text: Now to Him who is able to do immeasurably more than all we ask or imagine,
+    according to His power that is at work within us, to Him be glory in the
+    church and in Christ Jesus throughout all generations, for ever and ever!
+    Amen.
 pagetitle: Sunday worship
 title: Crossroad Online
-subtitle: Sunday worship - 29th November 2020
+subtitle: Sunday worship - 6th December 2020
 image: /img/seaton.jpg
 blurb:
   heading: Welcome!
@@ -31,19 +32,18 @@ worshipintro:
     join in with the lyrics that will be on screen.  Why not also spend some
     time in prayer before moving on to the message?
 worshipvideos:
-  - title: Strength will rise
-    video: nuudVoMyZyE
-  - video: -HLVnPjbSaI
-    title: Everyone needs compassion
-  - video: aDQeREdlw_4
-    title: You alone can rescue
-  - video: IcC1Bp13n_4
-    title: Who You say I am
+  - title: Give thanks to the Lord
+    video: gUH_NzfRmbs
+  - video: 7_dtbmVdQY4
+    title: How great Thou art
+  - video: n5m_naj292o
+    title: Good good Father
+  - video: DXDGE_lRI0E
+    title: 10,000 reasons
 sermon:
-  video: Js1GDMdNqE8
-  islive: false
-  title: Crossroad Online - Zechariah's song
-  intro: As we approach Christmas we'll be looking at some of the songs that were
-    sung at the first Christmas.  This week Jon and Louise look at the song of
-    Zechariah the priest...
+  video: 28mJHlfU_I8
+  islive: true
+  title: Crossroad Online - Mary's song
+  intro: Our Sunday morning service is led by Jon and Louise and will be
+    livestreamed at 10.30am.
 ---
