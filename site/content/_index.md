@@ -1,8 +1,10 @@
 ---
 sundayschool:
-  intro: When God sent Jesus to earth, he changed everything. His presence was the
-    greatest gift that the world had ever received.
-  video: FrOBJo6LNfw
+  intro: Jesus was completely human, but also completely God! That means He was
+    perfect, and never did anything wrong. He ate and slept and had friends just
+    like you and me, but he could also do incredible things that only God can
+    do.
+  video: 8u-ICIHAmKk
 specialvideo:
   title: Remembrance Sunday 2020
   isdisplayed: false
@@ -11,13 +13,12 @@ specialvideo:
     reflect and remember on Remembrance Sunday.
 blessing:
   heading: Benediction
-  text: Now to Him who is able to do immeasurably more than all we ask or imagine,
-    according to His power that is at work within us, to Him be glory in the
-    church and in Christ Jesus throughout all generations, for ever and ever!
-    Amen.
+  text: May our Lord Jesus Christ Himself and God our Father, who loved us and by
+    His grace gave us eternal encouragement and good hope, encourage your hearts
+    and strengthen you in every good deed and word.
 pagetitle: Sunday worship
 title: Crossroad Online
-subtitle: Sunday worship - 6th December 2020
+subtitle: Sunday worship - 13th December 2020
 image: /img/seaton.jpg
 blurb:
   heading: Welcome!
@@ -32,16 +33,16 @@ worshipintro:
     join in with the lyrics that will be on screen.  Why not also spend some
     time in prayer before moving on to the message?
 worshipvideos:
-  - title: Give thanks to the Lord
-    video: gUH_NzfRmbs
-  - video: 7_dtbmVdQY4
-    title: How great Thou art
-  - video: n5m_naj292o
-    title: Good good Father
-  - video: DXDGE_lRI0E
-    title: 10,000 reasons
+  - title: Praise is rising
+    video: VMBDWG9tseU
+  - video: e95UjsCQZmA
+    title: Hark the herald
+  - video: r5L6QlAH3L4
+    title: What a beautiful Name it is
+  - video: y5VutCGsVXE
+    title: King of kings, majesty
 sermon:
-  video: 28mJHlfU_I8
+  video: yZnLEB0M8oA
   islive: true
   title: Crossroad Online - Mary's song
   intro: Our Sunday morning service is led by Jon and Louise and will be
