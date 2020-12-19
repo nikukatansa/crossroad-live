@@ -1,10 +1,8 @@
 ---
 sundayschool:
-  intro: Jesus was completely human, but also completely God! That means He was
-    perfect, and never did anything wrong. He ate and slept and had friends just
-    like you and me, but he could also do incredible things that only God can
-    do.
-  video: 8u-ICIHAmKk
+  intro: Simeon and Anna waited almost their whole lives to meet the promised
+    rescuer. When they met Jesus, they rejoiced that God kept his promise!
+  video: leN-xNrkjbo
 specialvideo:
   title: Remembrance Sunday 2020
   isdisplayed: false
@@ -13,12 +11,11 @@ specialvideo:
     reflect and remember on Remembrance Sunday.
 blessing:
   heading: Benediction
-  text: May our Lord Jesus Christ Himself and God our Father, who loved us and by
-    His grace gave us eternal encouragement and good hope, encourage your hearts
-    and strengthen you in every good deed and word.
+  text: May the God of hope fill you with all joy and peace in believing, so that
+    by the power of the Holy Spirit you may abound in hope.
 pagetitle: Sunday worship
 title: Crossroad Online
-subtitle: Sunday worship - 13th December 2020
+subtitle: Sunday worship - 20th December 2020
 image: /img/seaton.jpg
 blurb:
   heading: Welcome!
@@ -33,18 +30,18 @@ worshipintro:
     join in with the lyrics that will be on screen.  Why not also spend some
     time in prayer before moving on to the message?
 worshipvideos:
-  - title: Praise is rising
-    video: VMBDWG9tseU
-  - video: e95UjsCQZmA
-    title: Hark the herald
-  - video: r5L6QlAH3L4
-    title: What a beautiful Name it is
-  - video: y5VutCGsVXE
-    title: King of kings, majesty
+  - title: O come all ye faithful
+    video: xzG4OOCoG2Y
+  - video: 9l7lIisdyMk
+    title: Living hope
+  - video: Gqrli3Lkf58
+    title: Behold our God
+  - video: 03G52K9X2hQ
+    title: Light of the world
 sermon:
-  video: yZnLEB0M8oA
+  video: nhHIe6M6JBI
   islive: true
-  title: Crossroad Online - Mary's song
+  title: Crossroad Online - Simeon's song
   intro: Our Sunday morning service is led by Jon and Louise and will be
     livestreamed at 10.30am.
 ---
