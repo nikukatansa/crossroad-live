@@ -29,8 +29,8 @@ collections: # A list of collections the CMS should be able to edit
               {label: "Heading", name: "heading", widget: string},
               {label: "Text", name: "text", widget: "text"}]}
           - {label: "Welcome video", name: "welcome", widget: object, fields: [
-              {label: "Show section?", name: "showsection", widget: "boolean"},
-              {label: "Youtube video ID", name: "video", widget: string}]}
+              {label: "Youtube video ID", name: "video", widget: string},
+              {label: "Show section?", name: "showsection", widget: "boolean"}]}
           - {label: "Notices", name: notices, widget: list, fields: [
               {label: "Title", name: "title", widget: string},
               {label: "Details", name: "details", widget: "text"}]}
@@ -47,9 +47,9 @@ collections: # A list of collections the CMS should be able to edit
               {label: "Show section?", name: "showsection", widget: "boolean"}]}
           - {label: "Special video", name: specialvideo, widget: object, fields: [
               {label: "Title", name: "title", widget: "text"},
-              {label: "Show section?", name: "showsection", widget: "boolean"},
               {label: "Youtube video ID", name: "video", widget: string},
-              {label: "Details", name: "intro", widget: "text"}]}
+              {label: "Details", name: "intro", widget: "text"},
+              {label: "Show section?", name: "showsection", widget: "boolean"}]}
           - {label: "Message", name: sermon, widget: object, fields: [
               {label: "Title", name: "title", widget: string},
               {label: "Livestream?", name: "islive", widget: "boolean"},
