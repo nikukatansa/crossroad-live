@@ -37,7 +37,7 @@ collections: # A list of collections the CMS should be able to edit
           - {label: "Worship Intro", name: worshipintro, widget: object, fields: [
               {label: "Heading", name: "heading", widget: string},
               {label: "Text", name: "text", widget: "text"},
-              {label: "Show section?", name: "showsection", widget, "boolean"}]}
+              {label: "Show section?", name: "showsection", widget: "boolean"}]}
           - {label: "Worship Videos", name: worshipvideos, widget: list, fields: [
               {label: "Youtube video ID", name: "video", widget: string},
               {label: "Title", name: "title", widget: string}]}
