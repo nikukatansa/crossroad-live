@@ -25,7 +25,7 @@ export default class PostPreview extends React.Component {
 
         <div className="bg-off-white pv4">
           <div className="ph3 mw7 center">
-            {entry.getIn(["data", "welcome", "showsection"]) &&
+            {Boolean(entry.getIn(["data", "welcome", "showsection"])) &&
               <div className="flex-ns">
                 <div style={{width: '100%'}}>
                   <div style={{position: 'relative', paddingBottom: '56.25%', marginBottom: '30px', height: '0', overflow: 'hidden', maxWidth: '100%'}}>
@@ -130,7 +130,7 @@ export default class PostPreview extends React.Component {
           </div>
         </div>
 
-        {entry.getIn(["data", "blessing", "showsection"]) &&
+        {Boolean(entry.getIn(["data", "blessing", "showsection"])) &&
           <div className="bg-grey-1 pv4">
             <div className="flex-l mhn1-l ph3 center mw7">
               <h2 className="f2 b lh-title mb2 w-40-l">{entry.getIn(["data", "blessing", "heading"])}</h2>
