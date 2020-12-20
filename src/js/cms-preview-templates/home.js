@@ -41,7 +41,7 @@ export default class PostPreview extends React.Component {
                 </div>
               </div>
             }
-            {((entry.getIn(["data", "notices"]) || []) != []) && <h2 className="f2 b lh-title mb2">Notices</h2>}
+            {((entry.getIn(["data", "notices"]) || []).length > 0) && <h2 className="f2 b lh-title mb2">Notices</h2>}
             {(entry.getIn(["data", "notices"]) || []).map((notice, i) => <div className="" key={i}>
                 <h3 className="b">{notice.get("title")}</h3>
                 <p className="mw-100">{notice.get("details")}</p>
