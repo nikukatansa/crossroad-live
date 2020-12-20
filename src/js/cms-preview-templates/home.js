@@ -49,86 +49,94 @@ export default class PostPreview extends React.Component {
           </div>
         </div>
 
-        <div className="bg-off-white pv4">
-          <div className="ph3 mw7 center">
-            <h2 className="f2 b lh-title mb2">{entry.getIn(["data", "worshipintro", "heading"])}</h2>
-            <p className="mb4 mw-100">{entry.getIn(["data", "worshipintro", "text"])}</p>
+        {Boolean(entry.getIn(["data", "worshipintro", "showsection"])) &&
+          <div className="bg-off-white pv4">
+            <div className="ph3 mw7 center">
+              <h2 className="f2 b lh-title mb2">{entry.getIn(["data", "worshipintro", "heading"])}</h2>
+              <p className="mb4 mw-100">{entry.getIn(["data", "worshipintro", "text"])}</p>
 
-            <div className="flex-ns">
-              <div style={{width:'100%'}}>
-              {(entry.getIn(["data", "worshipvideos"]) || []).map((vid, i) => 
-                <div key={i} style={{position: 'relative', paddingBottom: '56.25%', marginBottom: '30px', height: '0', overflow: 'hidden', maxWidth: '100%'}}>
-                  <iframe
-                  src={`//www.youtube.com/embed/${vid.get("video")}`}
-                  style={{position: 'absolute', top: '0', left: '0', width: '100%', height: '100%'}}
-                  allowfullscreen
-                  frameborder="0"
-                  title={`${vid.get("title")}`}
-                  ></iframe>
-                </div>)}
-              </div>
-            </div>
-          </div>
-        </div>
-
-        <div className="bg-off-white pv4">
-          <div className="ph3 mw7 center">
-            <h2 className="f2 b lh-title mb2">Sunday School</h2>
-            <p className="mb4 mw6">{entry.getIn(["data", "sundayschool", "intro"])}</p>
-            <div className="flex-ns">
-              <div style={{width:'100%'}}>
-                <div style={{position: 'relative', paddingBottom: '56.25%', marginBottom: '30px', height: '0', overflow: 'hidden', maxWidth: '100%'}}>
-                  <iframe
-                    src={`//www.youtube.com/embed/${entry.getIn(["data", "sundayschool", "video"])}`}
+              <div className="flex-ns">
+                <div style={{width:'100%'}}>
+                {(entry.getIn(["data", "worshipvideos"]) || []).map((vid, i) => 
+                  <div key={i} style={{position: 'relative', paddingBottom: '56.25%', marginBottom: '30px', height: '0', overflow: 'hidden', maxWidth: '100%'}}>
+                    <iframe
+                    src={`//www.youtube.com/embed/${vid.get("video")}`}
                     style={{position: 'absolute', top: '0', left: '0', width: '100%', height: '100%'}}
                     allowfullscreen
                     frameborder="0"
-                  ></iframe>
+                    title={`${vid.get("title")}`}
+                    ></iframe>
+                  </div>)}
                 </div>
               </div>
             </div>
           </div>
-        </div>
+        }
 
-        <div className="bg-off-white pv4">
-          <div className="ph3 mw7 center">
-            <h2 className="f2 b lh-title mb2">{entry.getIn(["data", "specialvideo", "title"])}</h2>
-            <p className="mb4 mw6">{entry.getIn(["data", "specialvideo", "intro"])}</p>
-            <div className="flex-ns">
-              <div style={{width:'100%'}}>
-                <div style={{position: 'relative', paddingBottom: '56.25%', marginBottom: '30px', height: '0', overflow: 'hidden', maxWidth: '100%'}}>
-                  <iframe
-                    src={`//www.youtube.com/embed/${entry.getIn(["data", "specialvideo", "video"])}`}
-                    style={{position: 'absolute', top: '0', left: '0', width: '100%', height: '100%'}}
-                    allowfullscreen
-                    frameborder="0"
-                    title={`${entry.getIn(["data", "sermon", "title"])}`}
-                  ></iframe>
+        {Boolean(entry.getIn(["data", "sundayschool", "showsection"])) &&
+          <div className="bg-off-white pv4">
+            <div className="ph3 mw7 center">
+              <h2 className="f2 b lh-title mb2">Sunday School</h2>
+              <p className="mb4 mw6">{entry.getIn(["data", "sundayschool", "intro"])}</p>
+              <div className="flex-ns">
+                <div style={{width:'100%'}}>
+                  <div style={{position: 'relative', paddingBottom: '56.25%', marginBottom: '30px', height: '0', overflow: 'hidden', maxWidth: '100%'}}>
+                    <iframe
+                      src={`//www.youtube.com/embed/${entry.getIn(["data", "sundayschool", "video"])}`}
+                      style={{position: 'absolute', top: '0', left: '0', width: '100%', height: '100%'}}
+                      allowfullscreen
+                      frameborder="0"
+                    ></iframe>
+                  </div>
                 </div>
               </div>
             </div>
           </div>
-        </div>
+        }
 
-        <div className="bg-off-white pv4">
-          <div className="ph3 mw7 center">
-            <h2 className="f2 b lh-title mb2">This week's message</h2>
-            <p className="mb4 mw6">{entry.getIn(["data", "sermon", "intro"])}</p>
-            <div className="flex-ns">
-              <div style={{width:'100%'}}>
-                <div style={{position: 'relative', paddingBottom: '56.25%', marginBottom: '30px', height: '0', overflow: 'hidden', maxWidth: '100%'}}>
-                  <iframe
-                    src={`//www.youtube.com/embed/${entry.getIn(["data", "sermon", "video"])}`}
-                    style={{position: 'absolute', top: '0', left: '0', width: '100%', height: '100%'}}
-                    allowfullscreen
-                    frameborder="0"
-                    title={`${entry.getIn(["data", "sermon", "title"])}`}
-                  ></iframe>
+        {Boolean(entry.getIn(["data", "specialvideo", "showsection"])) &&
+          <div className="bg-off-white pv4">
+            <div className="ph3 mw7 center">
+              <h2 className="f2 b lh-title mb2">{entry.getIn(["data", "specialvideo", "title"])}</h2>
+              <p className="mb4 mw6">{entry.getIn(["data", "specialvideo", "intro"])}</p>
+              <div className="flex-ns">
+                <div style={{width:'100%'}}>
+                  <div style={{position: 'relative', paddingBottom: '56.25%', marginBottom: '30px', height: '0', overflow: 'hidden', maxWidth: '100%'}}>
+                    <iframe
+                      src={`//www.youtube.com/embed/${entry.getIn(["data", "specialvideo", "video"])}`}
+                      style={{position: 'absolute', top: '0', left: '0', width: '100%', height: '100%'}}
+                      allowfullscreen
+                      frameborder="0"
+                      title={`${entry.getIn(["data", "sermon", "title"])}`}
+                    ></iframe>
+                  </div>
                 </div>
               </div>
             </div>
           </div>
-        </div>
+        }
+
+        {Boolean(entry.getIn(["data", "sermon", "showsection"])) &&
+          <div className="bg-off-white pv4">
+            <div className="ph3 mw7 center">
+              <h2 className="f2 b lh-title mb2">This week's message</h2>
+              <p className="mb4 mw6">{entry.getIn(["data", "sermon", "intro"])}</p>
+              <div className="flex-ns">
+                <div style={{width:'100%'}}>
+                  <div style={{position: 'relative', paddingBottom: '56.25%', marginBottom: '30px', height: '0', overflow: 'hidden', maxWidth: '100%'}}>
+                    <iframe
+                      src={`//www.youtube.com/embed/${entry.getIn(["data", "sermon", "video"])}`}
+                      style={{position: 'absolute', top: '0', left: '0', width: '100%', height: '100%'}}
+                      allowfullscreen
+                      frameborder="0"
+                      title={`${entry.getIn(["data", "sermon", "title"])}`}
+                    ></iframe>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        }
 
         {Boolean(entry.getIn(["data", "blessing", "showsection"])) &&
           <div className="bg-grey-1 pv4">
