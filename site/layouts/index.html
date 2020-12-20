@@ -6,14 +6,24 @@
 
 {{ partial "notice-block" .Params}}
 
-{{ partial "worship-block" .Params}}
+{{ if eq .Params.worshipintro.showsection true }}
+    {{ partial "worship-block" .Params}}
+{{ end }}
 
-{{ partial "sunday-school-block" .Params}}
+{{ if eq .Params.sundayschool.showsection true }}
+    {{ partial "sunday-school-block" .Params}}
+{{ end }}
 
-{{ partial "special-video" .Params}}
+{{ if eq .Params.specialvideo.showsection true }}
+    {{ partial "special-video" .Params}}
+{{ end }}
 
-{{ partial "sermon-block" .Params}}
+{{ if eq .Params.sermon.showsection true }}
+    {{ partial "sermon-block" .Params}}
+{{ end }}
 
-{{ partial "short-text" .Params.blessing}}
+{{ if eq .Params.blessing.showsection true }}
+    {{ partial "short-text" .Params.blessing}}
+{{ end }}
 
 {{ end }}

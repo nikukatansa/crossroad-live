@@ -28,32 +28,38 @@ collections: # A list of collections the CMS should be able to edit
           - {label: "Blurb", name: blurb, widget: object, fields: [
               {label: "Heading", name: "heading", widget: string},
               {label: "Text", name: "text", widget: "text"}]}
-          - {label: "Welcome Video", name: "welcomevideo", widget: string}
+          - {label: "Welcome video", name: "welcome", widget: object, fields: [
+              {label: "Show section?", name: "showsection", widget: "boolean"},
+              {label: "Youtube video ID", name: "video", widget: string}]}
           - {label: "Notices", name: notices, widget: list, fields: [
               {label: "Title", name: "title", widget: string},
               {label: "Details", name: "details", widget: "text"}]}
           - {label: "Worship Intro", name: worshipintro, widget: object, fields: [
               {label: "Heading", name: "heading", widget: string},
-              {label: "Text", name: "text", widget: "text"}]}
+              {label: "Text", name: "text", widget: "text"},
+              {label: "Show section?", name: "showsection", widget, "boolean"}]}
           - {label: "Worship Videos", name: worshipvideos, widget: list, fields: [
               {label: "Youtube video ID", name: "video", widget: string},
               {label: "Title", name: "title", widget: string}]}
           - {label: "Sunday School", name: sundayschool, widget: object, fields: [
               {label: "Intro", name: "intro", widget: "text"},
-              {label: "Youtube video ID", name: "video", widget: string}]}
+              {label: "Youtube video ID", name: "video", widget: string},
+              {label: "Show section?", name: "showsection", widget: "boolean"}]}
           - {label: "Special video", name: specialvideo, widget: object, fields: [
               {label: "Title", name: "title", widget: "text"},
-              {label: "Display?", name: "isdisplayed", widget: "boolean"},
+              {label: "Show section?", name: "showsection", widget: "boolean"},
               {label: "Youtube video ID", name: "video", widget: string},
               {label: "Details", name: "intro", widget: "text"}]}
           - {label: "Message", name: sermon, widget: object, fields: [
               {label: "Title", name: "title", widget: string},
               {label: "Livestream?", name: "islive", widget: "boolean"},
               {label: "Details", name: "intro", widget: "text"},
-              {label: "Youtube video ID", name: "video", widget: string}]}
+              {label: "Youtube video ID", name: "video", widget: string},
+              {label: "Show section?", name: "showsection", widget: string}]}
           - {label: "Blessing", name: blessing, widget: object, fields: [
               {label: "Heading", name: "heading", widget: string},
-              {label: "Text", name: "text", widget: "text"}]}
+              {label: "Text", name: "text", widget: "text"},
+              {label: "Show section?", name: "showsection", widget: "boolean"}]}
       - file: "site/content/prayer/_index.md"
         label: "Prayer Page"
         name: "prayer"
