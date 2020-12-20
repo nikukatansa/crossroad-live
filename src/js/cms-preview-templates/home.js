@@ -25,20 +25,22 @@ export default class PostPreview extends React.Component {
 
         <div className="bg-off-white pv4">
           <div className="ph3 mw7 center">
-            <div className="flex-ns">
-              <div style={{width: '100%'}}>
-                <div style={{position: 'relative', paddingBottom: '56.25%', marginBottom: '30px', height: '0', overflow: 'hidden', maxWidth: '100%'}}>
-                  <div style={{position: 'relative', paddingBottom: '56.25%', paddingTop: '30px', height: '0', overflow: 'hidden'}}>
-                    <iframe
-                      src={`//www.youtube.com/embed/${entry.getIn(["data", "welcomevideo"])}`}
-                      style={{position: 'absolute', top: '0', left: '0', width: '100%', height: '100%'}}
-                      allowfullscreen
-                      frameborder="0"
-                    ></iframe>
+            {entry.getIn(["data", "welcome", "showsection"]) &&
+              <div className="flex-ns">
+                <div style={{width: '100%'}}>
+                  <div style={{position: 'relative', paddingBottom: '56.25%', marginBottom: '30px', height: '0', overflow: 'hidden', maxWidth: '100%'}}>
+                    <div style={{position: 'relative', paddingBottom: '56.25%', paddingTop: '30px', height: '0', overflow: 'hidden'}}>
+                      <iframe
+                        src={`//www.youtube.com/embed/${entry.getIn(["data", "welcome", "video"])}`}
+                        style={{position: 'absolute', top: '0', left: '0', width: '100%', height: '100%'}}
+                        allowfullscreen
+                        frameborder="0"
+                      ></iframe>
+                    </div>
                   </div>
                 </div>
               </div>
-            </div>
+            }
             {((entry.getIn(["data", "notices"]) || []) != []) && <h2 className="f2 b lh-title mb2">Notices</h2>}
             {(entry.getIn(["data", "notices"]) || []).map((notice, i) => <div className="" key={i}>
                 <h3 className="b">{notice.get("title")}</h3>
@@ -128,13 +130,14 @@ export default class PostPreview extends React.Component {
           </div>
         </div>
 
-        <div className="bg-grey-1 pv4">
-          <div className="flex-l mhn1-l ph3 center mw7">
-            <h2 className="f2 b lh-title mb2 w-40-l">{entry.getIn(["data", "blessing", "heading"])}</h2>
-            <p className="w-60-l mb0">{entry.getIn(["data", "blessing", "text"])}</p>
+        {entry.getIn(["data", "blessing", "showsection"]) &&
+          <div className="bg-grey-1 pv4">
+            <div className="flex-l mhn1-l ph3 center mw7">
+              <h2 className="f2 b lh-title mb2 w-40-l">{entry.getIn(["data", "blessing", "heading"])}</h2>
+              <p className="w-60-l mb0">{entry.getIn(["data", "blessing", "text"])}</p>
+            </div>
           </div>
-        </div>
-
+        }
       </div>
   }
 }
