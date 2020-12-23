@@ -1,9 +1,12 @@
 ---
+welcome:
+  video: KuIWe4HIlCA
+  showsection: true
 sundayschool:
   intro: Simeon and Anna waited almost their whole lives to meet the promised
     rescuer. When they met Jesus, they rejoiced that God kept his promise!
   video: leN-xNrkjbo
-  showsection: true
+  showsection: false
 specialvideo:
   title: Remembrance Sunday 2020
   showsection: false
@@ -14,26 +17,22 @@ blessing:
   heading: Benediction
   text: May the God of hope fill you with all joy and peace in believing, so that
     by the power of the Holy Spirit you may abound in hope.
-  showsection: true
+  showsection: false
 pagetitle: Sunday worship
 title: Crossroad Online
-subtitle: Sunday worship - 20th December 2020
+subtitle: Christmas Day 2020
 image: /img/seaton.jpg
 blurb:
   heading: Welcome!
-  text: Welcome to our online service for this week.  We pray that this will be an
-    encouragement to you during these uncertain times and will help you to focus
-    on our unchanging God.
-welcome:
-  video: LOyUfwdntpA
-  showsection: true
+  text: Welcome to our Christmas Day service, which is led by Canon J John and
+    Killy John.  We hope that you have a happy Christmas!
 notices: []
 worshipintro:
   heading: Draw Near
   text: Let's spend some time worshipping God in song.  Please play the videos and
     join in with the lyrics that will be on screen.  Why not also spend some
     time in prayer before moving on to the message?
-  showsection: true
+  showsection: false
 worshipvideos:
   - title: O come all ye faithful
     video: xzG4OOCoG2Y
@@ -49,5 +48,5 @@ sermon:
   title: Crossroad Online - Simeon's song
   intro: Our Sunday morning service is led by Jon and Louise and will be
     livestreamed at 10.30am.
-  showsection: true
+  showsection: false
 ---
