@@ -29,14 +29,12 @@ export default class PostPreview extends React.Component {
               <div className="flex-ns">
                 <div style={{width: '100%'}}>
                   <div style={{position: 'relative', paddingBottom: '56.25%', marginBottom: '30px', height: '0', overflow: 'hidden', maxWidth: '100%'}}>
-                    <div style={{position: 'relative', paddingBottom: '56.25%', paddingTop: '30px', height: '0', overflow: 'hidden'}}>
-                      <iframe
-                        src={`//www.youtube.com/embed/${entry.getIn(["data", "welcome", "video"])}`}
-                        style={{position: 'absolute', top: '0', left: '0', width: '100%', height: '100%'}}
-                        allowfullscreen
-                        frameborder="0"
-                      ></iframe>
-                    </div>
+                    <iframe
+                      src={`//www.youtube.com/embed/${entry.getIn(["data", "welcome", "video"])}`}
+                      style={{position: 'absolute', top: '0', left: '0', width: '100%', height: '100%'}}
+                      allowfullscreen
+                      frameborder="0"
+                    ></iframe>
                   </div>
                 </div>
               </div>
