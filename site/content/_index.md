@@ -1,12 +1,12 @@
 ---
 welcome:
-  video: KuIWe4HIlCA
+  video: LOyUfwdntpA
   showsection: true
 sundayschool:
-  intro: Simeon and Anna waited almost their whole lives to meet the promised
-    rescuer. When they met Jesus, they rejoiced that God kept his promise!
-  video: leN-xNrkjbo
-  showsection: false
+  intro: Every family has their Christmas traditions and watching "An Unexpected
+    Christmas" is one of ours!
+  video: TM1XusYVqNY
+  showsection: true
 specialvideo:
   title: Remembrance Sunday 2020
   showsection: false
@@ -15,38 +15,41 @@ specialvideo:
     reflect and remember on Remembrance Sunday.
 blessing:
   heading: Benediction
-  text: May the God of hope fill you with all joy and peace in believing, so that
-    by the power of the Holy Spirit you may abound in hope.
-  showsection: false
+  text: Now to Him who is able to do immeasurably more than all we ask or imagine,
+    according to His power that is at work within us, to Him be glory in the
+    church and in Christ Jesus throughout all generations, for ever and ever!
+    Amen.
+  showsection: true
 pagetitle: Sunday worship
 title: Crossroad Online
-subtitle: Christmas Day 2020
+subtitle: Sunday worship - 27th December 2020
 image: /img/seaton.jpg
 blurb:
   heading: Welcome!
-  text: Welcome to our Christmas Day service, which is led by Canon J John and
-    Killy John.  We hope that you have a happy Christmas!
+  text: Welcome to our online service for this week.  We pray that this will be an
+    encouragement to you during these uncertain times and will help you to focus
+    on our unchanging God.
 notices: []
 worshipintro:
   heading: Draw Near
   text: Let's spend some time worshipping God in song.  Please play the videos and
     join in with the lyrics that will be on screen.  Why not also spend some
     time in prayer before moving on to the message?
-  showsection: false
+  showsection: true
 worshipvideos:
-  - title: O come all ye faithful
-    video: xzG4OOCoG2Y
-  - video: 9l7lIisdyMk
-    title: Living hope
-  - video: Gqrli3Lkf58
-    title: Behold our God
-  - video: 03G52K9X2hQ
-    title: Light of the world
+  - title: Joy to the world
+    video: vZhgpb97y7Q
+  - video: bjOLDaSfIHQ
+    title: Yesterday, today and forever
+  - video: kPv4vnW6X-Q
+    title: In Christ alone
+  - video: 6D6-IHd3pUc
+    title: O little town of Bethlehem
 sermon:
-  video: nhHIe6M6JBI
-  islive: true
-  title: Crossroad Online - Simeon's song
-  intro: Our Sunday morning service is led by Jon and Louise and will be
-    livestreamed at 10.30am.
-  showsection: false
+  video: 56OpnzsVolA
+  islive: false
+  title: Crossroad Online - New Wineskins
+  intro: As we approach the end of another year, Robert looks ahead to the future
+    and the new things that God wants to do in and through us.
+  showsection: true
 ---
