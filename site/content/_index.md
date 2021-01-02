@@ -3,9 +3,11 @@ welcome:
   video: LOyUfwdntpA
   showsection: true
 sundayschool:
-  intro: Every family has their Christmas traditions and watching "An Unexpected
-    Christmas" is one of ours!
-  video: TM1XusYVqNY
+  intro: Jesus was born at Christmas, and died on a cross and then came back to
+    life at Easter. He taught big crowds and made sick people better.  He did
+    all those things, but that’s not all there is to know about Jesus. He also
+    did a lot of normal stuff, showing that He's like us too...
+  video: a7A8CL2aH10
   showsection: true
 specialvideo:
   title: Remembrance Sunday 2020
@@ -15,14 +17,14 @@ specialvideo:
     reflect and remember on Remembrance Sunday.
 blessing:
   heading: Benediction
-  text: Now to Him who is able to do immeasurably more than all we ask or imagine,
-    according to His power that is at work within us, to Him be glory in the
-    church and in Christ Jesus throughout all generations, for ever and ever!
-    Amen.
+  text: But thanks be to God! He gives us the victory through our Lord Jesus
+    Christ.  Therefore, my dear brothers and sisters, stand firm. Let nothing
+    move you. Always give yourselves fully to the work of the Lord, because you
+    know that your labour in the Lord is not in vain.
   showsection: true
 pagetitle: Sunday worship
 title: Crossroad Online
-subtitle: Sunday worship - 27th December 2020
+subtitle: Sunday worship - 3rd January 2021
 image: /img/seaton.jpg
 blurb:
   heading: Welcome!
@@ -37,19 +39,19 @@ worshipintro:
     time in prayer before moving on to the message?
   showsection: true
 worshipvideos:
-  - title: Joy to the world
-    video: vZhgpb97y7Q
-  - video: bjOLDaSfIHQ
-    title: Yesterday, today and forever
-  - video: kPv4vnW6X-Q
-    title: In Christ alone
-  - video: 6D6-IHd3pUc
-    title: O little town of Bethlehem
+  - video: dtj-G1gKnD8
+    title: Here for You
+  - title: Be Thou my vision
+    video: abydasmEBNU
+  - video: BGYpF-Jrfew
+    title: Build my life
+  - video: MERQ0P6O0CE
+    title: Jesus be the centre
 sermon:
-  video: 56OpnzsVolA
-  islive: false
-  title: Crossroad Online - New Wineskins
-  intro: As we approach the end of another year, Robert looks ahead to the future
-    and the new things that God wants to do in and through us.
+  video: BLICdxtohKM
+  islive: true
+  title: Sunday Stream - 3rd January 2021
+  intro: Our Sunday service is led by Jon Sibley and we'll be livestreaming it at
+    10.30am.
   showsection: true
 ---
