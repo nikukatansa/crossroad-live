@@ -1,7 +1,9 @@
 <div class="bg-off-white pv4">
   <div class="ph3 mw7 center">
+    {{ if eq .sermon.pinned false }}
     <h2 class="f2 b lh-title mb2">This week's message</h2>
     <p class="mb4 mw-100">{{.sermon.intro}}</p>
+    {{ end }}
     <div class="flex-ns">
       <div style="width: 100%;">
         {{ if eq .sermon.islive false }}

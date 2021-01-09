@@ -4,6 +4,10 @@
 
 {{ partial "short-text" .Params.blurb}}
 
+{{ if and (eq .Params.sermon.showsection true) (eq .Params.sermon.pinned true) }}
+    {{ partial "sermon-block" .Params}}
+{{ end }}
+
 {{ partial "notice-block" .Params}}
 
 {{ if eq .Params.worshipintro.showsection true }}
@@ -18,7 +22,7 @@
     {{ partial "special-video" .Params}}
 {{ end }}
 
-{{ if eq .Params.sermon.showsection true }}
+{{ if and (eq .Params.sermon.showsection true) (eq .Params.sermon.pinned false) }}
     {{ partial "sermon-block" .Params}}
 {{ end }}
 

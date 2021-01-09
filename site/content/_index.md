@@ -50,6 +50,7 @@ worshipvideos:
 sermon:
   video: BLICdxtohKM
   islive: true
+  pinned: false
   title: Sunday Stream - 3rd January 2021
   intro: Our Sunday service is led by Jon Sibley and we'll be livestreaming it at
     10.30am.
