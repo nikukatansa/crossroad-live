@@ -3,10 +3,10 @@ welcome:
   video: LOyUfwdntpA
   showsection: false
 sundayschool:
-  intro: One of Jesus’ sermons is called the Sermon on the Mount. He talked all
-    about God’s love; then He went right out and showed us what God’s love looks
-    like. You can read about it in Matthew 5-7.
-  video: Ze7w3-BL3OM
+  intro: Jesus healed a man who couldn’t walk. He did that right after he forgave
+    the man for all the wrong things he’d done and called him a friend. You can
+    read all about it in Luke 5:17-26.
+  video: SWDgdPiNpz0
   showsection: true
 specialvideo:
   title: Remembrance Sunday 2020
@@ -16,13 +16,13 @@ specialvideo:
     reflect and remember on Remembrance Sunday.
 blessing:
   heading: Benediction
-  text: May God Himself, the God of peace, sanctify you through and through. May
-    your whole spirit, soul and body be kept blameless at the coming of our Lord
-    Jesus Christ. The one who calls you is faithful, and He will do it.
+  text: Therefore, my dear brothers and sisters, stand firm. Let nothing move you.
+    Always give yourselves fully to the work of the Lord, because you know that
+    your labour in the Lord is not in vain.
   showsection: true
 pagetitle: Sunday worship
 title: Crossroad Online
-subtitle: Sunday worship - 17th January 2021
+subtitle: Sunday worship - 24th January 2021
 image: /img/seaton.jpg
 blurb:
   heading: Welcome!
@@ -46,10 +46,10 @@ worshipvideos:
   - video: MERQ0P6O0CE
     title: Jesus be the centre
 sermon:
-  video: gtnnwXohR5g
+  video: UBHO3PQK1NI
   islive: true
   pinned: true
-  title: Sunday Stream - 17th January 2021
+  title: Sunday Stream - 24th January 2021
   intro: Our Sunday service is led by Jon Sibley and we'll be livestreaming it at
     10.30am.
   showsection: true
