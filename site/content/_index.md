@@ -3,10 +3,10 @@ welcome:
   video: LOyUfwdntpA
   showsection: false
 sundayschool:
-  intro: Jesus healed a man who couldn’t walk. He did that right after he forgave
-    the man for all the wrong things he’d done and called him a friend. You can
-    read all about it in Luke 5:17-26.
-  video: SWDgdPiNpz0
+  intro: Zacchaeus was a tax collector who had no friends because he took people’s
+    money to make himself rich. Jesus showed him love, and it changed his life.
+    You can find this story in Luke 19:1-9.
+  video: Fe7dTNID6h8
   showsection: true
 specialvideo:
   title: Remembrance Sunday 2020
@@ -16,13 +16,15 @@ specialvideo:
     reflect and remember on Remembrance Sunday.
 blessing:
   heading: Benediction
-  text: Therefore, my dear brothers and sisters, stand firm. Let nothing move you.
-    Always give yourselves fully to the work of the Lord, because you know that
-    your labour in the Lord is not in vain.
+  text: Now may the God of peace, who through the blood of the eternal covenant
+    brought back from the dead our Lord Jesus, that great Shepherd of the sheep,
+    equip you with everything good for doing his will, and may He work in us
+    what is pleasing to Him, through Jesus Christ, to whom be glory for ever and
+    ever. Amen.
   showsection: true
 pagetitle: Sunday worship
 title: Crossroad Online
-subtitle: Sunday worship - 24th January 2021
+subtitle: Sunday worship - 31st January 2021
 image: /img/seaton.jpg
 blurb:
   heading: Welcome!
@@ -46,10 +48,10 @@ worshipvideos:
   - video: MERQ0P6O0CE
     title: Jesus be the centre
 sermon:
-  video: UBHO3PQK1NI
+  video: UzdeSVpvLd8
   islive: true
   pinned: true
-  title: Sunday Stream - 24th January 2021
+  title: Sunday Stream - 31st January 2021
   intro: Our Sunday service is led by Jon Sibley and we'll be livestreaming it at
     10.30am.
   showsection: true
