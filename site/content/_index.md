@@ -3,10 +3,10 @@ welcome:
   video: LOyUfwdntpA
   showsection: false
 sundayschool:
-  intro: Zacchaeus was a tax collector who had no friends because he took people’s
-    money to make himself rich. Jesus showed him love, and it changed his life.
-    You can find this story in Luke 19:1-9.
-  video: Fe7dTNID6h8
+  intro: Two sisters, Mary and Martha, had Jesus over for dinner. When He arrived,
+    they did two very different things. See how Jesus responded to them in Luke
+    10:38-42 - and why He may have responded that way...
+  video: AQGKLA4AfXs
   showsection: true
 specialvideo:
   title: Remembrance Sunday 2020
@@ -16,15 +16,13 @@ specialvideo:
     reflect and remember on Remembrance Sunday.
 blessing:
   heading: Benediction
-  text: Now may the God of peace, who through the blood of the eternal covenant
-    brought back from the dead our Lord Jesus, that great Shepherd of the sheep,
-    equip you with everything good for doing his will, and may He work in us
-    what is pleasing to Him, through Jesus Christ, to whom be glory for ever and
-    ever. Amen.
+  text: Therefore, my dear brothers and sisters, stand firm. Let nothing move you.
+    Always give yourselves fully to the work of the Lord, because you know that
+    your labour in the Lord is not in vain.
   showsection: true
 pagetitle: Sunday worship
 title: Crossroad Online
-subtitle: Sunday worship - 31st January 2021
+subtitle: Sunday worship - 7th February 2021
 image: /img/seaton.jpg
 blurb:
   heading: Welcome!
@@ -48,11 +46,13 @@ worshipvideos:
   - video: MERQ0P6O0CE
     title: Jesus be the centre
 sermon:
-  video: UzdeSVpvLd8
+  video: 54T8-nAkeX8
   islive: true
   pinned: true
-  title: Sunday Stream - 31st January 2021
+  title: Sunday Stream - 7th February 2021
   intro: Our Sunday service is led by Jon Sibley and we'll be livestreaming it at
-    10.30am.
+    10.30am.  This morning's message comes from Gavin Calver, the CEO of the
+    Evangelical Alliance.  It is being used with permission from the Evangelical
+    Alliance under a Creative Commons Attribution 4.0 International License.
   showsection: true
 ---
