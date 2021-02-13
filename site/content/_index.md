@@ -3,10 +3,10 @@ welcome:
   video: LOyUfwdntpA
   showsection: false
 sundayschool:
-  intro: Two sisters, Mary and Martha, had Jesus over for dinner. When He arrived,
-    they did two very different things. See how Jesus responded to them in Luke
-    10:38-42 - and why He may have responded that way...
-  video: AQGKLA4AfXs
+  intro: This tells the story of Jesus visiting the Pool of Bethesda in Jerusalem
+    and healing a man who had been unable to walk for 38 years.  You can read it
+    for yourself in John chapter 5.
+  video: y1cykPOiMuY
   showsection: true
 specialvideo:
   title: Remembrance Sunday 2020
@@ -16,13 +16,14 @@ specialvideo:
     reflect and remember on Remembrance Sunday.
 blessing:
   heading: Benediction
-  text: Therefore, my dear brothers and sisters, stand firm. Let nothing move you.
-    Always give yourselves fully to the work of the Lord, because you know that
-    your labour in the Lord is not in vain.
+  text: And I pray that you, being rooted and established in love, may have power,
+    together with all the Lord’s holy people, to grasp how wide and long and
+    high and deep is the love of Christ, and to know this love that surpasses
+    knowledge—that you may be filled to the measure of all the fullness of God.
   showsection: true
 pagetitle: Sunday worship
 title: Crossroad Online
-subtitle: Sunday worship - 7th February 2021
+subtitle: Sunday worship - 14th February 2021
 image: /img/seaton.jpg
 blurb:
   heading: Welcome!
@@ -46,13 +47,11 @@ worshipvideos:
   - video: MERQ0P6O0CE
     title: Jesus be the centre
 sermon:
-  video: 54T8-nAkeX8
+  video: qhUYcNFP9DE
   islive: true
   pinned: true
-  title: Sunday Stream - 7th February 2021
+  title: Sunday Stream - 14th February 2021
   intro: Our Sunday service is led by Jon Sibley and we'll be livestreaming it at
-    10.30am.  This morning's message comes from Gavin Calver, the CEO of the
-    Evangelical Alliance.  It is being used with permission from the Evangelical
-    Alliance under a Creative Commons Attribution 4.0 International License.
+    10.30am.
   showsection: true
 ---
