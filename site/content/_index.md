@@ -3,10 +3,9 @@ welcome:
   video: LOyUfwdntpA
   showsection: false
 sundayschool:
-  intro: This tells the story of Jesus visiting the Pool of Bethesda in Jerusalem
-    and healing a man who had been unable to walk for 38 years.  You can read it
-    for yourself in John chapter 5.
-  video: y1cykPOiMuY
+  intro: Peter was a close friend of Jesus and one of His disciples.  Here are
+    some of the things that he did as he followed Jesus.
+  video: SVx_G8yB19I
   showsection: true
 specialvideo:
   title: Remembrance Sunday 2020
@@ -16,14 +15,13 @@ specialvideo:
     reflect and remember on Remembrance Sunday.
 blessing:
   heading: Benediction
-  text: And I pray that you, being rooted and established in love, may have power,
-    together with all the Lord’s holy people, to grasp how wide and long and
-    high and deep is the love of Christ, and to know this love that surpasses
-    knowledge—that you may be filled to the measure of all the fullness of God.
+  text: May our Lord Jesus Christ Himself and God our Father, who loved us and by
+    His grace gave us eternal encouragement and good hope, encourage your hearts
+    and strengthen you in every good deed and word.
   showsection: true
 pagetitle: Sunday worship
 title: Crossroad Online
-subtitle: Sunday worship - 14th February 2021
+subtitle: Sunday worship - 21st February 2021
 image: /img/seaton.jpg
 blurb:
   heading: Welcome!
@@ -47,11 +45,11 @@ worshipvideos:
   - video: MERQ0P6O0CE
     title: Jesus be the centre
 sermon:
-  video: qhUYcNFP9DE
+  video: isr6Vl0Ah0c
   islive: true
   pinned: true
-  title: Sunday Stream - 14th February 2021
-  intro: Our Sunday service is led by Jon Sibley and we'll be livestreaming it at
-    10.30am.
+  title: Sunday Stream - 21st February 2021
+  intro: Our Sunday service is led by Jon Sibley, with a message by Jibu Varghese,
+    and we'll be livestreaming it at 10.30am.
   showsection: true
 ---
