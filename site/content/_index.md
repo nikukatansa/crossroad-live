@@ -3,9 +3,9 @@ welcome:
   video: LOyUfwdntpA
   showsection: false
 sundayschool:
-  intro: Peter was one of Jesus' disciples and was able to do something amazing
-    because he trusted Jesus...
-  video: HG6I4fkB6wE
+  intro: John was one of Jesus' disciples and his story teaches us that we can
+    pray and listen to Jesus today.
+  video: hJy0mfnUDjM
   showsection: true
 specialvideo:
   title: Remembrance Sunday 2020
@@ -15,14 +15,13 @@ specialvideo:
     reflect and remember on Remembrance Sunday.
 blessing:
   heading: Benediction
-  text: Now to Him who is able to do immeasurably more than all we ask or imagine,
-    according to His power that is at work within us, to Him be glory in the
-    church and in Christ Jesus throughout all generations, for ever and ever!
-    Amen.
+  text: May our Lord Jesus Christ himself and God our Father, who loved us and by
+    His grace gave us eternal encouragement and good hope, encourage your hearts
+    and strengthen you in every good deed and word.
   showsection: true
 pagetitle: Sunday worship
 title: Crossroad Online
-subtitle: Sunday worship - 28th February 2021
+subtitle: " Sunday worship - 7th March 2021"
 image: /img/seaton.jpg
 blurb:
   heading: Welcome!
@@ -46,11 +45,11 @@ worshipvideos:
   - video: MERQ0P6O0CE
     title: Jesus be the centre
 sermon:
-  video: r5uMN6-hCB8
+  video: dj6R75zCByY
   islive: true
   pinned: true
-  title: Sunday Stream - 21st February 2021
-  intro: Our Sunday service is led by Jon Sibley, with a message by Louise Sibley,
+  title: Sunday Stream - 7th March 2021
+  intro: Our Sunday service is led by Jon Sibley, with a message by Andrew Sibley,
     and we'll be livestreaming it at 10.30am.
   showsection: true
 ---
