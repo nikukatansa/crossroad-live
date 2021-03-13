@@ -3,9 +3,11 @@ welcome:
   video: LOyUfwdntpA
   showsection: false
 sundayschool:
-  intro: John was one of Jesus' disciples and his story teaches us that we can
-    pray and listen to Jesus today.
-  video: hJy0mfnUDjM
+  intro: Jesus was completely human, but also completely God! That means He was
+    perfect, and never did anything wrong. He ate and slept and had friends just
+    like you and me, but He could also do incredible things that only God can
+    do...
+  video: 8u-ICIHAmKk
   showsection: true
 specialvideo:
   title: Remembrance Sunday 2020
@@ -15,13 +17,14 @@ specialvideo:
     reflect and remember on Remembrance Sunday.
 blessing:
   heading: Benediction
-  text: May our Lord Jesus Christ himself and God our Father, who loved us and by
-    His grace gave us eternal encouragement and good hope, encourage your hearts
-    and strengthen you in every good deed and word.
+  text: Oh, the depth of the riches of the wisdom and knowledge of God!  How
+    unsearchable His judgments, and his paths beyond tracing out!  For from Him
+    and through Him and for Him are all things.  To Him be the glory
+    forever!  Amen.
   showsection: true
 pagetitle: Sunday worship
 title: Crossroad Online
-subtitle: " Sunday worship - 7th March 2021"
+subtitle: " Sunday worship - 14th March 2021"
 image: /img/seaton.jpg
 blurb:
   heading: Welcome!
@@ -45,11 +48,11 @@ worshipvideos:
   - video: MERQ0P6O0CE
     title: Jesus be the centre
 sermon:
-  video: dj6R75zCByY
+  video: R3fi9K4f3mI
   islive: true
   pinned: true
-  title: Sunday Stream - 7th March 2021
-  intro: Our Sunday service is led by Jon Sibley, with a message by Andrew Sibley,
-    and we'll be livestreaming it at 10.30am.
+  title: Sunday Stream - 14th March 2021
+  intro: Our Sunday service is led by Jon Sibley and we'll be livestreaming it at
+    10.30am.
   showsection: true
 ---
