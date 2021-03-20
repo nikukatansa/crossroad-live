@@ -3,11 +3,10 @@ welcome:
   video: LOyUfwdntpA
   showsection: false
 sundayschool:
-  intro: Jesus was completely human, but also completely God! That means He was
-    perfect, and never did anything wrong. He ate and slept and had friends just
-    like you and me, but He could also do incredible things that only God can
-    do...
-  video: 8u-ICIHAmKk
+  intro: "On Palm Sunday, we remember the time Jesus entered Jerusalem - and
+    everybody started praising Him!  You can read about Palm Sunday in Matthew
+    21:1-11, Mark 11:1-11, Luke 19:28-44, and John 12:12-19. "
+  video: lTmbTuutBgg
   showsection: true
 specialvideo:
   title: Remembrance Sunday 2020
@@ -17,14 +16,14 @@ specialvideo:
     reflect and remember on Remembrance Sunday.
 blessing:
   heading: Benediction
-  text: Oh, the depth of the riches of the wisdom and knowledge of God!  How
-    unsearchable His judgments, and his paths beyond tracing out!  For from Him
-    and through Him and for Him are all things.  To Him be the glory
-    forever!  Amen.
+  text: To Him who is able to keep you from stumbling and to present you before
+    His glorious presence without fault and with great joy — to the only God our
+    Saviour be glory, majesty, power and authority, through Jesus Christ our
+    Lord, before all ages, now and forevermore! Amen.
   showsection: true
 pagetitle: Sunday worship
 title: Crossroad Online
-subtitle: " Sunday worship - 14th March 2021"
+subtitle: " Sunday worship - 21st March 2021"
 image: /img/seaton.jpg
 blurb:
   heading: Welcome!
@@ -48,10 +47,10 @@ worshipvideos:
   - video: MERQ0P6O0CE
     title: Jesus be the centre
 sermon:
-  video: R3fi9K4f3mI
+  video: Kbqs_kjknyY
   islive: true
   pinned: true
-  title: Sunday Stream - 14th March 2021
+  title: Sunday Stream - 21st March 2021
   intro: Our Sunday service is led by Jon Sibley and we'll be livestreaming it at
     10.30am.
   showsection: true
