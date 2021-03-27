@@ -3,10 +3,10 @@ welcome:
   video: LOyUfwdntpA
   showsection: false
 sundayschool:
-  intro: "On Palm Sunday, we remember the time Jesus entered Jerusalem - and
-    everybody started praising Him!  You can read about Palm Sunday in Matthew
-    21:1-11, Mark 11:1-11, Luke 19:28-44, and John 12:12-19. "
-  video: lTmbTuutBgg
+  intro: The Last Supper was the final meal Jesus was going to have with His
+    disciples before He died on the cross. That night, Jesus taught them how to
+    act like Him, how to help others and how to remain close to Him.
+  video: wYAVu4MR7rc
   showsection: true
 specialvideo:
   title: Remembrance Sunday 2020
@@ -16,14 +16,12 @@ specialvideo:
     reflect and remember on Remembrance Sunday.
 blessing:
   heading: Benediction
-  text: To Him who is able to keep you from stumbling and to present you before
-    His glorious presence without fault and with great joy — to the only God our
-    Saviour be glory, majesty, power and authority, through Jesus Christ our
-    Lord, before all ages, now and forevermore! Amen.
+  text: May the God of hope fill you with all joy and peace as you trust in Him,
+    so that you may overflow with hope by the power of the Holy Spirit.
   showsection: true
 pagetitle: Sunday worship
 title: Crossroad Online
-subtitle: " Sunday worship - 21st March 2021"
+subtitle: " Sunday worship - 28th March 2021"
 image: /img/seaton.jpg
 blurb:
   heading: Welcome!
@@ -47,11 +45,11 @@ worshipvideos:
   - video: MERQ0P6O0CE
     title: Jesus be the centre
 sermon:
-  video: Kbqs_kjknyY
+  video: rZ-wclQUIrM
   islive: true
   pinned: true
-  title: Sunday Stream - 21st March 2021
-  intro: Our Sunday service is led by Jon Sibley and we'll be livestreaming it at
-    10.30am.
+  title: Sunday Stream - 28th March 2021
+  intro: Our Sunday service is led by Jon Sibley, with a message from Louise
+    Sibley, and we'll be livestreaming it at 10.30am.
   showsection: true
 ---
