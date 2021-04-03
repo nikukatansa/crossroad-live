@@ -3,10 +3,10 @@ welcome:
   video: LOyUfwdntpA
   showsection: false
 sundayschool:
-  intro: The Last Supper was the final meal Jesus was going to have with His
-    disciples before He died on the cross. That night, Jesus taught them how to
-    act like Him, how to help others and how to remain close to Him.
-  video: wYAVu4MR7rc
+  intro: Easter is the central part of God's big rescue plan.  It shows us how
+    much Jesus loves us and what He was willing to do to save us so that we
+    could be His friends.
+  video: cZ4gQniUVO8
   showsection: true
 specialvideo:
   title: Remembrance Sunday 2020
@@ -16,12 +16,15 @@ specialvideo:
     reflect and remember on Remembrance Sunday.
 blessing:
   heading: Benediction
-  text: May the God of hope fill you with all joy and peace as you trust in Him,
-    so that you may overflow with hope by the power of the Holy Spirit.
+  text: Now may the God of peace, who through the blood of the eternal covenant
+    brought back from the dead our Lord Jesus, that great Shepherd of the sheep,
+    equip you with everything good for doing His will, and may He work in us
+    what is pleasing to Him, through Jesus Christ, to whom be glory for ever and
+    ever. Amen.
   showsection: true
 pagetitle: Sunday worship
 title: Crossroad Online
-subtitle: " Sunday worship - 28th March 2021"
+subtitle: Easter Sunday worship - 4th April 2021
 image: /img/seaton.jpg
 blurb:
   heading: Welcome!
@@ -45,11 +48,11 @@ worshipvideos:
   - video: MERQ0P6O0CE
     title: Jesus be the centre
 sermon:
-  video: rZ-wclQUIrM
+  video: TPDnT23R7gc
   islive: true
   pinned: true
-  title: Sunday Stream - 28th March 2021
-  intro: Our Sunday service is led by Jon Sibley, with a message from Louise
-    Sibley, and we'll be livestreaming it at 10.30am.
+  title: Sunday Stream - 4th April 2021
+  intro: Our Easter Sunday service is led by Jon Sibley and we'll be livestreaming
+    it at 10.30am.
   showsection: true
 ---
