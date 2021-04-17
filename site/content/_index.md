@@ -3,9 +3,10 @@ welcome:
   video: LOyUfwdntpA
   showsection: false
 sundayschool:
-  intro: Peter was one of Jesus' disciples, who trusted Jesus and wanted to tell
-    everyone about Him.  Let's find out what happened when he did just that!
-  video: hKa9jqvJ378
+  intro: It took a while for Jesus' followers to find out the good news that He
+    had been raised from the dead.  Here's the story of what happened in the 40
+    days after the first Easter...
+  video: VyA4xoi70zU
   showsection: true
 specialvideo:
   title: Remembrance Sunday 2020
@@ -15,14 +16,13 @@ specialvideo:
     reflect and remember on Remembrance Sunday.
 blessing:
   heading: Benediction
-  text: Now to Him who is able to do immeasurably more than all we ask or imagine,
-    according to His power that is at work within us, to Him be glory in the
-    church and in Christ Jesus throughout all generations, for ever and
-    ever!  Amen.
+  text: May our Lord Jesus Christ Himself and God our Father, who loved us and by
+    His grace gave us eternal encouragement and good hope, encourage your hearts
+    and strengthen you in every good deed and word.
   showsection: true
 pagetitle: Sunday worship
 title: Crossroad Online
-subtitle: Sunday worship - 11th April 2021
+subtitle: Sunday worship - 18th April 2021
 image: /img/seaton.jpg
 blurb:
   heading: Welcome!
@@ -46,11 +46,11 @@ worshipvideos:
   - video: MERQ0P6O0CE
     title: Jesus be the centre
 sermon:
-  video: qaitvK4Jw4M
+  video: 3LEDfVURwqA
   islive: true
   pinned: true
-  title: Sunday Stream - 11th April 2021
-  intro: Our Sunday service is led by Jibu Varghese and we'll be livestreaming it
-    at 10.30am.
+  title: Sunday Stream - 18th April 2021
+  intro: Our Sunday service is led by Ray Hunter and we'll be livestreaming it at
+    10.30am.
   showsection: true
 ---
