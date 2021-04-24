@@ -3,10 +3,9 @@ welcome:
   video: LOyUfwdntpA
   showsection: false
 sundayschool:
-  intro: It took a while for Jesus' followers to find out the good news that He
-    had been raised from the dead.  Here's the story of what happened in the 40
-    days after the first Easter...
-  video: VyA4xoi70zU
+  intro: Peter was one of Jesus' disciples - he trusted Jesus and wanted to tell
+    everyone about him. Here's what happened when he did just that!
+  video: hKa9jqvJ378
   showsection: true
 specialvideo:
   title: Remembrance Sunday 2020
@@ -16,13 +15,15 @@ specialvideo:
     reflect and remember on Remembrance Sunday.
 blessing:
   heading: Benediction
-  text: May our Lord Jesus Christ Himself and God our Father, who loved us and by
-    His grace gave us eternal encouragement and good hope, encourage your hearts
-    and strengthen you in every good deed and word.
+  text: Let the message of Christ dwell among you richly as you teach and admonish
+    one another with all wisdom through psalms, hymns, and songs from the
+    Spirit, singing to God with gratitude in your hearts. And whatever you do,
+    whether in word or deed, do it all in the name of the Lord Jesus, giving
+    thanks to God the Father through Him.
   showsection: true
 pagetitle: Sunday worship
 title: Crossroad Online
-subtitle: Sunday worship - 18th April 2021
+subtitle: Sunday worship - 25th April 2021
 image: /img/seaton.jpg
 blurb:
   heading: Welcome!
@@ -46,11 +47,11 @@ worshipvideos:
   - video: MERQ0P6O0CE
     title: Jesus be the centre
 sermon:
-  video: 3LEDfVURwqA
+  video: mgo-yaf-Rgg
   islive: true
   pinned: true
-  title: Sunday Stream - 18th April 2021
-  intro: Our Sunday service is led by Ray Hunter and we'll be livestreaming it at
-    10.30am.
+  title: Sunday Stream - 25th April 2021
+  intro: Our Sunday service is led by Jon Sibley, with a talk by Andrew Sibley,
+    and we'll be livestreaming it at 10.30am.
   showsection: true
 ---
