@@ -3,9 +3,10 @@ welcome:
   video: LOyUfwdntpA
   showsection: false
 sundayschool:
-  intro: Peter was one of Jesus' disciples - he trusted Jesus and wanted to tell
-    everyone about him. Here's what happened when he did just that!
-  video: hKa9jqvJ378
+  intro: Stephen isn’t your average hero. He didn’t defeat his enemies in an
+    incredible battle, or even spectacularly escape capture. What makes Stephen
+    amazing was his determination to lay everything on the line for Jesus.
+  video: TUBFa01Ejys
   showsection: true
 specialvideo:
   title: Remembrance Sunday 2020
@@ -15,15 +16,14 @@ specialvideo:
     reflect and remember on Remembrance Sunday.
 blessing:
   heading: Benediction
-  text: Let the message of Christ dwell among you richly as you teach and admonish
-    one another with all wisdom through psalms, hymns, and songs from the
-    Spirit, singing to God with gratitude in your hearts. And whatever you do,
-    whether in word or deed, do it all in the name of the Lord Jesus, giving
-    thanks to God the Father through Him.
+  text: May the God who gives endurance and encouragement give you the same
+    attitude of mind toward each other that Christ Jesus had, so that with one
+    mind and one voice you may glorify the God and Father of our Lord Jesus
+    Christ.
   showsection: true
 pagetitle: Sunday worship
 title: Crossroad Online
-subtitle: Sunday worship - 25th April 2021
+subtitle: Sunday worship - 2nd May 2021
 image: /img/seaton.jpg
 blurb:
   heading: Welcome!
@@ -47,11 +47,11 @@ worshipvideos:
   - video: MERQ0P6O0CE
     title: Jesus be the centre
 sermon:
-  video: mgo-yaf-Rgg
+  video: 2s06-bnStnc
   islive: true
   pinned: true
-  title: Sunday Stream - 25th April 2021
-  intro: Our Sunday service is led by Jon Sibley, with a talk by Andrew Sibley,
-    and we'll be livestreaming it at 10.30am.
+  title: Sunday Stream - 2nd May 2021
+  intro: Our Sunday service is led by Jon Sibley and we'll be livestreaming it at
+    10.30am.
   showsection: true
 ---
