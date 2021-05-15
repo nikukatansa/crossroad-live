@@ -3,10 +3,10 @@ welcome:
   video: LOyUfwdntpA
   showsection: false
 sundayschool:
-  intro: Part of God’s story is about Paul. He went from hating people who loved
-    Jesus to becoming someone who loved Jesus. Quite a change! He would spend
-    the rest of his life getting to know God and telling others about God.
-  video: R0p0W_Zbt1s
+  intro: Part of God’s story is about Paul and Silas. They were friends who wanted
+    to serve God and told His story to others. It wasn’t always easy but they
+    really wanted people to know that God loved them.
+  video: Y24Ak7DJZFg
   showsection: true
 specialvideo:
   title: Remembrance Sunday 2020
@@ -16,14 +16,15 @@ specialvideo:
     reflect and remember on Remembrance Sunday.
 blessing:
   heading: Benediction
-  text: Now to Him who is able to do immeasurably more than all we ask or imagine,
-    according to His power that is at work within us, to Him be glory in the
-    church and in Christ Jesus throughout all generations, for ever and ever!
-    Amen.
+  text: Now may the God of peace, who through the blood of the eternal covenant
+    brought back from the dead our Lord Jesus, that great Shepherd of the sheep,
+    equip you with everything good for doing His will, and may He work in us
+    what is pleasing to Him, through Jesus Christ, to whom be glory for ever and
+    ever. Amen.
   showsection: true
 pagetitle: Sunday worship
 title: Crossroad Online
-subtitle: Sunday worship - 9th May 2021
+subtitle: Sunday worship - 16th May 2021
 image: /img/seaton.jpg
 blurb:
   heading: Welcome!
@@ -47,7 +48,7 @@ worshipvideos:
   - video: MERQ0P6O0CE
     title: Jesus be the centre
 sermon:
-  video: X-2KTELCBfI
+  video: ZTo33Nm7ZHA
   islive: true
   pinned: true
   title: Sunday Stream - 2nd May 2021
