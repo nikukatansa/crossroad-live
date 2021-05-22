@@ -3,10 +3,9 @@ welcome:
   video: LOyUfwdntpA
   showsection: false
 sundayschool:
-  intro: Part of God’s story is about Paul and Silas. They were friends who wanted
-    to serve God and told His story to others. It wasn’t always easy but they
-    really wanted people to know that God loved them.
-  video: Y24Ak7DJZFg
+  intro: Studying and reading the Bible can help make us strong. This video looks
+    at Timothy, who learned about God from his family and from his friend, Paul.
+  video: w4GSFluzBSA
   showsection: true
 specialvideo:
   title: Remembrance Sunday 2020
@@ -24,7 +23,7 @@ blessing:
   showsection: true
 pagetitle: Sunday worship
 title: Crossroad Online
-subtitle: Sunday worship - 16th May 2021
+subtitle: Sunday worship - 23rd May 2021
 image: /img/seaton.jpg
 blurb:
   heading: Welcome!
@@ -48,10 +47,10 @@ worshipvideos:
   - video: MERQ0P6O0CE
     title: Jesus be the centre
 sermon:
-  video: ZTo33Nm7ZHA
+  video: -HGZdkaZzJM
   islive: true
   pinned: true
-  title: Sunday Stream - 2nd May 2021
+  title: Sunday Stream - 23rd May 2021
   intro: Our Sunday service is led by Jon Sibley and we'll be livestreaming it at
     10.30am.
   showsection: true
