@@ -3,9 +3,10 @@ welcome:
   video: LOyUfwdntpA
   showsection: false
 sundayschool:
-  intro: Studying and reading the Bible can help make us strong. This video looks
-    at Timothy, who learned about God from his family and from his friend, Paul.
-  video: w4GSFluzBSA
+  intro: The Bible tells us that when we follow God, the devil will target us and
+    try to get us to turn away. The good news is, God provides us with armour to
+    stand up against the devil’s attacks.
+  video: o7eC-W_XNyw
   showsection: true
 specialvideo:
   title: Remembrance Sunday 2020
@@ -15,15 +16,14 @@ specialvideo:
     reflect and remember on Remembrance Sunday.
 blessing:
   heading: Benediction
-  text: Now may the God of peace, who through the blood of the eternal covenant
-    brought back from the dead our Lord Jesus, that great Shepherd of the sheep,
-    equip you with everything good for doing His will, and may He work in us
-    what is pleasing to Him, through Jesus Christ, to whom be glory for ever and
-    ever. Amen.
+  text: May the God who gives endurance and encouragement give you the same
+    attitude of mind toward each other that Christ Jesus had, so that with one
+    mind and one voice you may glorify the God and Father of our Lord Jesus
+    Christ.
   showsection: true
 pagetitle: Sunday worship
 title: Crossroad Online
-subtitle: Sunday worship - 23rd May 2021
+subtitle: Sunday worship - 30th May 2021
 image: /img/seaton.jpg
 blurb:
   heading: Welcome!
@@ -47,11 +47,11 @@ worshipvideos:
   - video: MERQ0P6O0CE
     title: Jesus be the centre
 sermon:
-  video: -HGZdkaZzJM
+  video: 93IgWzWSj2g
   islive: true
   pinned: true
   title: Sunday Stream - 23rd May 2021
-  intro: Our Sunday service is led by Jon Sibley and we'll be livestreaming it at
-    10.30am.
+  intro: Our Sunday service is led by Jon Sibley, with a talk by Louise Sibley,
+    and we'll be livestreaming it at 10.30am.
   showsection: true
 ---
