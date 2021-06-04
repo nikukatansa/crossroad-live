@@ -3,10 +3,10 @@ welcome:
   video: LOyUfwdntpA
   showsection: false
 sundayschool:
-  intro: The Bible tells us that when we follow God, the devil will target us and
-    try to get us to turn away. The good news is, God provides us with armour to
-    stand up against the devil’s attacks.
-  video: o7eC-W_XNyw
+  intro: God is generous and He wants us to be like Him.  He sent Jesus, His
+    greatest treasure, to this earth to die for our sins.  Jesus also taught us
+    how we can be generous towards God and other people.
+  video: VyXe25LyrcY
   showsection: true
 specialvideo:
   title: Remembrance Sunday 2020
@@ -16,14 +16,13 @@ specialvideo:
     reflect and remember on Remembrance Sunday.
 blessing:
   heading: Benediction
-  text: May the God who gives endurance and encouragement give you the same
-    attitude of mind toward each other that Christ Jesus had, so that with one
-    mind and one voice you may glorify the God and Father of our Lord Jesus
-    Christ.
+  text: Therefore, my dear brothers and sisters, stand firm. Let nothing move you.
+    Always give yourselves fully to the work of the Lord, because you know that
+    your labour in the Lord is not in vain.
   showsection: true
 pagetitle: Sunday worship
 title: Crossroad Online
-subtitle: Sunday worship - 30th May 2021
+subtitle: Sunday worship - 6th June 2021
 image: /img/seaton.jpg
 blurb:
   heading: Welcome!
@@ -47,11 +46,11 @@ worshipvideos:
   - video: MERQ0P6O0CE
     title: Jesus be the centre
 sermon:
-  video: 93IgWzWSj2g
+  video: xRJXqRbzdXw
   islive: true
   pinned: true
-  title: Sunday Stream - 23rd May 2021
-  intro: Our Sunday service is led by Jon Sibley, with a talk by Louise Sibley,
-    and we'll be livestreaming it at 10.30am.
+  title: Sunday Stream - 6th June 2021
+  intro: Our Sunday service is led by Jon Sibley, and we'll be livestreaming it at
+    10.30am.
   showsection: true
 ---
