@@ -3,10 +3,10 @@ welcome:
   video: LOyUfwdntpA
   showsection: false
 sundayschool:
-  intro: God is generous and He wants us to be like Him.  He sent Jesus, His
-    greatest treasure, to this earth to die for our sins.  Jesus also taught us
-    how we can be generous towards God and other people.
-  video: VyXe25LyrcY
+  intro: God promised to create a new world for his family. It will be so perfect
+    and joyful, we will forget all the pain we experience now. We don't know
+    exactly what it will be like, but God gives us an idea in the Bible...
+  video: -eZxdYQCoUE
   showsection: true
 specialvideo:
   title: Remembrance Sunday 2020
@@ -16,13 +16,14 @@ specialvideo:
     reflect and remember on Remembrance Sunday.
 blessing:
   heading: Benediction
-  text: Therefore, my dear brothers and sisters, stand firm. Let nothing move you.
-    Always give yourselves fully to the work of the Lord, because you know that
-    your labour in the Lord is not in vain.
+  text: Now to Him who is able to do immeasurably more than all we ask or imagine,
+    according to His power that is at work within us, to Him be glory in the
+    church and in Christ Jesus throughout all generations, for ever and ever!
+    Amen.
   showsection: true
 pagetitle: Sunday worship
 title: Crossroad Online
-subtitle: Sunday worship - 6th June 2021
+subtitle: Sunday worship - 13th June 2021
 image: /img/seaton.jpg
 blurb:
   heading: Welcome!
@@ -46,11 +47,11 @@ worshipvideos:
   - video: MERQ0P6O0CE
     title: Jesus be the centre
 sermon:
-  video: xRJXqRbzdXw
+  video: gxITwHSHOwY
   islive: true
   pinned: true
-  title: Sunday Stream - 6th June 2021
-  intro: Our Sunday service is led by Jon Sibley, and we'll be livestreaming it at
-    10.30am.
+  title: Sunday Stream - 13th June 2021
+  intro: Our Sunday service is led by Jon Sibley, with a talk by Andrew Sibley,
+    and we'll be livestreaming it at 10.30am.
   showsection: true
 ---
