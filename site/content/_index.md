@@ -3,10 +3,10 @@ welcome:
   video: LOyUfwdntpA
   showsection: false
 sundayschool:
-  intro: God promised to create a new world for his family. It will be so perfect
-    and joyful, we will forget all the pain we experience now. We don't know
-    exactly what it will be like, but God gives us an idea in the Bible...
-  video: -eZxdYQCoUE
+  intro: There are many different stories in the Bible, but they all form part of
+    God's big story to rescue us because He loves us and wants us to live in a
+    relationship with Him.
+  video: ebrbdbXzMrg
   showsection: true
 specialvideo:
   title: Remembrance Sunday 2020
@@ -16,14 +16,14 @@ specialvideo:
     reflect and remember on Remembrance Sunday.
 blessing:
   heading: Benediction
-  text: Now to Him who is able to do immeasurably more than all we ask or imagine,
-    according to His power that is at work within us, to Him be glory in the
-    church and in Christ Jesus throughout all generations, for ever and ever!
-    Amen.
+  text: To Him who is able to keep you from stumbling and to present you before
+    His glorious presence without fault and with great joy— to the only God our
+    Saviour be glory, majesty, power and authority, through Jesus Christ our
+    Lord, before all ages, now and forevermore! Amen.
   showsection: true
 pagetitle: Sunday worship
 title: Crossroad Online
-subtitle: Sunday worship - 13th June 2021
+subtitle: Sunday worship - 20th June 2021
 image: /img/seaton.jpg
 blurb:
   heading: Welcome!
@@ -47,11 +47,11 @@ worshipvideos:
   - video: MERQ0P6O0CE
     title: Jesus be the centre
 sermon:
-  video: gxITwHSHOwY
+  video: Qm1o1BJLg1I
   islive: true
   pinned: true
-  title: Sunday Stream - 13th June 2021
-  intro: Our Sunday service is led by Jon Sibley, with a talk by Andrew Sibley,
+  title: Sunday Stream - 20th June 2021
+  intro: Our Sunday service is led by Jon Sibley, with a talk by Jibu Varghese,
     and we'll be livestreaming it at 10.30am.
   showsection: true
 ---
