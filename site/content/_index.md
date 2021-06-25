@@ -3,10 +3,10 @@ welcome:
   video: LOyUfwdntpA
   showsection: false
 sundayschool:
-  intro: There are many different stories in the Bible, but they all form part of
-    God's big story to rescue us because He loves us and wants us to live in a
-    relationship with Him.
-  video: ebrbdbXzMrg
+  intro: God has promised to create a new world for His family. It will be so
+    perfect and joyful, we will forget all the pain we experience now. We don't
+    know exactly what it will be like, but God gives us an idea in the Bible...
+  video: -eZxdYQCoUE
   showsection: true
 specialvideo:
   title: Remembrance Sunday 2020
@@ -16,14 +16,12 @@ specialvideo:
     reflect and remember on Remembrance Sunday.
 blessing:
   heading: Benediction
-  text: To Him who is able to keep you from stumbling and to present you before
-    His glorious presence without fault and with great joy— to the only God our
-    Saviour be glory, majesty, power and authority, through Jesus Christ our
-    Lord, before all ages, now and forevermore! Amen.
+  text: May the God of hope fill you with all joy and peace as you trust in Him,
+    so that you may overflow with hope by the power of the Holy Spirit.
   showsection: true
 pagetitle: Sunday worship
 title: Crossroad Online
-subtitle: Sunday worship - 20th June 2021
+subtitle: Sunday worship - 27th June 2021
 image: /img/seaton.jpg
 blurb:
   heading: Welcome!
@@ -47,11 +45,11 @@ worshipvideos:
   - video: MERQ0P6O0CE
     title: Jesus be the centre
 sermon:
-  video: Qm1o1BJLg1I
+  video: vSlBF5CMDzQ
   islive: true
   pinned: true
-  title: Sunday Stream - 20th June 2021
-  intro: Our Sunday service is led by Jon Sibley, with a talk by Jibu Varghese,
-    and we'll be livestreaming it at 10.30am.
+  title: Sunday Stream - 27th June 2021
+  intro: Our Sunday service is led by Jon Sibley, with a talk by Ray Hunter, and
+    we'll be livestreaming it at 10.30am.
   showsection: true
 ---
