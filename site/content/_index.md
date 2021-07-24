@@ -3,10 +3,9 @@ welcome:
   video: LOyUfwdntpA
   showsection: false
 sundayschool:
-  intro: God has promised to create a new world for His family. It will be so
-    perfect and joyful, we will forget all the pain we experience now. We don't
-    know exactly what it will be like, but God gives us an idea in the Bible...
-  video: -eZxdYQCoUE
+  intro: God made everything in the world and created people to love Him and enjoy
+    the earth. You can read the whole story in Genesis 1.
+  video: qHu352QwXXM
   showsection: true
 specialvideo:
   title: Remembrance Sunday 2020
@@ -16,18 +15,19 @@ specialvideo:
     reflect and remember on Remembrance Sunday.
 blessing:
   heading: Benediction
-  text: May the God of hope fill you with all joy and peace as you trust in Him,
-    so that you may overflow with hope by the power of the Holy Spirit.
+  text: Now to Him who is able to do immeasurably more than all we ask or imagine,
+    according to His power that is at work within us, to Him be glory in the
+    church and in Christ Jesus throughout all generations, for ever and ever!
+    Amen.
   showsection: true
 pagetitle: Sunday worship
 title: Crossroad Online
-subtitle: Sunday worship - 27th June 2021
+subtitle: Sunday worship - 25th July 2021
 image: /img/seaton.jpg
 blurb:
   heading: Welcome!
-  text: Welcome to our online service for this week.  We pray that this will be an
-    encouragement to you during these uncertain times and will help you to focus
-    on our unchanging God.
+  text: Welcome to our online service for this week.  We pray that you'll be
+    encouraged as you join us to worship our faithful God.
 notices: []
 worshipintro:
   heading: Draw Near
@@ -45,11 +45,11 @@ worshipvideos:
   - video: MERQ0P6O0CE
     title: Jesus be the centre
 sermon:
-  video: vSlBF5CMDzQ
+  video: Pxbv0j-0AmM
   islive: true
   pinned: true
-  title: Sunday Stream - 27th June 2021
-  intro: Our Sunday service is led by Jon Sibley, with a talk by Ray Hunter, and
+  title: Sunday Stream - 25th July 2021
+  intro: Our Sunday service is led by Jon Sibley, with a talk by John Smith, and
     we'll be livestreaming it at 10.30am.
   showsection: true
 ---
