@@ -3,9 +3,9 @@ welcome:
   video: LOyUfwdntpA
   showsection: false
 sundayschool:
-  intro: God made everything in the world and created people to love Him and enjoy
-    the earth. You can read the whole story in Genesis 1.
-  video: qHu352QwXXM
+  intro: God created everything, but He made people in a particularly special way.
+    You can read about it in Genesis 1-2.
+  video: ZZPfCWV81pE
   showsection: true
 specialvideo:
   title: Remembrance Sunday 2020
@@ -15,14 +15,13 @@ specialvideo:
     reflect and remember on Remembrance Sunday.
 blessing:
   heading: Benediction
-  text: Now to Him who is able to do immeasurably more than all we ask or imagine,
-    according to His power that is at work within us, to Him be glory in the
-    church and in Christ Jesus throughout all generations, for ever and ever!
-    Amen.
+  text: May God Himself, the God of peace, sanctify you through and through. May
+    your whole spirit, soul and body be kept blameless at the coming of our Lord
+    Jesus Christ. The One who calls you is faithful, and He will do it.
   showsection: true
 pagetitle: Sunday worship
 title: Crossroad Online
-subtitle: Sunday worship - 25th July 2021
+subtitle: Sunday worship - 1st August 2021
 image: /img/seaton.jpg
 blurb:
   heading: Welcome!
@@ -45,11 +44,11 @@ worshipvideos:
   - video: MERQ0P6O0CE
     title: Jesus be the centre
 sermon:
-  video: Pxbv0j-0AmM
+  video: SrnGAQSBpcc
   islive: true
   pinned: true
-  title: Sunday Stream - 25th July 2021
-  intro: Our Sunday service is led by Jon Sibley, with a talk by John Smith, and
-    we'll be livestreaming it at 10.30am.
+  title: Sunday Stream - 1st August 2021
+  intro: Our Sunday service is led by Jon Sibley and we'll be livestreaming it at
+    10.30am.
   showsection: true
 ---
