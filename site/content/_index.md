@@ -3,10 +3,9 @@ welcome:
   video: LOyUfwdntpA
   showsection: false
 sundayschool:
-  intro: Noah knew he needed to be rescued. So when God told him to build a boat
-    big enough for his whole family and two of every kind of animal, he obeyed!
-    You can read the whole story in Genesis 6-9.
-  video: 4yzN0fUxjkQ
+  intro: People tried to build a tower to get to God, but one day, He would come
+    down to us instead!  You can read this story in Genesis 11:1-9.
+  video: CW-NXNzdZhM
   showsection: true
 specialvideo:
   title: Remembrance Sunday 2020
@@ -16,16 +15,13 @@ specialvideo:
     reflect and remember on Remembrance Sunday.
 blessing:
   heading: Benediction
-  text: >
-    Now may the God of peace, who through the blood of the eternal covenant
-    brought back from the dead our Lord Jesus, that great Shepherd of the sheep,
-    equip you with everything good for doing His will, and may He work in us
-    what is pleasing to Him, through Jesus Christ, to whom be glory for ever and
-    ever. Amen.
+  text: May our Lord Jesus Christ himself and God our Father, who loved us and by
+    His grace gave us eternal encouragement and good hope, encourage your hearts
+    and strengthen you in every good deed and word.
   showsection: true
 pagetitle: Sunday worship
 title: Crossroad Online
-subtitle: Sunday worship - 15th August 2021
+subtitle: Sunday worship - 22nd August 2021
 image: /img/seaton.jpg
 blurb:
   heading: Welcome!
@@ -48,11 +44,11 @@ worshipvideos:
   - video: MERQ0P6O0CE
     title: Jesus be the centre
 sermon:
-  video: zdmGMvAE2Mo
+  video: 4EpjL0QbnMY
   islive: true
   pinned: true
-  title: Sunday Stream - 15th August 2021
-  intro: Our service this week is led by Andew Sibley and we'll be livestreaming
-    it at 10.30am.
+  title: Sunday Stream - 22nd August 2021
+  intro: Our service this week is led by Ray Hunter and we'll be livestreaming it
+    at 10.30am.
   showsection: true
 ---
