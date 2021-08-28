@@ -3,9 +3,10 @@ welcome:
   video: LOyUfwdntpA
   showsection: false
 sundayschool:
-  intro: People tried to build a tower to get to God, but one day, He would come
-    down to us instead!  You can read this story in Genesis 11:1-9.
-  video: CW-NXNzdZhM
+  intro: God makes a promise to Abraham. God always keeps His promises, but
+    sometimes we have to wait for them. You can read all about what happened to
+    Abraham in Genesis 12-21.
+  video: NdqrwGJYePQ
   showsection: true
 specialvideo:
   title: Remembrance Sunday 2020
@@ -15,13 +16,14 @@ specialvideo:
     reflect and remember on Remembrance Sunday.
 blessing:
   heading: Benediction
-  text: May our Lord Jesus Christ himself and God our Father, who loved us and by
-    His grace gave us eternal encouragement and good hope, encourage your hearts
-    and strengthen you in every good deed and word.
+  text: Now to Him who is able to do immeasurably more than all we ask or imagine,
+    according to His power that is at work within us, to Him be glory in the
+    church and in Christ Jesus throughout all generations, for ever and ever!
+    Amen.
   showsection: true
 pagetitle: Sunday worship
 title: Crossroad Online
-subtitle: Sunday worship - 22nd August 2021
+subtitle: Sunday worship - 29th August 2021
 image: /img/seaton.jpg
 blurb:
   heading: Welcome!
@@ -44,11 +46,11 @@ worshipvideos:
   - video: MERQ0P6O0CE
     title: Jesus be the centre
 sermon:
-  video: 4EpjL0QbnMY
+  video: -uc-ZcBuIW8
   islive: true
   pinned: true
-  title: Sunday Stream - 22nd August 2021
-  intro: Our service this week is led by Ray Hunter and we'll be livestreaming it
+  title: Sunday Stream - 29th August 2021
+  intro: Our service this week is led by Jon Sibley and we'll be livestreaming it
     at 10.30am.
   showsection: true
 ---
