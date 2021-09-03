@@ -3,10 +3,11 @@ welcome:
   video: LOyUfwdntpA
   showsection: false
 sundayschool:
-  intro: God makes a promise to Abraham. God always keeps His promises, but
-    sometimes we have to wait for them. You can read all about what happened to
-    Abraham in Genesis 12-21.
-  video: NdqrwGJYePQ
+  intro: >
+    Jacob and Esau were twins who didn't get along. Even though they made
+    mistakes, they're both a part of God's Story. You can read about them in
+    Genesis 25 and 27.
+  video: hGs1WfRKIoM
   showsection: true
 specialvideo:
   title: Remembrance Sunday 2020
@@ -16,14 +17,14 @@ specialvideo:
     reflect and remember on Remembrance Sunday.
 blessing:
   heading: Benediction
-  text: Now to Him who is able to do immeasurably more than all we ask or imagine,
-    according to His power that is at work within us, to Him be glory in the
-    church and in Christ Jesus throughout all generations, for ever and ever!
-    Amen.
+  text: To Him who is able to keep you from stumbling and to present you before
+    His glorious presence without fault and with great joy— to the only God our
+    Saviour be glory, majesty, power and authority, through Jesus Christ our
+    Lord, before all ages, now and forevermore! Amen.
   showsection: true
 pagetitle: Sunday worship
 title: Crossroad Online
-subtitle: Sunday worship - 29th August 2021
+subtitle: Sunday worship - 5th September 2021
 image: /img/seaton.jpg
 blurb:
   heading: Welcome!
@@ -46,11 +47,11 @@ worshipvideos:
   - video: MERQ0P6O0CE
     title: Jesus be the centre
 sermon:
-  video: -uc-ZcBuIW8
+  video: Id8PmBU-S8Q
   islive: true
   pinned: true
-  title: Sunday Stream - 29th August 2021
-  intro: Our service this week is led by Jon Sibley and we'll be livestreaming it
-    at 10.30am.
+  title: Sunday Stream - 5th September 2021
+  intro: Our service this week is led by Jon Sibley, with a message from Robert
+    Spiller, and we'll be livestreaming it at 10.30am.
   showsection: true
 ---
