@@ -3,9 +3,10 @@ welcome:
   video: LOyUfwdntpA
   showsection: false
 sundayschool:
-  intro: One night, Jacob had a wrestling match with God. And after he came that
-    close to God, he changed. You can read about it in Genesis 32-33.
-  video: 0zIbU866z6A
+  intro: Joseph’s life was filled with ups and down. But God had a plan for him
+    and helped him get through the hard times. You can read Joseph's whole story
+    in Genesis 37 - 48.
+  video: NQ7wLTBnF84
   showsection: true
 specialvideo:
   title: Remembrance Sunday 2020
@@ -15,14 +16,14 @@ specialvideo:
     reflect and remember on Remembrance Sunday.
 blessing:
   heading: Benediction
-  text: And I pray that you, being rooted and established in love, may have power,
-    together with all the Lord’s holy people, to grasp how wide and long and
-    high and deep is the love of Christ, and to know this love that surpasses
-    knowledge—that you may be filled to the measure of all the fullness of God.
+  text: To Him who is able to keep you from stumbling and to present you before
+    His glorious presence without fault and with great joy — to the only God our
+    Saviour be glory, majesty, power and authority, through Jesus Christ our
+    Lord, before all ages, now and forevermore! Amen.
   showsection: true
 pagetitle: Sunday worship
 title: Crossroad Online
-subtitle: Sunday worship - 12th September 2021
+subtitle: Sunday worship - 19th September 2021
 image: /img/seaton.jpg
 blurb:
   heading: Welcome!
@@ -45,10 +46,10 @@ worshipvideos:
   - video: MERQ0P6O0CE
     title: Jesus be the centre
 sermon:
-  video: uSjgxnibAxA
+  video: pnMEFWIrT7E
   islive: true
   pinned: true
-  title: Sunday Stream - 12th September 2021
+  title: Sunday Stream - 19th September 2021
   intro: Our service this week is led by Jon Sibley and we'll be livestreaming it
     at 10.30am.
   showsection: true
