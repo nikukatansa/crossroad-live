@@ -3,10 +3,10 @@ welcome:
   video: LOyUfwdntpA
   showsection: false
 sundayschool:
-  intro: Joseph’s life was filled with ups and down. But God had a plan for him
-    and helped him get through the hard times. You can read Joseph's whole story
-    in Genesis 37 - 48.
-  video: NQ7wLTBnF84
+  intro: Moses was chosen by God to deliver the Israelites from slavery, but he
+    didn’t believe he could do it.  Finally, he chose to trust that God would
+    take care of him and lead him.  You can find this story in Exodus 2-4.
+  video: 0eEHT6dCKbI
   showsection: true
 specialvideo:
   title: Remembrance Sunday 2020
@@ -16,14 +16,12 @@ specialvideo:
     reflect and remember on Remembrance Sunday.
 blessing:
   heading: Benediction
-  text: To Him who is able to keep you from stumbling and to present you before
-    His glorious presence without fault and with great joy — to the only God our
-    Saviour be glory, majesty, power and authority, through Jesus Christ our
-    Lord, before all ages, now and forevermore! Amen.
+  text: May the God of hope fill you with all joy and peace as you trust in Him,
+    so that you may overflow with hope by the power of the Holy Spirit.
   showsection: true
 pagetitle: Sunday worship
 title: Crossroad Online
-subtitle: Sunday worship - 19th September 2021
+subtitle: Sunday worship - 26th September 2021
 image: /img/seaton.jpg
 blurb:
   heading: Welcome!
@@ -46,10 +44,10 @@ worshipvideos:
   - video: MERQ0P6O0CE
     title: Jesus be the centre
 sermon:
-  video: pnMEFWIrT7E
+  video: UpHIHQIqTGk
   islive: true
   pinned: true
-  title: Sunday Stream - 19th September 2021
+  title: Sunday Stream - 26th September 2021
   intro: Our service this week is led by Jon Sibley and we'll be livestreaming it
     at 10.30am.
   showsection: true
