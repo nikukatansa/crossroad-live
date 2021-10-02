@@ -3,10 +3,10 @@ welcome:
   video: LOyUfwdntpA
   showsection: false
 sundayschool:
-  intro: Moses was chosen by God to deliver the Israelites from slavery, but he
-    didn’t believe he could do it.  Finally, he chose to trust that God would
-    take care of him and lead him.  You can find this story in Exodus 2-4.
-  video: 0eEHT6dCKbI
+  intro: Every year, God’s family celebrated the Feast of Passover.  We'll find
+    out how they celebrated – and, more importantly, why they celebrated.  You
+    can also read about it in Exodus 12 and Luke 22.
+  video: 1IwMt-KLkSE
   showsection: true
 specialvideo:
   title: Remembrance Sunday 2020
@@ -16,12 +16,14 @@ specialvideo:
     reflect and remember on Remembrance Sunday.
 blessing:
   heading: Benediction
-  text: May the God of hope fill you with all joy and peace as you trust in Him,
-    so that you may overflow with hope by the power of the Holy Spirit.
+  text: To Him who is able to keep you from stumbling and to present you before
+    His glorious presence without fault and with great joy— to the only God our
+    Saviour be glory, majesty, power and authority, through Jesus Christ our
+    Lord, before all ages, now and forevermore! Amen.
   showsection: true
 pagetitle: Sunday worship
 title: Crossroad Online
-subtitle: Sunday worship - 26th September 2021
+subtitle: Sunday worship - 3rd October 2021
 image: /img/seaton.jpg
 blurb:
   heading: Welcome!
@@ -44,11 +46,11 @@ worshipvideos:
   - video: MERQ0P6O0CE
     title: Jesus be the centre
 sermon:
-  video: UpHIHQIqTGk
+  video: G3XPNWTSWy4
   islive: true
   pinned: true
   title: Sunday Stream - 26th September 2021
-  intro: Our service this week is led by Jon Sibley and we'll be livestreaming it
-    at 10.30am.
+  intro: Our service this week is led by Jon Sibley with a talk by Jibu Varghese
+    and we'll be livestreaming it at 10.30am.
   showsection: true
 ---
