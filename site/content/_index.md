@@ -3,10 +3,10 @@ welcome:
   video: LOyUfwdntpA
   showsection: false
 sundayschool:
-  intro: Every year, God’s family celebrated the Feast of Passover.  We'll find
-    out how they celebrated – and, more importantly, why they celebrated.  You
-    can also read about it in Exodus 12 and Luke 22.
-  video: 1IwMt-KLkSE
+  intro: God has amazing plans for us. All we have to do is trust that He knows
+    what's best. In this video we see how God gave His people special
+    commandments to help them follow Him!
+  video: aX28nAB4S7A
   showsection: true
 specialvideo:
   title: Remembrance Sunday 2020
@@ -16,14 +16,13 @@ specialvideo:
     reflect and remember on Remembrance Sunday.
 blessing:
   heading: Benediction
-  text: To Him who is able to keep you from stumbling and to present you before
-    His glorious presence without fault and with great joy— to the only God our
-    Saviour be glory, majesty, power and authority, through Jesus Christ our
-    Lord, before all ages, now and forevermore! Amen.
+  text: Therefore, my dear brothers and sisters, stand firm. Let nothing move you.
+    Always give yourselves fully to the work of the Lord, because you know that
+    your labour in the Lord is not in vain.
   showsection: true
 pagetitle: Sunday worship
 title: Crossroad Online
-subtitle: Sunday worship - 3rd October 2021
+subtitle: Sunday worship - 10th October 2021
 image: /img/seaton.jpg
 blurb:
   heading: Welcome!
@@ -46,11 +45,11 @@ worshipvideos:
   - video: MERQ0P6O0CE
     title: Jesus be the centre
 sermon:
-  video: G3XPNWTSWy4
+  video: GGM3j3EnSy0
   islive: true
   pinned: true
-  title: Sunday Stream - 26th September 2021
-  intro: Our service this week is led by Jon Sibley with a talk by Jibu Varghese
+  title: Sunday Stream - 10th October 2021
+  intro: Our service this week is led by Jon Sibley with a talk by Dave Shackleton
     and we'll be livestreaming it at 10.30am.
   showsection: true
 ---
