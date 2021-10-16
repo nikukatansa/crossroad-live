@@ -3,10 +3,11 @@ welcome:
   video: LOyUfwdntpA
   showsection: false
 sundayschool:
-  intro: God has amazing plans for us. All we have to do is trust that He knows
-    what's best. In this video we see how God gave His people special
-    commandments to help them follow Him!
-  video: aX28nAB4S7A
+  intro: The Israelites wandered in the desert for forty years on their way from
+    Egypt to the Promised Land. They certainly didn’t pack enough for that whole
+    time! You can find out some of the ways God took care of them in Exodus
+    14-17.
+  video: IzN1ijiFnIA
   showsection: true
 specialvideo:
   title: Remembrance Sunday 2020
@@ -16,13 +17,14 @@ specialvideo:
     reflect and remember on Remembrance Sunday.
 blessing:
   heading: Benediction
-  text: Therefore, my dear brothers and sisters, stand firm. Let nothing move you.
-    Always give yourselves fully to the work of the Lord, because you know that
-    your labour in the Lord is not in vain.
+  text: To Him who is able to keep you from stumbling and to present you before
+    His glorious presence without fault and with great joy— to the only God our
+    Saviour be glory, majesty, power and authority, through Jesus Christ our
+    Lord, before all ages, now and forevermore! Amen.
   showsection: true
 pagetitle: Sunday worship
 title: Crossroad Online
-subtitle: Sunday worship - 10th October 2021
+subtitle: Sunday worship - 17th October 2021
 image: /img/seaton.jpg
 blurb:
   heading: Welcome!
@@ -45,11 +47,11 @@ worshipvideos:
   - video: MERQ0P6O0CE
     title: Jesus be the centre
 sermon:
-  video: GGM3j3EnSy0
+  video: qNaxzmRqZPw
   islive: true
   pinned: true
   title: Sunday Stream - 10th October 2021
-  intro: Our service this week is led by Jon Sibley with a talk by Dave Shackleton
-    and we'll be livestreaming it at 10.30am.
+  intro: Our service this week is led by Jon Sibley with a talk by Ray Hunter and
+    we'll be livestreaming it at 10.30am.
   showsection: true
 ---
