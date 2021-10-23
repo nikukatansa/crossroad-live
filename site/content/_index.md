@@ -3,11 +3,10 @@ welcome:
   video: LOyUfwdntpA
   showsection: false
 sundayschool:
-  intro: The Israelites wandered in the desert for forty years on their way from
-    Egypt to the Promised Land. They certainly didn’t pack enough for that whole
-    time! You can find out some of the ways God took care of them in Exodus
-    14-17.
-  video: IzN1ijiFnIA
+  intro: God had a special plan for His family, but they had a hard time trusting
+    Him. A man named Joshua trusted God with his whole heart, and God chose him
+    to be the new leader...
+  video: wUKWt46vubo
   showsection: true
 specialvideo:
   title: Remembrance Sunday 2020
@@ -17,14 +16,13 @@ specialvideo:
     reflect and remember on Remembrance Sunday.
 blessing:
   heading: Benediction
-  text: To Him who is able to keep you from stumbling and to present you before
-    His glorious presence without fault and with great joy— to the only God our
-    Saviour be glory, majesty, power and authority, through Jesus Christ our
-    Lord, before all ages, now and forevermore! Amen.
+  text: May our Lord Jesus Christ Himself and God our Father, who loved us and by
+    His grace gave us eternal encouragement and good hope, encourage your hearts
+    and strengthen you in every good deed and word.
   showsection: true
 pagetitle: Sunday worship
 title: Crossroad Online
-subtitle: Sunday worship - 17th October 2021
+subtitle: Sunday worship - 24th October 2021
 image: /img/seaton.jpg
 blurb:
   heading: Welcome!
@@ -47,11 +45,11 @@ worshipvideos:
   - video: MERQ0P6O0CE
     title: Jesus be the centre
 sermon:
-  video: qNaxzmRqZPw
+  video: G9O_C5Hz0kI
   islive: true
   pinned: true
-  title: Sunday Stream - 10th October 2021
-  intro: Our service this week is led by Jon Sibley with a talk by Ray Hunter and
-    we'll be livestreaming it at 10.30am.
+  title: Sunday Stream - 24th October 2021
+  intro: Our service this week is led by Rosie Giles with a talk by Jos Edwards
+    from the Bible Society and we'll be livestreaming it at 10.30am.
   showsection: true
 ---
