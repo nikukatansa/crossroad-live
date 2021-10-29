@@ -3,10 +3,10 @@ welcome:
   video: LOyUfwdntpA
   showsection: false
 sundayschool:
-  intro: God had a special plan for His family, but they had a hard time trusting
-    Him. A man named Joshua trusted God with his whole heart, and God chose him
-    to be the new leader...
-  video: wUKWt46vubo
+  intro: When Joshua led God’s family into the promised land, God did something
+    incredible to show His family that He was with them. You can read about it
+    in Joshua 3-4.
+  video: EOTjeK3SJvE
   showsection: true
 specialvideo:
   title: Remembrance Sunday 2020
@@ -16,13 +16,12 @@ specialvideo:
     reflect and remember on Remembrance Sunday.
 blessing:
   heading: Benediction
-  text: May our Lord Jesus Christ Himself and God our Father, who loved us and by
-    His grace gave us eternal encouragement and good hope, encourage your hearts
-    and strengthen you in every good deed and word.
+  text: May the God of hope fill you with all joy and peace as you trust in Him,
+    so that you may overflow with hope by the power of the Holy Spirit.
   showsection: true
 pagetitle: Sunday worship
 title: Crossroad Online
-subtitle: Sunday worship - 24th October 2021
+subtitle: Sunday worship - 31st October 2021
 image: /img/seaton.jpg
 blurb:
   heading: Welcome!
@@ -45,11 +44,11 @@ worshipvideos:
   - video: MERQ0P6O0CE
     title: Jesus be the centre
 sermon:
-  video: G9O_C5Hz0kI
+  video: q3PoaYQs7_4
   islive: true
   pinned: true
-  title: Sunday Stream - 24th October 2021
-  intro: Our service this week is led by Rosie Giles with a talk by Jos Edwards
-    from the Bible Society and we'll be livestreaming it at 10.30am.
+  title: Sunday Stream - 31st October 2021
+  intro: Our service this week is led by Jibu Varghese with a talk by Dick Bell
+    and we'll be livestreaming it at 10.30am.
   showsection: true
 ---
