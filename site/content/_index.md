@@ -3,10 +3,11 @@ welcome:
   video: LOyUfwdntpA
   showsection: false
 sundayschool:
-  intro: Joshua led God’s family into the land God had promised many years
-    earlier. He also learned firsthand that God is always with us––and there’s
-    nothing we have to fear.
-  video: ruqGz1480uc
+  intro: For a period of time, God chose people called judges to lead his family,
+    and one of them was called Deborah. A judge’s job was to remind God’s family
+    to follow God. When God’s family obeyed, they experienced years of peace.
+    You can read all about Deborah in Judges 4-5.
+  video: GakKDNn2_YE
   showsection: true
 specialvideo:
   title: Remembrance Sunday 2020
@@ -16,14 +17,14 @@ specialvideo:
     reflect and remember on Remembrance Sunday.
 blessing:
   heading: Benediction
-  text: Now to Him who is able to do immeasurably more than all we ask or imagine,
-    according to His power that is at work within us, to Him be glory in the
-    church and in Christ Jesus throughout all generations, for ever and ever!
-    Amen.
+  text: To Him who is able to keep you from stumbling and to present you before
+    His glorious presence without fault and with great joy— to the only God our
+    Saviour be glory, majesty, power and authority, through Jesus Christ our
+    Lord, before all ages, now and forevermore! Amen.
   showsection: true
 pagetitle: Sunday worship
 title: Crossroad Online
-subtitle: Sunday worship - 7th November 2021
+subtitle: Sunday worship - 14th November 2021
 image: /img/seaton.jpg
 blurb:
   heading: Welcome!
@@ -46,10 +47,10 @@ worshipvideos:
   - video: MERQ0P6O0CE
     title: Jesus be the centre
 sermon:
-  video: VdhqVo6jJv4
+  video: uVXUps438wI
   islive: true
   pinned: true
-  title: Sunday Stream - 7th November 2021
+  title: Sunday Stream - 14th November 2021
   intro: Our service this week is led by Jon Sibley and we'll be livestreaming it
     at 10.30am.
   showsection: true
