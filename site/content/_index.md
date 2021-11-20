@@ -3,11 +3,11 @@ welcome:
   video: LOyUfwdntpA
   showsection: false
 sundayschool:
-  intro: For a period of time, God chose people called judges to lead his family,
-    and one of them was called Deborah. A judge’s job was to remind God’s family
-    to follow God. When God’s family obeyed, they experienced years of peace.
-    You can read all about Deborah in Judges 4-5.
-  video: GakKDNn2_YE
+  intro: When God rescued his family from a nation called Midian, he did it
+    through a guy named Gideon. At first, Gideon didn’t think he was strong
+    enough to lead God’s people, but God gave him the strength and help he
+    needed. You can read about Gideon in Judges 6-7.
+  video: U68cIMZSgvQ
   showsection: true
 specialvideo:
   title: Remembrance Sunday 2020
@@ -17,14 +17,14 @@ specialvideo:
     reflect and remember on Remembrance Sunday.
 blessing:
   heading: Benediction
-  text: To Him who is able to keep you from stumbling and to present you before
-    His glorious presence without fault and with great joy— to the only God our
-    Saviour be glory, majesty, power and authority, through Jesus Christ our
-    Lord, before all ages, now and forevermore! Amen.
+  text: May the God who gives endurance and encouragement give you the same
+    attitude of mind toward each other that Christ Jesus had, so that with one
+    mind and one voice you may glorify the God and Father of our Lord Jesus
+    Christ.
   showsection: true
 pagetitle: Sunday worship
 title: Crossroad Online
-subtitle: Sunday worship - 14th November 2021
+subtitle: Sunday worship - 21st November 2021
 image: /img/seaton.jpg
 blurb:
   heading: Welcome!
@@ -47,11 +47,11 @@ worshipvideos:
   - video: MERQ0P6O0CE
     title: Jesus be the centre
 sermon:
-  video: uVXUps438wI
+  video: yLTWZGF989c
   islive: true
   pinned: true
-  title: Sunday Stream - 14th November 2021
-  intro: Our service this week is led by Jon Sibley and we'll be livestreaming it
-    at 10.30am.
+  title: Sunday Stream - 21st November 2021
+  intro: Our service this week is led by Jon Sibley with a talk by Louise Sibley
+    and we'll be livestreaming it at 10.30am.
   showsection: true
 ---
