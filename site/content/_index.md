@@ -3,9 +3,10 @@ welcome:
   video: LOyUfwdntpA
   showsection: false
 sundayschool:
-  intro: When a woman named Ruth decided she wanted to follow God, she got to be
-    part of God’s family. You can read her whole story in the book of Ruth.
-  video: irThVpdeSXk
+  intro: Once a young boy named David defeated a giant who was over nine feet
+    tall. You can read the story of what happened when David agreed to take on
+    Goliath in 1 Samuel 17.
+  video: 7zLAcUZkxHA
   showsection: true
 specialvideo:
   title: Remembrance Sunday 2020
@@ -15,14 +16,14 @@ specialvideo:
     reflect and remember on Remembrance Sunday.
 blessing:
   heading: Benediction
-  text: To Him who is able to keep you from stumbling and to present you before
-    His glorious presence without fault and with great joy— to the only God our
-    Saviour be glory, majesty, power and authority, through Jesus Christ our
-    Lord, before all ages, now and forevermore! Amen.
+  text: May the God who gives endurance and encouragement give you the same
+    attitude of mind toward each other that Christ Jesus had, so that with one
+    mind and one voice you may glorify the God and Father of our Lord Jesus
+    Christ.
   showsection: true
 pagetitle: Sunday worship
 title: Crossroad Online
-subtitle: Sunday worship - 28th November 2021
+subtitle: Sunday worship - 5th December 2021
 image: /img/seaton.jpg
 blurb:
   heading: Welcome!
@@ -45,11 +46,11 @@ worshipvideos:
   - video: MERQ0P6O0CE
     title: Jesus be the centre
 sermon:
-  video: T1KEt9qXa0w
+  video: fc62ZAyZZUI
   islive: true
   pinned: true
-  title: Sunday Stream - 28th November 2021
-  intro: Our service this week is led by Jon Sibley and we'll be livestreaming it
-    at 10.30am.
+  title: Sunday Stream - 5th December 2021
+  intro: Our service this week is led by Jon Sibley with a talk by John Smith and
+    we'll be livestreaming it at 10.30am.
   showsection: true
 ---
