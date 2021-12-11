@@ -3,10 +3,11 @@ welcome:
   video: LOyUfwdntpA
   showsection: false
 sundayschool:
-  intro: Once a young boy named David defeated a giant who was over nine feet
-    tall. You can read the story of what happened when David agreed to take on
-    Goliath in 1 Samuel 17.
-  video: 7zLAcUZkxHA
+  intro: "You may have heard of David before: the little shepherd boy who stood up
+    to the massive warrior Goliath and won. But that isn’t the whole story; in
+    fact, that’s really only a part of it. The rest of the story starts with a
+    man named Saul."
+  video: OnNXbj6udy4
   showsection: true
 specialvideo:
   title: Remembrance Sunday 2020
@@ -16,14 +17,12 @@ specialvideo:
     reflect and remember on Remembrance Sunday.
 blessing:
   heading: Benediction
-  text: May the God who gives endurance and encouragement give you the same
-    attitude of mind toward each other that Christ Jesus had, so that with one
-    mind and one voice you may glorify the God and Father of our Lord Jesus
-    Christ.
+  text: The Lord bless you and keep you; the Lord make his face shine on you and
+    be gracious to you; the Lord turn his face toward you and give you peace.
   showsection: true
 pagetitle: Sunday worship
 title: Crossroad Online
-subtitle: Sunday worship - 5th December 2021
+subtitle: Sunday worship - 12th December 2021
 image: /img/seaton.jpg
 blurb:
   heading: Welcome!
@@ -46,11 +45,11 @@ worshipvideos:
   - video: MERQ0P6O0CE
     title: Jesus be the centre
 sermon:
-  video: fc62ZAyZZUI
+  video: fBnr5V97X0o
   islive: true
   pinned: true
-  title: Sunday Stream - 5th December 2021
-  intro: Our service this week is led by Jon Sibley with a talk by John Smith and
+  title: Sunday Stream - 12th December 2021
+  intro: Our service this week is led by Jon Sibley with a talk by Rosie Giles and
     we'll be livestreaming it at 10.30am.
   showsection: true
 ---
