@@ -3,11 +3,11 @@ welcome:
   video: LOyUfwdntpA
   showsection: false
 sundayschool:
-  intro: "You may have heard of David before: the little shepherd boy who stood up
-    to the massive warrior Goliath and won. But that isn’t the whole story; in
-    fact, that’s really only a part of it. The rest of the story starts with a
-    man named Saul."
-  video: OnNXbj6udy4
+  intro: People had been waiting a long time for the Rescuer God had promised.
+    Through people like Zechariah, Elizabeth, John and Simeon and events like
+    Jesus’ family’s escape to Egypt and their return to Nazareth, God made it
+    clear that baby Jesus was the Rescuer.
+  video: nk58bHnJLD4
   showsection: true
 specialvideo:
   title: Remembrance Sunday 2020
@@ -17,12 +17,12 @@ specialvideo:
     reflect and remember on Remembrance Sunday.
 blessing:
   heading: Benediction
-  text: The Lord bless you and keep you; the Lord make his face shine on you and
-    be gracious to you; the Lord turn his face toward you and give you peace.
+  text: May the God of hope fill you with all joy and peace as you trust in Him,
+    so that you may overflow with hope by the power of the Holy Spirit.
   showsection: true
 pagetitle: Sunday worship
 title: Crossroad Online
-subtitle: Sunday worship - 12th December 2021
+subtitle: Sunday worship - 19th December 2021
 image: /img/seaton.jpg
 blurb:
   heading: Welcome!
@@ -45,11 +45,11 @@ worshipvideos:
   - video: MERQ0P6O0CE
     title: Jesus be the centre
 sermon:
-  video: fBnr5V97X0o
+  video: AKhKUp19Zuo
   islive: true
   pinned: true
-  title: Sunday Stream - 12th December 2021
-  intro: Our service this week is led by Jon Sibley with a talk by Rosie Giles and
-    we'll be livestreaming it at 10.30am.
+  title: Sunday Stream - 19th December 2021
+  intro: Our service this week is led by Jon Sibley and we'll be livestreaming it
+    at 10.30am.
   showsection: true
 ---
