@@ -3,11 +3,10 @@ welcome:
   video: LOyUfwdntpA
   showsection: false
 sundayschool:
-  intro: People had been waiting a long time for the Rescuer God had promised.
-    Through people like Zechariah, Elizabeth, John and Simeon and events like
-    Jesus’ family’s escape to Egypt and their return to Nazareth, God made it
-    clear that baby Jesus was the Rescuer.
-  video: nk58bHnJLD4
+  intro: Following God is exciting, but that doesn’t mean it’s easy. Elijah’s
+    story is an example of this. You can read his whole story in 1 Kings 17:1 -
+    2 Kings 2.
+  video: 2T5gAXoerjw
   showsection: true
 specialvideo:
   title: Remembrance Sunday 2020
@@ -17,12 +16,14 @@ specialvideo:
     reflect and remember on Remembrance Sunday.
 blessing:
   heading: Benediction
-  text: May the God of hope fill you with all joy and peace as you trust in Him,
-    so that you may overflow with hope by the power of the Holy Spirit.
+  text: Now to Him who is able to do immeasurably more than all we ask or imagine,
+    according to His power that is at work within us, to Him be glory in the
+    church and in Christ Jesus throughout all generations, for ever and ever!
+    Amen.
   showsection: true
 pagetitle: Sunday worship
 title: Crossroad Online
-subtitle: Sunday worship - 19th December 2021
+subtitle: Sunday worship - 2nd January 2022
 image: /img/seaton.jpg
 blurb:
   heading: Welcome!
@@ -45,10 +46,10 @@ worshipvideos:
   - video: MERQ0P6O0CE
     title: Jesus be the centre
 sermon:
-  video: AKhKUp19Zuo
+  video: dOxDaxMyr5E
   islive: true
   pinned: true
-  title: Sunday Stream - 19th December 2021
+  title: Sunday Stream - 2nd January 2022
   intro: Our service this week is led by Jon Sibley and we'll be livestreaming it
     at 10.30am.
   showsection: true
