@@ -3,10 +3,11 @@ welcome:
   video: LOyUfwdntpA
   showsection: false
 sundayschool:
-  intro: God told Jonah to deliver a message to the people of Ninevah but, instead
-    of going straight there, Jonah started off by running the opposite way.  You
-    can read the full story in the book of Jonah.
-  video: jO2QsF_nnIU
+  intro: Prophets are people who hear from God and then share His message.  In the
+    Bible there are 16 prophets with books named after them, from Isaiah through
+    to Malachi.  In this video we take a look at what God was saying to His
+    people through them
+  video: sumaXbjP2Kg
   showsection: true
 specialvideo:
   title: Remembrance Sunday 2020
@@ -16,13 +17,12 @@ specialvideo:
     reflect and remember on Remembrance Sunday.
 blessing:
   heading: Benediction
-  text: Therefore, my dear brothers and sisters, stand firm. Let nothing move you.
-    Always give yourselves fully to the work of the Lord, because you know that
-    your labour in the Lord is not in vain.
+  text: The Lord bless you and keep you; the Lord make His face shine on you and
+    be gracious to you; the Lord turn His face toward you and give you peace.
   showsection: true
 pagetitle: Sunday worship
 title: Crossroad Online
-subtitle: Sunday worship - 9th January 2022
+subtitle: Sunday worship - 16th January 2022
 image: /img/seaton.jpg
 blurb:
   heading: Welcome!
@@ -45,10 +45,10 @@ worshipvideos:
   - video: MERQ0P6O0CE
     title: Jesus be the centre
 sermon:
-  video: iUtCBrMJFZk
+  video: bDNqLYvbIvY
   islive: true
   pinned: true
-  title: Sunday Stream - 9th January 2022
+  title: Sunday Stream - 16th January 2022
   intro: Our service this week is led by Jon Sibley and we'll be livestreaming it
     at 10.30am.
   showsection: true
