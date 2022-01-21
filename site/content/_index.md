@@ -3,11 +3,9 @@ welcome:
   video: LOyUfwdntpA
   showsection: false
 sundayschool:
-  intro: Prophets are people who hear from God and then share His message.  In the
-    Bible there are 16 prophets with books named after them, from Isaiah through
-    to Malachi.  In this video we take a look at what God was saying to His
-    people through them
-  video: sumaXbjP2Kg
+  intro: Josiah was a faithful king who followed God's word no matter what.  You
+    can read his story in 2 Kings 22.
+  video: 6C4MEXXbBmM
   showsection: true
 specialvideo:
   title: Remembrance Sunday 2020
@@ -17,12 +15,14 @@ specialvideo:
     reflect and remember on Remembrance Sunday.
 blessing:
   heading: Benediction
-  text: The Lord bless you and keep you; the Lord make His face shine on you and
-    be gracious to you; the Lord turn His face toward you and give you peace.
+  text: Now to Him who is able to do immeasurably more than all we ask or imagine,
+    according to His power that is at work within us, to Him be glory in the
+    church and in Christ Jesus throughout all generations, for ever and ever!
+    Amen.
   showsection: true
 pagetitle: Sunday worship
 title: Crossroad Online
-subtitle: Sunday worship - 16th January 2022
+subtitle: Sunday worship - 23rd January 2022
 image: /img/seaton.jpg
 blurb:
   heading: Welcome!
@@ -45,11 +45,11 @@ worshipvideos:
   - video: MERQ0P6O0CE
     title: Jesus be the centre
 sermon:
-  video: bDNqLYvbIvY
+  video: rOuZ0BH46IU
   islive: true
   pinned: true
-  title: Sunday Stream - 16th January 2022
-  intro: Our service this week is led by Jon Sibley and we'll be livestreaming it
-    at 10.30am.
+  title: Sunday Stream - 23rd January 2022
+  intro: Our service this week is led by Jon Sibley, with a talk by Jibu Varghese,
+    and we'll be livestreaming it at 10.30am.
   showsection: true
 ---
