@@ -3,9 +3,10 @@ welcome:
   video: LOyUfwdntpA
   showsection: false
 sundayschool:
-  intro: Josiah was a faithful king who followed God's word no matter what.  You
-    can read his story in 2 Kings 22.
-  video: 6C4MEXXbBmM
+  intro: Daniel worked for several kings of Babylon. But he obeyed God, even when
+    that meant disobeying the king. You can read his whole story in the book of
+    Daniel in the Bible.
+  video: GY0pARvYcyw
   showsection: true
 specialvideo:
   title: Remembrance Sunday 2020
@@ -15,14 +16,15 @@ specialvideo:
     reflect and remember on Remembrance Sunday.
 blessing:
   heading: Benediction
-  text: Now to Him who is able to do immeasurably more than all we ask or imagine,
-    according to His power that is at work within us, to Him be glory in the
-    church and in Christ Jesus throughout all generations, for ever and ever!
-    Amen.
+  text: Now may the God of peace, who through the blood of the eternal covenant
+    brought back from the dead our Lord Jesus, that great Shepherd of the sheep,
+    equip you with everything good for doing His will, and may He work in us
+    what is pleasing to Him, through Jesus Christ, to whom be glory for ever and
+    ever. Amen.
   showsection: true
 pagetitle: Sunday worship
 title: Crossroad Online
-subtitle: Sunday worship - 23rd January 2022
+subtitle: Sunday worship - 30th January 2022
 image: /img/seaton.jpg
 blurb:
   heading: Welcome!
@@ -45,11 +47,11 @@ worshipvideos:
   - video: MERQ0P6O0CE
     title: Jesus be the centre
 sermon:
-  video: rOuZ0BH46IU
+  video: -xGvztOBQrg
   islive: true
   pinned: true
-  title: Sunday Stream - 23rd January 2022
-  intro: Our service this week is led by Jon Sibley, with a talk by Jibu Varghese,
-    and we'll be livestreaming it at 10.30am.
+  title: Sunday Stream - 30th January 2022
+  intro: Our service this week is led by Jon Sibley and we'll be livestreaming it
+    at 10.30am.
   showsection: true
 ---
