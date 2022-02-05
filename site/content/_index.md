@@ -3,10 +3,9 @@ welcome:
   video: LOyUfwdntpA
   showsection: false
 sundayschool:
-  intro: Daniel worked for several kings of Babylon. But he obeyed God, even when
-    that meant disobeying the king. You can read his whole story in the book of
-    Daniel in the Bible.
-  video: GY0pARvYcyw
+  intro: Queen Esther rescued God’s special family from a law that would have
+    destroyed them. You can read her whole story in the book of Esther...
+  video: ZXp41Npw_Uw
   showsection: true
 specialvideo:
   title: Remembrance Sunday 2020
@@ -16,15 +15,14 @@ specialvideo:
     reflect and remember on Remembrance Sunday.
 blessing:
   heading: Benediction
-  text: Now may the God of peace, who through the blood of the eternal covenant
-    brought back from the dead our Lord Jesus, that great Shepherd of the sheep,
-    equip you with everything good for doing His will, and may He work in us
-    what is pleasing to Him, through Jesus Christ, to whom be glory for ever and
-    ever. Amen.
+  text: To Him who is able to keep you from stumbling and to present you before
+    His glorious presence without fault and with great joy— to the only God our
+    Saviour be glory, majesty, power and authority, through Jesus Christ our
+    Lord, before all ages, now and forevermore! Amen.
   showsection: true
 pagetitle: Sunday worship
 title: Crossroad Online
-subtitle: Sunday worship - 30th January 2022
+subtitle: Sunday worship - 6th February 2022
 image: /img/seaton.jpg
 blurb:
   heading: Welcome!
@@ -47,10 +45,10 @@ worshipvideos:
   - video: MERQ0P6O0CE
     title: Jesus be the centre
 sermon:
-  video: -xGvztOBQrg
+  video: w_J1v50yhqQ
   islive: true
   pinned: true
-  title: Sunday Stream - 30th January 2022
+  title: Sunday Stream - 6th February 2022
   intro: Our service this week is led by Jon Sibley and we'll be livestreaming it
     at 10.30am.
   showsection: true
