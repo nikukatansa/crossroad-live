@@ -3,9 +3,10 @@ welcome:
   video: LOyUfwdntpA
   showsection: false
 sundayschool:
-  intro: Queen Esther rescued God’s special family from a law that would have
-    destroyed them. You can read her whole story in the book of Esther...
-  video: ZXp41Npw_Uw
+  intro: God wants to make old things new and fix things that are broken. That’s
+    good news for us! You can learn more about it in the book of Nehemiah and 2
+    Corinthians 5:17.
+  video: HdDvqWtVkro
   showsection: true
 specialvideo:
   title: Remembrance Sunday 2020
@@ -15,14 +16,13 @@ specialvideo:
     reflect and remember on Remembrance Sunday.
 blessing:
   heading: Benediction
-  text: To Him who is able to keep you from stumbling and to present you before
-    His glorious presence without fault and with great joy— to the only God our
-    Saviour be glory, majesty, power and authority, through Jesus Christ our
-    Lord, before all ages, now and forevermore! Amen.
+  text: May our Lord Jesus Christ Himself and God our Father, who loved us and by
+    His grace gave us eternal encouragement and good hope, encourage your hearts
+    and strengthen you in every good deed and word.
   showsection: true
 pagetitle: Sunday worship
 title: Crossroad Online
-subtitle: Sunday worship - 6th February 2022
+subtitle: Sunday worship - 13th February 2022
 image: /img/seaton.jpg
 blurb:
   heading: Welcome!
@@ -45,10 +45,10 @@ worshipvideos:
   - video: MERQ0P6O0CE
     title: Jesus be the centre
 sermon:
-  video: w_J1v50yhqQ
+  video: DfVSQBm_Exw
   islive: true
   pinned: true
-  title: Sunday Stream - 6th February 2022
+  title: Sunday Stream - 13th February 2022
   intro: Our service this week is led by Jon Sibley and we'll be livestreaming it
     at 10.30am.
   showsection: true
