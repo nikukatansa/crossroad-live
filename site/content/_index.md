@@ -7,7 +7,7 @@ sundayschool:
     threatened with destruction and she ended up saving them.  You can read her
     story in the book of Esther.
   video: KPDRmkh7J9c
-  showsection: true
+  showsection: false
 specialvideo:
   title: Remembrance Sunday 2020
   showsection: false
@@ -18,10 +18,10 @@ blessing:
   heading: Benediction
   text: May the God of hope fill you with all joy and peace as you trust in Him,
     so that you may overflow with hope by the power of the Holy Spirit.
-  showsection: true
+  showsection: false
 pagetitle: Sunday worship
 title: Crossroad Online
-subtitle: Sunday worship - 20th February 2022
+subtitle: Sunday worship - 27th February 2022
 image: /img/seaton.jpg
 blurb:
   heading: Welcome!
@@ -44,10 +44,10 @@ worshipvideos:
   - video: MERQ0P6O0CE
     title: Jesus be the centre
 sermon:
-  video: V-7awE_Ibqc
+  video: X7vxFqUIBjA
   islive: true
   pinned: true
-  title: Sunday Stream - 20th February 2022
+  title: Sunday Stream - 27th February 2022
   intro: Our service this week is led by Jon Sibley and we'll be livestreaming it
     at 10.30am.
   showsection: true
